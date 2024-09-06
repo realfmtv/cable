@@ -208,7 +208,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 98 | Clover Channel
 http://177.234.230.226:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 99 | Universal TV
-http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
+http://190.61.55.186:1010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Crime" tvg-name="USA | Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="PELICULAS Y SERIES", 100 | Universal Crime
 http://177.53.153.20:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal Cinema" tvg-name="USA | Universal Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png" group-title="PELICULAS Y SERIES", 101 | Universal Cinema
