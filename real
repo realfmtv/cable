@@ -591,7 +591,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 https://ott1.hdlatam.tv/live/cajamarca/RTVC/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | CNC" tvg-name="PE | CNC" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="REGIONALES", 289 | CNC || Cajamarca
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="PE | Cutervo TV" tvg-name="PE | Cutervo TV" tvg-logo="https://pbs.twimg.com/media/GZasD-XWcAAdWWO?format=png&name=small" group-title="REGIONALES", 290 | Cutervo TV || Cutervo
+#EXTINF:-1 tvg-id="PE | Calu TV" tvg-name="PE | Calu TV" tvg-logo="https://pbs.twimg.com/media/GZcxskGWEAAWNow?format=png&name=small" group-title="REGIONALES", 290 | Calu TV || Cajabamba
 https://mc.servidor.stream:19360/8256/8256.m3u8
 #EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" tvg-logo="https://yt3.ggpht.com/x3C0xu-ay9CuUpMSJXpuCJpMbkEKpyxhLDuJxACa3eUqozbJ2Od8VlGMWgbDt4WZnTB_EwTy=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 291 | XTV || Jaen
 https://live.obslivestream.com/xtv/index.m3u8
