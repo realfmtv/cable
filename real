@@ -17,8 +17,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Peru Noticias" tvg-name="PE | TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Peru Noticias
 http://bantel-cdn1.iptvperu.tv:1935/nacls_mov/tvperunoticiasmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/canaldelcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="PERU", 8 | Conectad2 Television
 https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television" tvg-name="PE | Andina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
@@ -113,6 +111,8 @@ https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-id="PE | Frecuencia Amazonica TV" tvg-name="PE | Frecuencia Amazonica TV" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="REGIONALES", 51 | Frecuencia Amazonica TV || Yurimaguas
 https://tv1.mediacp.eu:3342/live/vvzexjoelive.m3u8
+#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="REGIONALES", En prueba | Viva TV || Yurimaguas
+https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia TV" tvg-logo="https://pbs.twimg.com/media/GZV9300XcAA9HmG?format=png&name=900x900" group-title="REGIONALES", 52 | Amazonia TV || Yurimaguas
 https://servilive.com:3199/live/amazoniatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | CNC Digital" tvg-name="PE | CNC Digital" tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ=w240-h480-rw" group-title="REGIONALES", 53 | CNC Digital || Iquitos
@@ -615,6 +615,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/playlist.m3u8
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Canal 33 TV Sat" tvg-name="PE | Canal 33 TV Sat" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="REGIONALES", 301 | Canal 33 TV Sat || Ayacucho
 https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8
+#EXTINF:-1 tvg-id="PE | Solar Television" tvg-name="PE | Solar Television" tvg-logo="https://pbs.twimg.com/media/GaQDl2EXMAARsrV?format=png&name=240x240" group-title="REGIONALES", En prueba | Solar Television || Abancay
+https://live-evg25.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | CTC" tvg-name="PE | CTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Compa%C3%B1%C3%ADa_de_Televisi%C3%B3n_Cusque%C3%B1a.jpg/revision/latest?cb=20221127014959&path-prefix=es" group-title="REGIONALES", 302 | CTC || Cuzco
 https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Inkavisión" tvg-name="PE | Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="REGIONALES", 303 | Inkavisión || Cuzco
@@ -633,6 +635,8 @@ https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/TVMUNDOCUZCO.png" group-title="REGIONALES", 310 | TV Mundo || Cuzco
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", En prueba | Solar TV || Cuzco
+https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andes TV" tvg-name="PE | Andes TV" tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png" group-title="REGIONALES", 311 | Andes Televisión || Sicuani
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tropical TV" tvg-name="PE | Tropical TV" tvg-logo="https://pbs.twimg.com/media/FSNe1ybXIAAz2_e?format=jpg&name=small" group-title="REGIONALES", 312 | Tropical TV || Puerto Maldonado
