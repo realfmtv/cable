@@ -189,8 +189,10 @@ http://160.20.165.246:8000/play/a006/index.m3u8
 http://160.20.165.246:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Cinema" tvg-name="MX | Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" group-title="PELICULAS Y SERIES", 89 | Cinema
 http://bantel.iptvperu.tv:1935/astralocal/CINELATINO/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVgKgoMnvikMau7Cg9jsbFWr99Qe7Zl11Aw&s" group-title="PELICULAS Y SERIES", 90 | Cinema +
+#EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVgKgoMnvikMau7Cg9jsbFWr99Qe7Zl11Aw&s" group-title="PELICULAS Y SERIES", En prueba | Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 90 | Multipremier
+http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal MC" tvg-name="MX | Canal MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="PELICULAS Y SERIES", 91 | Canal MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="CL | Terror TV" tvg-name="CL | Terror TV" tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png" group-title="PELICULAS Y SERIES", 92 | Terror TV
