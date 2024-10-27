@@ -2115,8 +2115,8 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8
 https://stream-156.zeno.fm/n0fc3vk78ehvv?zs=o9LAymxmR4SvSeTlWMOFpA
 #EXTINF:-1 tvg-id="PE | Radio La Zona" tvg-name="PE | Radio La Zona" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lazona.png" group-title="EMISORAS NACIONALES", 1164 | Radio La Zona 90.5 FM || Lima; Perú
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=sV9sFat6DZCsvL6yFENcp7n1eAygjKn8&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1697712081985&ot=94-ySQ45D-482GsTuxZkAg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="PE | Radio San Borja" tvg-name="PE | Radio San Borja" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FTf7VRjMbe.png" group-title="EMISORAS NACIONALES", 1165 | Radio San Borja 91.1 FM || Lima; Perú
-https://5c3fb01839654.streamlock.net:1963/ipradiosanborja/livesanborjaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Radio Vital FM" tvg-name="PE | Radio Vital FM" tvg-logo="https://vitalfm.pe/wp-content/uploads/2024/04/logob.png" group-title="EMISORAS NACIONALES", 1165 | Radio Vital 91.1 FM || Lima; Perú
+https://cast.vox.live7.la:8501/stream
 #EXTINF:-1 tvg-id="PE | Radio PBO" tvg-name="PE | Radio PBO" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo.jpg" group-title="EMISORAS NACIONALES", 1166 | Radio PBO 91.9 FM || Lima; Perú
 https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
 #EXTINF:-1 tvg-id="PE | Radio Studio 92" tvg-name="PE | Radio Studio 92" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_studio92.png" group-title="EMISORAS NACIONALES", 1167 | Radio Studio 92 92.5 FM || Lima; Perú
@@ -2127,13 +2127,13 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
 #EXTINF:-1 tvg-id="PE | Radio Corazon" tvg-name="PE | Radio Corazon" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png" group-title="EMISORAS NACIONALES", 1170 | Radio Corazón 94.3 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=fygorKayYivBVQrKQA8KqwMnkwJY4z4l&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712244290&ot=A1yosuo0aFO-dnZjfsZRog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
-#EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LOGO_RADIO_KARIBE%C3%91A.png/225px-LOGO_RADIO_KARIBE%C3%91A.png" group-title="EMISORAS NACIONALES", 1171 | Radio La Karibeña 94.9 FM || Lima; Perú
-https://stream.cusac.online/26fea3af-c83a-4d7e-9d15
+#EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWYt5UULg05WKrkUudWfsRNxyMdtj5mahkQ&s" group-title="EMISORAS NACIONALES", 1171 | Radio La Karibeña 94.9 FM || Lima; Perú
+https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
 #EXTINF:-1 tvg-id="PE | Radio Exitosa" tvg-name="PE | Radio Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/225px-Logoexitosa.png" group-title="EMISORAS NACIONALES", 1172 | Radio Exitosa 95.5 FM || Lima; Perú
-https://exitosa.cusac.online/79525baf-b0f5-4013-a8bd-3c5c293c6561
-#EXTINF:-1 tvg-id="PE | Radio La Kalle" tvg-name="PE | Radio La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LOGO-CON-SLOGAN1-e1513719885620.png/225px-LOGO-CON-SLOGAN1-e1513719885620.png" group-title="EMISORAS NACIONALES", 1173 | Radio La Kalle 96.1 FM || Lima; Perú
-https://stream.cusac.online/a8bd-3c5c293c6561
-#EXTINF:-1 tvg-id="PE | Radio La MegaMix" tvg-name="PE | Radio La MegaMix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Radio_La_Mega_Mix.jpg/225px-Radio_La_Mega_Mix.jpg" group-title="EMISORAS NACIONALES", 1174 | Radio La MegaMix 96.7 FM y 1470 AM || Lima; Perú
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1 tvg-id="PE | Radio La Kalle" tvg-name="PE | Radio La Kalle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/LOGO-CON-SLOGAN1-e1513719885620.png/225px-LOGO-CON-SLOGAN1-e1513719885620.png" group-title="EMISORAS NACIONALES", 1173 | Radio La Kalle 96.1 FM || Lima; Perú 
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
+#EXTINF:-1 tvg-id="PE | Radio La MegaMix" tvg-name="PE | Radio La MegaMix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzizC9fG8X6GLk67DbYwLFuvE1I9dpUok1w&s" group-title="EMISORAS NACIONALES", 1174 | Radio La MegaMix 96.7 FM y 1470 AM || Lima; Perú
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=646ef88900a9f392_25393285_NXYvjMc2_ZWMyLTMtODYtNTctNDAuY29tcHV0ZS0xLmFtYXpvbmF3cy5jb206ODAwMA!!_000000pRfsR&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&pid=fDAkktfuChs4Ol5IRRKuOgb6MGK4p3K9&sid=Sx33V1fh1YLlsTYcLDphGuYwS3JySGAi&uid=Kyb70UbJxJmDFJpTqKYPnACC95As1h2C&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1710473870463&ot=nCyHS3hQolg-ZTJ0CYfGUQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Fradios.com.pe%2F&listenerId=Kyb70UbJxJmDFJpTqKYPnACC95As1h2C
 #EXTINF:-1 tvg-id="PE | Radio Moda" tvg-name="PE | Radio Moda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Moda_2018.png/225px-Moda_2018.png" group-title="EMISORAS NACIONALES", 1175 | Radio Moda 97.3 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
@@ -2145,9 +2145,9 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/65af09faa17967560a0c8d
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b7aa2d0a19028625b2a7?aid=658ddcc0b2c7835d48fee06d&pid=qEO82SH4RiAXHhRC1Q826AXTDuqwgFu3&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170265919&ot=a2AoeQpUcI_ckqH-lHl7zA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b7aa2d0a19028625b2a7&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Doble Nueve" tvg-name="PE | Radio Doble Nueve" tvg-logo="https://radiosperu.net/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-doble-nueve.png?itok=IC3yv-Om" group-title="EMISORAS NACIONALES", 1179 | Radio Doble Nueve 99.1 FM || Lima; Perú
 http://149.56.241.147:8002/stream
-#EXTINF:-1 tvg-id="PE | Radio Bethel" tvg-name="PE | Radio Bethel" tvg-logo="https://bethelradio.fm/images/logo-bethel.svg" group-title="EMISORAS NACIONALES", 1180 | Radio Bethel 100.1 FM y 660 AM || Lima; Perú
-https://tampa.audio-stream.com/proxy/bethelra?mp=/stream
-#EXTINF:-1 tvg-id="PE | Radio Panamericana" tvg-name="PE | Radio Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo-2023.png" group-title="EMISORAS NACIONALES", 1181 | Radio Panamericana 101.1 FM y 960 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Bethel" tvg-name="PE | Radio Bethel" tvg-logo="https://mixlr-assets.s3.amazonaws.com/users/e82620d28a13927f2821903d6bcd31c8/thumb.png?1321808909" group-title="EMISORAS NACIONALES", 1180 | Radio Bethel 100.1 FM y 660 AM || Lima; Perú
+https://stre.vox.bethelradio.live7.la:7982/stream
+#EXTINF:-1 tvg-id="PE | Radio Panamericana" tvg-name="PE | Radio Panamericana" tvg-logo="https://www.radiopanamericana.com/wp-content/uploads/2024/05/screenshot.png" group-title="EMISORAS NACIONALES", 1181 | Radio Panamericana 101.1 FM y 960 AM || Lima; Perú
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=zXKd6u7P87EiWoK1ehUGRwi8bagVqbW7&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170129466&ot=a84Nf4wBpIk4nsTVd6H7dw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Radio Panamericana Retro Rock" tvg-name="PE | Radio Panamericana Retro Rock" tvg-logo="https://www.epafm.pe/images/logo_panamericana-retro-rock.png" group-title="EMISORAS NACIONALES", 1182 | Radio Panamericana Retro Rock || Lima; Perú
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a?aid=658ddcc0b2c7835d48fee06d&pid=uMb8085w7DJ01tQvZfmjRsM0dCNe4i9r&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1708170108680&ot=meOIctqTUY2SCOX-WAd1lg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b728d982060896866b8a&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
@@ -2171,7 +2171,7 @@ https://mediastreamm.com:7028/stream
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
 #EXTINF:-1 tvg-id="PE | Radio Nueva Q" tvg-name="PE | Radio Nueva Q" tvg-logo="https://mmo.aiircdn.com/766/6409e2eea33c6.png" group-title="EMISORAS NACIONALES", 1192 | Radio Nueva Q 107.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-id="PE | Radio Planeta" tvg-name="PE | Radio Planeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Planeta_2012.png/225px-Planeta_2012.png" group-title="EMISORAS NACIONALES", 1193 | Radio Planeta 107.7 FM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Planeta" tvg-name="PE | Radio Planeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Planetalogo.jpg" group-title="EMISORAS NACIONALES", 1193 | Radio Planeta 107.7 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
 #EXTINF:-1 tvg-id="PE | Radio Incasat" tvg-name="PE | Radio Incasat" tvg-logo="https://mmo.aiircdn.com/766/651b491a7080a.png" group-title="EMISORAS NACIONALES", 1194 | Radio Incasat 540 AM || Lima; Perú
 https://19473.live.streamtheworld.com/CRP_INC.mp3?_=544401
@@ -2189,9 +2189,9 @@ https://us3freenew.listen2myradio.com/live.mp3?typeportmount=s1_13551_stream_442
 https://dattavolt.com/8164/stream
 #EXTINF:-1 tvg-id="PE | Radio Bienestar" tvg-name="PE | Radio Bienestar" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/bienestar.png" group-title="EMISORAS NACIONALES", 1201 | Radio Bienestar 760 AM || Lima; Perú
 https://27413.live.streamtheworld.com/BIENESTAR.mp3?_=425071
-#EXTINF:-1 tvg-id="PE | Radio Visión" tvg-name="PE | Radio Visión" tvg-logo="https://www.planetaradios.com/content/radios_fm/ee216.png" group-title="EMISORAS NACIONALES", 1202 | Radio Visión 780 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Visión" tvg-name="PE | Radio Visión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzxg5CG6RZceijG67PGCX7I2h-Ue3Cxkitg&s" group-title="EMISORAS NACIONALES", 1202 | Radio Visión 780 AM || Lima; Perú
 https://tupanel.info:9460/;
-#EXTINF:-1 tvg-id="PE | Radio Moderna" tvg-name="PE | Radio Moderna" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8zzc6bwefd5l.png" group-title="EMISORAS NACIONALES", 1203 | Radio Moderna 930 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Moderna" tvg-name="PE | Radio Moderna" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95etaq0cn_hcGN0EYU-mvt3257po9oljEjg&s" group-title="EMISORAS NACIONALES", 1203 | Radio Moderna 930 AM || Lima; Perú
 https://radio.transmite.pe/8020/stream/;type=mp3
 #EXTINF:-1 tvg-id="PE | Radio Latina" tvg-name="PE | Radio Latina" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/latina-lima.png" group-title="EMISORAS NACIONALES", 1204 | Radio Latina 990 AM || Lima; Perú
 https://stm2.srvif.com:7974/stream
@@ -2199,11 +2199,11 @@ https://stm2.srvif.com:7974/stream
 https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7342/;
 #EXTINF:-1 tvg-id="PE | Radio Metropolitana" tvg-name="PE | Radio Metropolitana" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/metropolitana-lima.png" group-title="EMISORAS NACIONALES", 1206 | Radio Metropolitana 1040 AM || Lima; Perú
 http://99.198.110.162:8130/stream/1/
-#EXTINF:-1 tvg-id="PE | Radio Éxito" tvg-name="PE | Radio Éxito" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DVUYtwjYv9.jpg" group-title="EMISORAS NACIONALES", 1207 | Radio Éxito 1060 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Éxito" tvg-name="PE | Radio Éxito" tvg-logo="https://lasradiosdelperu.com/sites/default/files/2022-07/radio-exito-1060am-peru.png" group-title="EMISORAS NACIONALES", 1207 | Radio Éxito 1060 AM || Lima; Perú
 http://67.212.179.138:7200/;stream/1
 #EXTINF:-1 tvg-id="PE | Radio La Luz" tvg-name="PE | Radio La Luz" tvg-logo="http://radiolaluz.com/wp-content/themes/laluz/images/logo_rad.png" group-title="EMISORAS NACIONALES", 1208 | Radio La Luz 1080 AM || Lima; Perú
 http://radio.transmite.pe:9310/stream?icy=http
-#EXTINF:-1 tvg-id="PE | Radio Feliz" tvg-name="PE | Radio Feliz" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr369.png" group-title="EMISORAS NACIONALES", 1209 | Radio Feliz 1110 AM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Feliz" tvg-name="PE | Radio Feliz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJAUFfQA29xgeLI6cKxZdjy_ylCXR8N5NHw&s" group-title="EMISORAS NACIONALES", 1209 | Radio Feliz 1110 AM || Lima; Perú
 https://cloudstream2036.conectarhosting.com/8152/stream
 #EXTINF:-1 tvg-id="PE | NSE Radio" tvg-name="PE | NSE Radio" tvg-logo="https://2.bp.blogspot.com/-lMCriJJNr24/XcmPLZk2CmI/AAAAAAAAOdk/qp5TOY47OXAnjhO7QZilSDgZFAlq3KlsgCLcBGAsYHQ/s200/nsearequipa.jpg" group-title="EMISORAS NACIONALES", 1210 | NSE Radio 1180 AM || Lima; Perú
 https://servidor18-2.brlogic.com:7440/live
@@ -2246,7 +2246,7 @@ https://stm3.srvif.com:8196/stream
 #EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" tvg-logo="https://radiospe.com/wp-content/uploads/2024/02/z_rock_pop.jpg" group-title="EMISORAS NACIONALES", 1228 | Radio Z Rock & Pop || Lima; Perú
 https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/
 #EXTINF:-1 tvg-id="PE | Radio Play" tvg-name="PE | Radio Play" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Radio_Play.svg/revision/latest/scale-to-width-down/1200?cb=20220811011050&path-prefix=es" group-title="EMISORAS NACIONALES", 1229 | Radio Play || Lima; Perú
-https://stream.cusac.online/c83a-4d7e-9d15-29d2e2fa4f8e
+https://radioplay.egostreaming.pe/c83a-4d7e-9d15-29d2e2fa4f8e
 #EXTINF:-1 tvg-id="PE | Radio La Rockola" tvg-name="PE | Radio La Rockola" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2021/08/home7.png" group-title="EMISORAS NACIONALES", 1230 | Radio La Rockola || Lima; Perú
 https://stream-150.zeno.fm/aryka5gcy38uv?zs=CvSDmDgeToqExPaFQFcqoQ&1695644664306
 #EXTINF:-1 tvg-id="PE | Radio La Ñ" tvg-name="PE | Radio La Ñ" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/25953.v29.png" group-title="EMISORAS NACIONALES", 1231 | Radio La Ñ || Lima; Perú
@@ -2259,7 +2259,7 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de8
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=4BS6A4vmH8sgAG2zTolF2VFWMRzmeT0K&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1708169746557&ot=O9jEpGNQVEtayXUcmIS4eg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&referer=https%3A%2F%2Fwww.radiolanube.com%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Viva FM" tvg-name="PE | Viva FM" tvg-logo="https://www.epafm.pe/images/logo_viva-fm.png" group-title="EMISORAS NACIONALES", 1235 | Viva FM || Lima; Perú
 https://tupanel.info:8780/stream
-#EXTINF:-1 tvg-id="PE | Radio Onda Digital" tvg-name="PE | Radio Onda Digital" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pj5fuwe7gjeu.png" group-title="EMISORAS DE RADIO CON VIDEO", 1236 | Radio Onda Digital || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio Onda Digital" tvg-name="PE | Radio Onda Digital" tvg-logo="https://radioondadigital.com/wp-content/uploads/2019/11/LOGO-RADIO-2019.png" group-title="EMISORAS DE RADIO CON VIDEO", 1236 | Radio Onda Digital || Lima; Perú
 https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Vamisa" tvg-name="PE | Radio Vamisa" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="EMISORAS DE RADIO CON VIDEO", 1237 | Radio Vamisa || Lima; Perú
 https://inliveserver.com:1936/10010/10010/playlist.m3u8
@@ -2311,7 +2311,7 @@ https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3
 https://streamingenbolivia.com/8006/stream
 #EXTINF:-1 tvg-id="CL | Romántica FM" tvg-name="CL | Romántica FM" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="EMISORAS INTERNACIONALES", 1261 | Romántica 104.1 FM || CHILE
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
-#EXTINF:-1 tvg-id="CL | Amor AM & FM Stereo" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="https://www.radioamor.cl/assets/images/logors-475x128.png" group-title="EMISORAS INTERNACIONALES", 1262 | Amor AM & FM Stereo || CHILE
+#EXTINF:-1 tvg-id="CL | Amor AM & FM Stereo" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="https://www.radioamor.cl/images/log-header.png" group-title="EMISORAS INTERNACIONALES", 1262 | Amor AM & FM Stereo || CHILE
 https://sonic.streamingchilenos.com/9820/stream
 #EXTINF:-1 tvg-id="AR | Radio Mitre" tvg-name="AR | Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="EMISORAS INTERNACIONALES", 1263 | Radio Mitre 790 AM || ARGENTINA
 https://22203.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2db63805-11b9-4e73-f947-309fb7963469
