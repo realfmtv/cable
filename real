@@ -58,7 +58,7 @@ https://infosmartpe.store:5443/LiveApp/streams/tF8Z9MNXRnoS8943480836487733.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", 24 | VZ Television || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="LOCALES", 25 | Sanjuanera Television || Moyobamba
-https://live.obslivestream.com/sanjuanera/index.m3u8
+https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
 #EXTINF:-1 tvg-id="PE | Ok Teve" tvg-name="PE | Ok Teve" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="PROVINCIALES", 26 | OK Television || Soritor
 https://vdo.grupolimalive.com:3005/live/oktvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", 27 | Via Alto Mayo Television || Rioja
