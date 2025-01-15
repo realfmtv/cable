@@ -3,10 +3,10 @@
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Television
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/150px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="PERU", 3 | RPP TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=2437451845&_cdn_timestamp=1736933585&_cdn_token=a435c225526e2fa3b33188bdd6d4655733953dca
+#EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/2HuT5HTFkWvU28UCyiCljg/1736982315/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/cnQne8y-dliC_GAAOHiTSA/1737006678/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -24,9 +24,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Plus" tvg-name="PE | Andina Television Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Sur" tvg-name="PE | Andina Television Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
-https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", 10 | Tele Lima
-https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
@@ -1332,9 +1332,9 @@ http://190.149.66.90:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 782 | Canal 11 || COSTA RICA
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 783 | Trece Costa Rica Televisión || COSTA RICA
-http://45.5.117.182:8000/play/a0dI/index.m3u8
+https://live-c.cf.dmcdn.net/sec2(oP_fvphCzS7hETlBjQlwj5_MzgJRhCphr73fa6BhrdbmG-F9-ntv_W3G3270SR7IwIlI-N2oe3l1Y5_xhMOcyJ1Sf8jE-Rj26WCGKfs_HRGSX-deNfg4vANEtBRnn2BL)/dm/3/x7vh8g3/d/live-720.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99cc1a3bb1764748c4924d9653c47df2.webp" group-title="COSTA RICA", 784 | Telered || COSTA RICA
 https://62fc643fbf1aa.streamlock.net/prueba1/prueba1/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Antena Seis TV" tvg-name="CR | Antena Seis TV" tvg-logo="https://pbs.twimg.com/media/FcB8VoxXEAE5jd0?format=png&name=360x360" group-title="COSTA RICA", 765 | Antena Seis TV || COSTA RICA
@@ -1397,14 +1397,14 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Yes TV" tvg-name="NI | Yes TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROnrZCI5VnoF_aU_h4znfefMJCbBFaq93S_hMR=s900-c-k-c0x00ffffff-no-rj" group-title="NICARAGUA", 814 | Yes TV || NICARAGUA
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CsQF2PkUSlEJKxWnfJn7hMCR3RzpXhTQn4BJdNsLVatRsRdNc7P-zyqEgYnqu6VENVdgFIV8G8V-U7SF0cVWjV-gbQOhuIBZ5bf0sybi6_fedLriBZ90Ui7G2mcvmk3PPbtXighgQ4-enCtWdeqHgIkFvQnJOxj7gddJPh5CCOX2032Hsr04O-GUydvXgyrvGB9g5R8-HMDzh39_Kcv645qPG8U2ZW9I_QnPllV2VWfPzyWbovRjfW79ynKTmJEOV2hTFHs3jrEAtZh-njGrKgbBcojLakbB-_s9xVmPmDzqn2PoOd_cS2n_KA5jkpLta1EHdGLXkk_seH9oWnhSDyyuL3DP6SgPHuwGIqWdbCb1snucwmI33I_7EhF6djAJWw4oY7U91mS8gOsXUMu6WeqNwxWDbFrRw0cuBlbnV61w7uslBseKybFolpkyFgXQM7Vh79qlqAUAzGIzoGqFK1rcvPVrNhJZ-R5XII_T065996VoZTGq5Yo97IwPGtqmauj4-yV5Ug76kBqtMmUdf9iNM-EQv0q8niaJrTuBgDr3t2PpXL60s0-i-1L4g90JfGosrT4P52UAHQxXfD8SR0SLcQB0xzayBZ0TpF6-gRy-Jg-0cpTEMtqgpAF13aD6fJ4wNYM6fde9lbzt_bDs6V4T6WnJ8dS0OVjWWTTZORrxQovYrnSD023laK__6hTQfBkd16kuyidNFX8nK6Q-JFiFYYQc7mqde-zWIYEEWngGi0xTEi0mIvYISQVrUxoWUyzJkyIzqRL8IVOFd0F4a-2RQVYpnVnr4sQob_VGDDBy2Of05xWJN7pwNL5bJDd1-JS9ViRd8NAg1Ry0ge3AKbGD9RAc1vucYa5TvyGT7NwmVgsbPPVFsw8R4UAi0_AeJSe1t8QNcfTpNhF688IISP8ubOJbscepsYpC5RsmdkK39-MLzO7jGgxM7K5b-gNcsXIIipYgASoJdXMtZWFzdC0xMLQH.m3u8
-#EXTINF:-1 tvg-id="NI | Nicarao TV" tvg-name="NI | Nicarao TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/150px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA", 815 | Nicarao TV || NICARAGUA
-http://138.59.177.34:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="SV | TV-2" tvg-name="SV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 815 | TV-2 || EL SALVADOR
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 3" tvg-name="SV | Canal 3" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1536x1301.png" group-title="EL SALVADOR", 816 | Canal 3 || EL SALVADOR
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 817 | Canal 4 || EL SALVADOR
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+https://telecorporacion.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 818 | TV Seis || EL SALVADOR
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", En prueba | Canal 10 || EL SALVADOR
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjQgMTI6MTA6NDIgUE0maGFzaF92YWx1ZT1qdElkZDljeWF3MDNFRWRjZnZ2SVZRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 819 | Canal 11 TUTV || EL SALVADOR
