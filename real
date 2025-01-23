@@ -597,31 +597,25 @@ https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 290 | Gamavisión || ECUADOR
 http://160.20.165.246:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR", 291 | Teleamazonas || ECUADOR
-http://160.20.165.246:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=1.0.28" group-title="ECUADOR", 292 | TVC || ECUADOR
-http://160.20.165.246:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 293 | Ecuador TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 291 | Ecuador TV || ECUADOR
 https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 294 | Ecuavisa || ECUADOR
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="EC | Red Telesistema" tvg-name="EC | Red Telesistema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR", 295 | RTS || ECUADOR
-http://160.20.165.246:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 296 | TC Televisión || ECUADOR
-http://160.20.165.246:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 297 | Oromar Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-name="EC | Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/200px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", 292 | Ecuavisa || ECUADOR
+http://160.20.165.246:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="EC | Televisora Central Ecuatoriana" tvg-name="EC | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", 293 | TC Televisión || ECUADOR
+https://live-b.cf.dmcdn.net/sec2(4xNmHTjgrCnlzl_t288WB0NON6i2aLk3K3HBGnwlUVv81wOrqM4kXo-DzX8T_hiUF6PP3zLJhDQ9CNduCzscdUJkcyMVcEqHGzGqNQsWyc4F84bWHUTMxaAQm6GDeyI6)/dm/3/x7wijay/d/live-480.m3u8
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 294 | Oromar Televisión || ECUADOR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 298 | Telerama || ECUADOR
+#EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="ECUADOR", 295 | Telerama || ECUADOR
 http://160.20.165.246:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="EC | Scandalo TV" tvg-name="EC | Scandalo TV" tvg-logo="https://scandalotv.com/wp-content/uploads/2022/10/cropped-ISO-STV-01-1.jpg" group-title="ECUADOR", 299 | Scandalo TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Scandalo TV" tvg-name="EC | Scandalo TV" tvg-logo="https://scandalotv.com/wp-content/uploads/2022/10/cropped-ISO-STV-01-1.jpg" group-title="ECUADOR", 296 | Scandalo TV || ECUADOR
 https://glb.bozztv.com/glb/ssh101/scandalotv/index.m3u8
-#EXTINF:-1 tvg-id="EC | Sonorama TV" tvg-name="EC | Sonorama TV" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/logos/logosplayer/sonorama-logo.png" group-title="ECUADOR", 300 | Sonorama TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Sonorama TV" tvg-name="EC | Sonorama TV" tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/logos/logosplayer/sonorama-logo.png" group-title="ECUADOR", 297 | Sonorama TV || ECUADOR
 https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 331 | Hechos Ecuador TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 298 | Hechos Ecuador TV || ECUADOR
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="ECUADOR", 332 | Ecotel TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="ECUADOR", 299 | Ecotel TV || ECUADOR
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 333 | Puruwa TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 300 | Puruwa TV || ECUADOR
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 334 | RTU || ECUADOR
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
