@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/AFd05cYlz9HC5-6Y161YHg/1737864747/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/14BSVQ-veYgQwCI9klt-wA/1737884808/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1327,10 +1327,8 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 https://telecorporacion.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 818 | TV Seis || EL SALVADOR
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", En prueba | Canal 10 || EL SALVADOR
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjQgMTI6MTA6NDIgUE0maGFzaF92YWx1ZT1qdElkZDljeWF3MDNFRWRjZnZ2SVZRPT0mdmFsaWRtaW51dGVzPTE1JmlkPQ==
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 819 | Canal 11 TUTV || EL SALVADOR
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 12" tvg-name="SV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR", 820 | Canal 12 || EL SALVADOR
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="SV | Taber TV" tvg-name="SV | Taber TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online-100x70.png" group-title="EL SALVADOR", 821 | Taber TV || EL SALVADOR
@@ -1354,7 +1352,7 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="SV | RD Click TV" tvg-name="SV | RD Click TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSoMCXVxLXziWM9-DaCj8zwCpV9-nCyTcTTRa5Jow=s88-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", 829 | RD Click TV || EL SALVADOR
 https://cloudvideo.servers10.com:8081/8064/index.m3u8
 #EXTINF:-1 tvg-id="SV | TVU" tvg-name="SV | TVU" tvg-logo="https://yt3.googleusercontent.com/drAQnVsOvnTkJs0B4jqkBhAc5xkE0LiCaTpe3ryAacLwvakiPdefYcmC5qDPps3fWtzFqjv4BA=s900-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR", En prueba | TVU || EL SALVADOR
-http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | Telesistema Informativo" tvg-name="HN | Telesistema Informativo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvqdLQlc8QobZms93gGFRZRpG0bdvso1Vkw73Z25dNd70l0qQW5ir2t6YIDBAe03x_gu8&usqp=CAU" group-title="HONDURAS", 830 | TSi Canal 3 || HONDURAS
 http://200.52.148.194:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 831 | Canal 5 El Lider || HONDURAS
@@ -1988,7 +1986,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
 #EXTINF:-1 tvg-id="PE | Radio Planeta" tvg-name="PE | Radio Planeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Planetalogo.jpg" group-title="EMISORAS NACIONALES", 1147 | Radio Planeta 107.7 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC
 #EXTINF:-1 tvg-id="PE | Radio Incasat" tvg-name="PE | Radio Incasat" tvg-logo="https://mmo.aiircdn.com/766/651b491a7080a.png" group-title="EMISORAS NACIONALES", 1148 | Radio Incasat 540 AM || Lima; Perú
-https://18323.live.streamtheworld.com/CRP_INC.mp3?_=783152
+https://22973.live.streamtheworld.com/CRP_INC.mp3?_=496478
 #EXTINF:-1 tvg-id="PE | Radio Oriente" tvg-name="PE | Radio Oriente" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oriente-lima.png" group-title="EMISORAS NACIONALES", 1149 | Radio Oriente 560 AM || Lima; Perú
 https://dattavolt.com:8370/stream/1/
 #EXTINF:-1 tvg-id="PE | Radio María" tvg-name="PE | Radio María" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Radio_Maria_FM.jpg/225px-Radio_Maria_FM.jpg" group-title="EMISORAS NACIONALES", 1150 | Radio María 580 AM || Lima; Perú
