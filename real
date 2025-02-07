@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/qlM6AEe3gliZYhbUV4phqg/1738993413/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/JDeHf9YY0I3ol-1R1lBohQ/1739043000/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -799,23 +799,19 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Nova" tvg-name="BR | TV Nova" tvg-logo="https://tvnova.tv.br/wp-content/webp-express/webp-images/uploads/2023/03/logo-tv-nova.png.webp" group-title="BRASIL", 394 | TV Nova || BRASIL
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-id="BR | TVA A Folha" tvg-name="BR | TVA A Folha" tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado.png" group-title="BRASIL", 600 | TVA A Folha || BRASIL
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | TV CNB" tvg-name="BR | TV CNB" tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="BRASIL", 601 | TV CNB || BRASIL
+#EXTINF:-1 tvg-id="BR | TV CNB" tvg-name="BR | TV CNB" tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="BRASIL", 395 | TV CNB || BRASIL
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Phoenix TV" tvg-name="BR | Phoenix TV" tvg-logo="https://pbs.twimg.com/media/FtUnA_-XoAAwEm4?format=png&name=360x360" group-title="BRASIL", 602 | Phoenix TV || BRASIL
+#EXTINF:-1 tvg-id="BR | Phoenix TV" tvg-name="BR | Phoenix TV" tvg-logo="https://pbs.twimg.com/media/FtUnA_-XoAAwEm4?format=png&name=360x360" group-title="BRASIL", 396 | Phoenix TV || BRASIL
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Rede Smart de Comunicação" tvg-name="BR | Rede Smart de Comunicação" tvg-logo="https://canalsmart.com.br/imagens/logo.png" group-title="BRASIL", 603 | Rede Smart de Comunicação || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede Smart de Comunicação" tvg-name="BR | Rede Smart de Comunicação" tvg-logo="https://canalsmart.com.br/imagens/logo.png" group-title="BRASIL", 397 | Rede Smart de Comunicação || BRASIL
 https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Abba RTV" tvg-name="BR | Abba RTV" tvg-logo="https://spaceks.net/sites/abbartv.com.br/images/logo/logo_1213314842.png" group-title="BRASIL", 604 | Abba RTV || BRASIL
-https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Rede SPTV" tvg-name="BR | Rede SPTV" tvg-logo="https://pa-str.srvsite.com/arquivos/6806/cabecalho-6806-20210603100909.png" group-title="BRASIL", 605 | Rede SPTV || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede SPTV" tvg-name="BR | Rede SPTV" tvg-logo="https://pa-str.srvsite.com/arquivos/6806/cabecalho-6806-20210603100909.png" group-title="BRASIL", 398 | Rede SPTV || BRASIL
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Soul Cine Clube" tvg-name="BR | Soul Cine Clube" tvg-logo="https://pbs.twimg.com/media/FtZ0JNTWIAELxmM?format=png&name=120x120" group-title="BRASIL", 606 | Soul Cine Clube || BRASIL
+#EXTINF:-1 tvg-id="BR | Soul Cine Clube" tvg-name="BR | Soul Cine Clube" tvg-logo="https://pbs.twimg.com/media/FtZ0JNTWIAELxmM?format=png&name=120x120" group-title="BRASIL", 399 | Soul Cine Clube || BRASIL
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Primer TV" tvg-name="BR | Primer TV" tvg-logo="http://primertv.com.br/img/logo.png" group-title="BRASIL", 607 | Primer TV || BRASIL
+#EXTINF:-1 tvg-id="BR | Primer TV" tvg-name="BR | Primer TV" tvg-logo="http://primertv.com.br/img/logo.png" group-title="BRASIL", 400 | Primer TV || BRASIL
 http://177.74.174.57:8080/hls/primertv.m3u8
-#EXTINF:-1 tvg-id="BR | Hackathon TV" tvg-name="BR | Hackathon TV" tvg-logo="https://hackathonbrasil.com.br/wp-content/uploads/2020/05/web_retangular-para_fundo_claro.png" group-title="BRASIL", 608 | Hackathon TV || BRASIL
+#EXTINF:-1 tvg-id="BR | Hackathon TV" tvg-name="BR | Hackathon TV" tvg-logo="https://hackathonbrasil.com.br/wp-content/uploads/2020/05/web_retangular-para_fundo_claro.png" group-title="BRASIL", 401 | Hackathon TV || BRASIL
 https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Florida" tvg-name="BR | TV Florida" tvg-logo="https://usabrtv.com/wp-content/uploads/2023/02/LOGO-SITE-NEW-BRANCA.png" group-title="BRASIL", 609 | TV Florida || BRASIL
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
