@@ -35,7 +35,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Rebeca Arbildo TV" tvg-name="PE | Rebeca Arbildo TV" tvg-logo="https://pbs.twimg.com/media/Gh88uLOWIAAcRCK?format=png&name=240x240" group-title="LOCALES", 14 | Rebeca Arbildo TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Moyobamba Television" tvg-name="PE | Moyobamba Television" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="LOCALES", 15 | Jhonny Television || Moyobamba
+#EXTINF:-1 tvg-id="PE | Moyobamba Television" tvg-name="PE | Moyobamba Television" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="LOCALES", 15 | Moyobamba Television || Moyobamba
 https://live.obslivestream.com/mtv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="LOCALES", 16 | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
