@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/eHofZ2gjIy74ZjnJeH2JmQ/1742904453/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/6-gjikXVT9rSjLZBYnazYw/1742907081/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -45,22 +45,22 @@ https://live.obslivestream.com/selvatv/index.m3u8
 https://infosmartpe.store:5443/LiveApp/streams/XIvPYYd0073I8630241532810754.m3u8
 #EXTINF:-1 tvg-id="PE | Autentica TV" tvg-name="PE | Autentica TV" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="LOCALES", 19 | Autentica Television || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", 20 | Cumo TV || Moyobamba
-https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="PE | Genios TV" tvg-name="PE | Genios TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="LOCALES", 20 | Genios Television || Moyobamba
+https://sc1.wasidata.com/Genios/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="LOCALES", 21 | CR Television || Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", 22 | VZ Television || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Contacto Television" tvg-name="PE | Contacto Television" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", 23 | Contacto TV || Moyobamba
 https://infosmartpe.store:5443/LiveApp/streams/tF8Z9MNXRnoS8943480836487733.m3u8
-#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/SANJUAN-TELEVISION.png" group-title="LOCALES", 24 | Sanjuanera Television || Moyobamba
+#EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", 24 | Cumo TV || Moyobamba
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/SANJUAN-TELEVISION.png" group-title="LOCALES", 25 | Sanjuanera Television || Moyobamba
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8
-#EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", 25 | Via Alto Mayo Television || Rioja
+#EXTINF:-1 tvg-id="PE | Via Alto Mayo TV" tvg-name="PE | Via Alto Mayo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOFVbZI_DEQWBcj9Fjt3OpP7xILbtOuEgaw&usqp=CAU" group-title="PROVINCIALES", 26 | Via Alto Mayo Television || Rioja
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", 26 | Nor Selva Television || Rioja
+#EXTINF:-1 tvg-id="PE | Nor Selva TV" tvg-name="PE | Nor Selva TV" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="PROVINCIALES", 27 | Nor Selva Television || Rioja
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | NQ TV" tvg-name="PE | NQ TV" tvg-logo="https://nqperu.com/wp-content/uploads/2023/12/logo3.png" group-title="PROVINCIALES", 27 | NQ TV || Nueva Cajamarca
-https://live.obslivestream.com/nq/index.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", 28 | Antares Television || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 29 | Television Tarapoto || Tarapoto
