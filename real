@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/Pl1Ai_AyCI8V_-UPiHIsEg/1743900192/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/bLxZO-JKCSr29k9xrxt-yw/1743976074/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -52,7 +52,7 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", 22 | VZ Television || Moyobamba
 https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Contacto Television" tvg-name="PE | Contacto Television" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", 23 | Contacto TV || Moyobamba
-https://infosmartpe.store:5443/LiveApp/streams/tF8Z9MNXRnoS8943480836487733.m3u8
+https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", 24 | Cumo TV || Moyobamba
 https://live.obslivestream.com/cumo/index.m3u8
 #EXTINF:-1 tvg-id="PE | Sanjuanera TV" tvg-name="PE | Sanjuanera TV" tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/SANJUAN-TELEVISION.png" group-title="LOCALES", 25 | Sanjuanera Television || Moyobamba
@@ -181,12 +181,12 @@ http://160.20.165.246:8000/play/a02a/index.m3u8
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="USA | FMH Movies" tvg-name="USA | FMH Movies" tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg" group-title="PELICULAS Y SERIES", 87 | FMH Movies
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | Retro TV Online" tvg-name="CR | Retro TV Online" tvg-logo="https://pbs.twimg.com/media/GZXuXcQXEAAvnNL?format=png&name=360x360" group-title="PELICULAS Y SERIES", 88 | Retro TV Online
+#EXTINF:-1 tvg-id="PE | Cine Club" tvg-name="PE | Cine Club" tvg-logo="https://pbs.twimg.com/media/GnzVK6iWYAAweEy?format=png&name=240x240" group-title="PELICULAS Y SERIES", 88 | Cine Club
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | Retro TV Online" tvg-name="CR | Retro TV Online" tvg-logo="https://pbs.twimg.com/media/GZXuXcQXEAAvnNL?format=png&name=360x360" group-title="PELICULAS Y SERIES", 89 | Retro TV Online
 https://retromusictv.streamtech.com.co:5443/retromusic/streams/zNDymkVySau6UBcU381637625188.m3u8
-#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 89 | Dios TV Kids
+#EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 90 | Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="CL | Varied TV" tvg-name="CL | Varied TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi-uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", 90 | Varied TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 91 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
 #EXTINF:-1 tvg-id="MX | Anime onegai" tvg-name="MX | Anime onegai" tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="INFANTILES", 92 | Anime onegai
@@ -223,6 +223,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 108 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="RU | CL" tvg-name="CL | Cocinando TV" tvg-logo="https://pbs.twimg.com/media/GnzXVPRXIAAq7p1?format=png&name=360x360" group-title="GASTRONOMIA", En prueba | Cocinando TV
+https://live-evg25.tv360.bitel.com.pe/bitel/cocinandotv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 109 | Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 110 | DW Televisión
@@ -1762,7 +1764,7 @@ https://panelautodj.innovatestream.pe:10742/;
 #EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2023/10/LOGO.png" group-title="EMISORAS LOCALES", 1080 | Interactiva Radio 92.9 FM || Moyobamba; Perú
 https://conectperu.com/8390/stream
 #EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="EMISORAS LOCALES", 1081 | Radio Selva 93.7 FM || Moyobamba; Perú
-https://radioconector.com:7004/;type=mp3
+https://radioconector.com:7010/stream
 #EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 1082 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
 #EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS LOCALES", 1083 | Radio Moda Star || Moyobamba; Perú
