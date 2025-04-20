@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/-pop80jFjPYONd6hhWu_VQ/1745215524/bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/R1bUp1TRKVZAFXVtFoY6cw/1745235147/bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1943,8 +1943,6 @@ https://stream-157.zeno.fm/bft6qepmuqruv?zs=HK4KfEBmSeidqNzYrUnVog
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b7cf1b304a08b3a8c215?aid=658ddcc0b2c7835d48fee06d&pid=p39JDTYffDzrygCXphxIj9McxD17vVjJ&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708169974174&ot=f2OTR2UZNgs4zBug_G9mmw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b7cf1b304a08b3a8c215&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Radio A La radio del amor" tvg-name="PE | Radio A La radio del amor" tvg-logo="https://play-lh.googleusercontent.com/GFXM3UrRgajXMwftPRgJmpDNY3ntmT4KTpHQ83Le2imUyaRA3w6-BZUfXVtfWaGLdA" group-title="EMISORAS NACIONALES", 1173 | Radio A La radio del amor || Lima; Perú
 https://stream-162.zeno.fm/qxsaiqu7pn4tv?zs=15ewF2tvRyG02iZQVJySBA
-#EXTINF:-1 tvg-id="PE | Radio A La radio del amor Señal Internacional" tvg-name="PE | Radio A La radio del amor Señal Internacional" tvg-logo="https://www.radio.es/images/broadcasts/e5/f3/113929/1/c300.png" group-title="EMISORAS NACIONALES", 1173.2 | Radio A La radio del amor Señal Internacional || Lima; Perú
-https://stream-153.zeno.fm/2z7na26837zuv?zs=R_h0etnkRZaJameFseWzWQ
 #EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" tvg-logo="https://radiobesame.pe/logo.png" group-title="EMISORAS NACIONALES", 1174 | Radio Besame || Lima; Perú
 https://radiobesame.egostreaming.pe/radiobesame
 #EXTINF:-1 tvg-id="PE | Romantica Radio" tvg-name="PE | Romantica Radio" tvg-logo="https://www.wradiosonline.com/peru/wp-content/uploads/sites/4/2023/03/uz2s7jcqg7d9.png" group-title="EMISORAS NACIONALES", 1175 | Romantica Radio || Lima; Perú
