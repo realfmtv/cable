@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/yhafVtrXHxUOuqNBv724Hw/1749293118//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/eN_F0KJAG9wbkhWRzrLObw/1749348225//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -30,7 +30,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8?uid=74530
+https://live-evg25.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="LOCALES", 14 | Vinilos TV || Moyobamba
@@ -50,7 +50,7 @@ https://sc1.wasidata.com/Genios/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PE | CR TV" tvg-name="PE | CR TV" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="LOCALES", 21 | CR Television || Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="PE | VZ TV" tvg-name="PE | VZ TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/07/VZ.gif" group-title="LOCALES", 22 | VZ Television || Moyobamba
-https://live.obslivestream.com/vztv/index.m3u8
+https://vztv.online/live/mysteam_web.m3u8
 #EXTINF:-1 tvg-id="PE | Contacto Television" tvg-name="PE | Contacto Television" tvg-logo="https://pbs.twimg.com/media/FSKSw5dXIAA7yZV?format=jpg&name=240x240" group-title="LOCALES", 23 | Contacto TV || Moyobamba
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 tvg-id="PE | Cumo TV" tvg-name="PE | Cumo TV" tvg-logo="https://pbs.twimg.com/media/F68ylFIW0AAVofQ?format=png&name=360x360" group-title="LOCALES", 24 | Cumo TV || Moyobamba
@@ -86,7 +86,7 @@ https://vivatv.juanjuiserver.com:3211/live/radiotvjuanjui25live.m3u8
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="REGIONALES", 39 | Uranio TV || Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Cosmovision Television" tvg-name="PE | Cosmovision Television" tvg-logo="https://cosmovisiontvyurimaguas.com/wp-content/uploads/2024/06/loggocosmo.webp" group-title="REGIONALES", 40 | Cosmovision Television || Yurimaguas
-https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
+https://vivatv.juanjuiserver.com:3398/live/cosmovisionlive.m3u8
 #EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="REGIONALES", 41 | Super Canal Televisión || Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="REGIONALES", 42 | RTV Total || Yurimaguas
@@ -495,6 +495,8 @@ https://live.obslivestream.com/xtv/index.m3u8
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="PE | Sqala TV" tvg-name="PE | Sqala TV" tvg-logo="https://yt3.googleusercontent.com/CR8uJExom-0WxM0JtThAJUwgJl4wHHq_t8tbno1YYKZTQx2MXIlNVslVbGNz8puUi85kZwzehg=s160-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 242 | Sqala TV || Chachapoyas
 https://live-evg25.tv360.bitel.com.pe/bitel/sqalatv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Dub TV" tvg-name="PE | Dub TV" tvg-logo="https://pbs.twimg.com/media/Gszj9vMWMAE6Qos?format=png&name=small" group-title="REGIONALES", En prueba | Dub TV || Chachapoyas
+https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Rumba TV" tvg-name="PE | Rumba TV" tvg-logo="https://pbs.twimg.com/media/GiLB8u0WcAAml35?format=png&name=360x360" group-title="REGIONALES", 243 | Rumba TV || Huanuco
 https://live-evg25.tv360.bitel.com.pe/bitel/rumbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://pbs.twimg.com/media/GiLD-JEXQAA91HM?format=png&name=small" group-title="REGIONALES", 244 | Uranio TV || Tingo María
@@ -1843,7 +1845,7 @@ https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4k
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=nGqN8qaPoMd3Qlpx5VkAS2cvMVZeAFmO&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712149764&ot=ykX5sE0fTENzvgLG1nGeXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Ritmo Romántica" tvg-name="PE | Ritmo Romántica" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2026-205_import.png" group-title="EMISORAS NACIONALES", 1122 | Ritmo Romántica 93.1 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
-#EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/8e/08/21103/c175.png" group-title="EMISORAS NACIONALES", 1123 | Radio La Inolvidable 93.7 FM || Lima; Perú
+#EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2028-205_import.png" group-title="EMISORAS NACIONALES", 1123 | Radio La Inolvidable 93.7 FM || Lima; Perú
 http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
 #EXTINF:-1 tvg-id="PE | Radio Corazon" tvg-name="PE | Radio Corazon" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_corazon.png" group-title="EMISORAS NACIONALES", 1124 | Radio Corazón 94.3 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=fygorKayYivBVQrKQA8KqwMnkwJY4z4l&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712244290&ot=A1yosuo0aFO-dnZjfsZRog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
@@ -1943,6 +1945,8 @@ https://stream-157.zeno.fm/bft6qepmuqruv?zs=HK4KfEBmSeidqNzYrUnVog
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b7cf1b304a08b3a8c215?aid=658ddcc0b2c7835d48fee06d&pid=p39JDTYffDzrygCXphxIj9McxD17vVjJ&sid=szMPnhKaCzsJF37AFsd2H4Jr2LSPHcNe&uid=s9LqhBwXv83c5vm1f637JwIm99YIcmRU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1708169974174&ot=f2OTR2UZNgs4zBug_G9mmw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b7cf1b304a08b3a8c215&referer=https%3A%2F%2Fwww.epafm.pe%2F&listenerId=s9LqhBwXv83c5vm1f637JwIm99YIcmRU
 #EXTINF:-1 tvg-id="PE | Radio A La radio del amor" tvg-name="PE | Radio A La radio del amor" tvg-logo="https://play-lh.googleusercontent.com/GFXM3UrRgajXMwftPRgJmpDNY3ntmT4KTpHQ83Le2imUyaRA3w6-BZUfXVtfWaGLdA" group-title="EMISORAS NACIONALES", 1173 | Radio A La radio del amor || Lima; Perú
 https://stream-162.zeno.fm/qxsaiqu7pn4tv?zs=15ewF2tvRyG02iZQVJySBA
+#EXTINF:-1 tvg-id="PE | Radio A La radio del amor Señal Internacional" tvg-name="PE | Radio A La radio del amor Señal Internacional" tvg-logo="https://www.radio.es/images/broadcasts/e5/f3/113929/1/c300.png" group-title="EMISORAS NACIONALES", 1173.2 | Radio A La radio del amor Señal Internacional || Lima; Perú
+https://stream-153.zeno.fm/2z7na26837zuv?zs=R_h0etnkRZaJameFseWzWQ
 #EXTINF:-1 tvg-id="PE | Radio Besame" tvg-name="PE | Radio Besame" tvg-logo="https://radiobesame.pe/logo.png" group-title="EMISORAS NACIONALES", 1174 | Radio Besame || Lima; Perú
 https://radiobesame.egostreaming.pe/radiobesame
 #EXTINF:-1 tvg-id="PE | Romantica Radio" tvg-name="PE | Romantica Radio" tvg-logo="https://www.wradiosonline.com/peru/wp-content/uploads/sites/4/2023/03/uz2s7jcqg7d9.png" group-title="EMISORAS NACIONALES", 1175 | Romantica Radio || Lima; Perú
