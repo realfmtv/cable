@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/Iq-us8t5VE3j4tRziwPGZQ/1749381927//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/bBOS_ljjiXrRqx8ZplGrnw/1749434748//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -22,7 +22,7 @@ https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television" tvg-name="PE | Andina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Plus" tvg-name="PE | Andina Television Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Sur" tvg-name="PE | Andina Television Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
 https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tele Lima" tvg-name="PE | Tele Lima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="PERU", 10 | Tele Lima
