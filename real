@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/I17uu0wnltL-wy64ZjO96w/1751107935//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/XCKiZWNhChdCqzH50sSlJQ/1751157801//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -568,13 +568,13 @@ https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="REGIONALES", 277 | Primavera 15 TV || Moquegua
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Ilo" tvg-name="PE | Telesur de Ilo" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/telesur-ilo.jpg" group-title="REGIONALES", 278 | Telesur || Ilo
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+https://telesurnew.b-cdn.net/hls/ilo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Moquegua" tvg-name="PE | Telesur de Moquegua" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/05/telesur-moq-150x150-2.jpg" group-title="REGIONALES", 278.2 | Telesur || Moquegua
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+https://telesurnew.b-cdn.net/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Mollendo" tvg-name="PE | Telesur de Mollendo" tvg-logo="https://pbs.twimg.com/media/FSNdknBWUAAeYsF?format=jpg&name=small" group-title="REGIONALES", 278.3 | Telesur || Mollendo
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+https://telesurnew.b-cdn.net/hls/mollendo.m3u8
 #EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://cdn-profiles.tunein.com/s305740/images/bannerx.jpg?t=636808940900000000" group-title="REGIONALES", 278.4 | Telesur || Camana
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+https://telesurnew.b-cdn.net/hls/camana.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Uno TV" tvg-name="PE | Radio Uno TV" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="REGIONALES", 279 | Radio Uno TV || Tacna
 https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Astros Television" tvg-name="PE | Astros Television" tvg-logo="https://pbs.twimg.com/media/GiLMJmEXkAIKqao?format=png&name=240x240" group-title="REGIONALES", 280 | Astros Television || Tacna
