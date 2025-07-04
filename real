@@ -183,6 +183,10 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Cine Club" tvg-name="PE | Cine Club" tvg-logo="https://pbs.twimg.com/media/GnzVK6iWYAAweEy?format=png&name=240x240" group-title="PELICULAS Y SERIES", 88 | Cine Club
 https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", En prueba | Cartoon Network
+http://38.41.8.1:8000/play/a0tb
+#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", En prueba | Cartoonito
+http://38.41.8.1:8000/play/a0v9
 #EXTINF:-1 tvg-id="CR | Retro TV Online" tvg-name="CR | Retro TV Online" tvg-logo="https://pbs.twimg.com/media/GZXuXcQXEAAvnNL?format=png&name=360x360" group-title="PELICULAS Y SERIES", 89 | Retro TV Online
 https://retromusictv.streamtech.com.co:5443/retromusic/streams/zNDymkVySau6UBcU381637625188.m3u8
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 90 | Dios TV Kids
@@ -217,12 +221,12 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_outp
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8
 #EXTINF:-1 tvg-id="CL | Taltal TV" tvg-name="CL | Taltal TV" tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="INFANTILES", 105 | Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 106 | El Conflicto Tribunal del Pueblo TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
+#EXTINF:-1 tvg-id="CL | Peque TV" tvg-name="CL | Peque TV" tvg-logo="https://pbs.twimg.com/media/Gu_Z8XFWQAAEaDB?format=png&name=small" group-title="INFANTILES", 106 | Peque TV
+https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 107 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="NOTICIAS E INFORMACION", 108 | El Tiempo Television
-http://38.41.8.1:8000/play/a0wc
+#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 108 | El Conflicto Tribunal del Pueblo TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 109 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 110 | Telesur
@@ -627,28 +631,28 @@ https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
 http://38.41.8.1:8000/play/a0t4
 #EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", 306 | Canal Caracol || COLOMBIA
 http://38.41.8.1:8000/play/a0t5
-#EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 307 | Canal Capital || COLOMBIA
+#EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
+http://38.41.8.1:8000/play/a0wc
+#EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 308 | Canal Capital || COLOMBIA
 https://cdns.livewave.co:8081/canalcapital/index.m3u8
-#EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="COLOMBIA", 308 | Eureka tu canal || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="COLOMBIA", 309 | Eureka tu canal || COLOMBIA
 https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
-#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 309 | RCN+ || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 310 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 310 | Zoom TV || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 311 | Zoom TV || COLOMBIA
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-id="CO | Suram TV" tvg-name="CO | Suram TV" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA", 311 | Suram TV || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Suram TV" tvg-name="CO | Suram TV" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA", 312 | Suram TV || COLOMBIA
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 tvg-id="CO | Canal 8 TV+" tvg-name="CO | Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA", 312 | Canal 8 TV+ || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Canal 8 TV+" tvg-name="CO | Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA", 313 | Canal 8 TV+ || COLOMBIA
 https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="CO | CTV" tvg-name="CO | CTV" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png" group-title="COLOMBIA", 313 | CTV || COLOMBIA
+#EXTINF:-1 tvg-id="CO | CTV" tvg-name="CO | CTV" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png" group-title="COLOMBIA", 314 | CTV || COLOMBIA
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="COLOMBIA", 314 | Teleislas || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="COLOMBIA", 315 | Teleislas || COLOMBIA
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | TV Peñol" tvg-name="CO | TV Peñol" tvg-logo="https://lh3.googleusercontent.com/apvCTeyvSvG_dSKi0-ujGoz-3cnm80K4jm0TRj6oI86GJqqfMwIuVUlVCiMBzhW-iDM" group-title="COLOMBIA", 315 | TV Peñol || COLOMBIA
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CO | Canal Visión Dorada" tvg-name="CO | Canal Visión Dorada" tvg-logo="https://play-lh.googleusercontent.com/YQi6JN3KWozh0yLl5S83_pMdeoD0nsvBMT-MPpbvGf0Aq_wJgiS0DA7UgEnMtfQjSRID" group-title="COLOMBIA", 316 | Canal Visión Dorada || COLOMBIA
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CO | ATN Televisión" tvg-name="CO | ATN Televisión" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="COLOMBIA", 317 | ATN Televisión || COLOMBIA
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | TV San Jorge" tvg-name="CO | TV San Jorge" tvg-logo="https://tvsanjorge.tv/wp-content/uploads/2024/07/logo-asucap-sin-tv-HD-272x90-1.png" group-title="COLOMBIA", 318 | TV San Jorge || COLOMBIA
 https://asucap.com/livestream/asucap_envivo.m3u8
 #EXTINF:-1 tvg-id="CO | Multicanal TV" tvg-name="CO | Multicanal TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4696653b91ed1c1e4aee33817d913f50.webp" group-title="COLOMBIA", 319 | Multicanal TV || COLOMBIA
@@ -1087,6 +1091,8 @@ https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 https://marine2.miplay.cl/girovisual/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="CHILE", En prueba | TV Pop
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AR | Television Publica" tvg-name="AR | Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Television Publica || ARGENTINA
+http://38.41.8.1:8000/play/a040
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="AR | Argentinísima Satelital" tvg-name="AR | Argentinísima Satelital" tvg-logo="https://i.imgur.com/bs4truU.png" group-title="ARGENTINA", 748 | Argentinísima Satelital || ARGENTINA
@@ -1259,8 +1265,8 @@ http://170.82.37.21:8000/play/a005/index.m3u8
 https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HN | TEN Canal 10" tvg-name="HN | TEN Canal 10" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/w350-h350-p-k-no-nu/TEN%2BCanal%2B10.png" group-title="HONDURAS", 837 | TEN Canal 10 || HONDURAS
 https://live.eu-north-1b.cf.dmcdn.net/sec2(27FfzV63wx5zE_SJI3ItXpKIPZTxq1S5wYNaCzwOtJMB8fwsYSakKjW6I5Kpxy_dA3Yex8DDkjGwDkHwyRvIAWG2mfnRFjUFJEzmQb_bSoC_zbXBjrZWfLkO9uel8L6E)/dm/3/x8uk5ou/s/live-720.m3u8
-#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://www.oncenoticias.hn/wp-content/uploads/2018/11/LOGO-CANAL-11--990x660.jpg" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
-http://179.61.31.142:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20210428031231&path-prefix=es" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
+http://38.41.8.1:8000/play/a0b0
 #EXTINF:-1 tvg-id="HN | TV Azteca Honduras" tvg-name="HN | TV Azteca Honduras" tvg-logo="https://yt3.googleusercontent.com/cyq9irLdDgryTt4fKAH3_df_Fs9sqsBReXVpK3kxpBS_I5Rv0zvSNoii0tJ3B06t7cueB1kzzw=s176-c-k-c0x00ffffff-no-rj" group-title="HONDURAS", 839 | TV Azteca Honduras || HONDURAS
 http://170.82.37.21:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 840 | Girasol TV || HONDURAS
@@ -1488,7 +1494,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/c
 #EXTINF:-1 tvg-id="DO | Teleradio América" tvg-name="DO | Teleradio América" tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPUBLICA DOMINICANA", 951 | Teleradio América || REPUBLICA DOMINICANA
 https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_5d48c3204a9b11eea0c82f8ad2e16732/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REPUBLICA DOMINICANA", 952 | Amé Televisión || REPUBLICA DOMINICANA
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Televisión La Nueva Isabela" tvg-name="DO | Televisión La Nueva Isabela" tvg-logo="https://tni51online.com/images/tni_logo_web.jpg" group-title="REPUBLICA DOMINICANA", 953 | Televisión La Nueva Isabela || REPUBLICA DOMINICANA
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleimpacto" tvg-name="DO | Teleimpacto" tvg-logo="http://teleimpacto52.com.do/wp-content/uploads/2021/07/TELEIMPACTOLOGO3-e1626542642362.png" group-title="REPUBLICA DOMINICANA", 954 | Teleimpacto || REPUBLICA DOMINICANA
