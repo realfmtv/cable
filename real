@@ -934,11 +934,11 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 667 | Bolivisión || BOLIVIA
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
 https://live-b.cf.dmcdn.net/sec2(YWAnCRVPuT9M9BRXPNQe_lNoCZvL6SQ80xMeV5xrDBVl0wDcgFo_jtVx-H3eEuELU-3OPCxrcsVHHhO5xu_-cPsaOrdCQnI0ZEHyJEZWRV0)/dm/3/x84eirw/s/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(WK-OQy_Hb3hTdAmQqPVdecPLrdTyVRRfkMHdCTEtTESRGkqEJg6ivo5H0HVK4i9DARf2BtCrSWYYXE2P8cY2i_r0LqOhpZiKm1NX0q2Nmjc)/dm/3/x91tbcm/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(VWLZcGRQPTdjQJQ_tzOvTWsE-R4RSAe3IDmpG3tb467wX0Ce4TVXRygzzdq7fRPkrI6uIJzNoZYXiWmdZlQ3Q6RcRDmvj0fwns6NygeVFRRD65N70o2VAJBiTbu4DLtU)/dm/3/x9ie7h0/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://w8.redpat.tv:7777/play/120/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
