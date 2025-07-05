@@ -135,8 +135,6 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest/scale-to-width-down/200?cb=20200317052444&path-prefix=es" group-title="NOVELAS", 64 | Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://yt3.googleusercontent.com/jv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A=s160-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", En prueba | RCN Novelas
-http://38.41.8.1:8000/play/a070
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlnovelas_logo_2021.png/120px-Tlnovelas_logo_2021.png" group-title="NOVELAS", 65 | Tlnovelas
 http://38.41.8.1:8000/play/a0df
 #EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES Y SERIES", 66 | Investigation Discovery
@@ -453,186 +451,180 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/huacho/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | 36 TV" tvg-name="PE | 36 TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lroYVd8PS8P4KCS9mjAEJ72pDvoujCVzgBjZtKfc884Q=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 219 | 36 TV || Huacho
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Piura TV" tvg-name="PE | Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="REGIONALES", 229 | Piura TV || Piura
+#EXTINF:-1 tvg-id="PE | CVN TV" tvg-name="PE | CVN TV" tvg-logo="https://pbs.twimg.com/media/GvEyemvWgAEhjpZ?format=png&name=small" group-title="REGIONALES", 220 | CVN TV || Tumbes
+https://live-evg25.tv360.bitel.com.pe/bitel/cvn/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Albricias TV" tvg-name="PE | Albricias TV" tvg-logo="https://pbs.twimg.com/media/GvEyoh1W8AAkwHF?format=png&name=small" group-title="REGIONALES", 221 | Albricias TV || Piura
+https://live-evg25.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Piura TV" tvg-name="PE | Piura TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="REGIONALES", 222 | Piura TV || Piura
 https://live.obslivestream.com/piuratv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio TV Catacaos" tvg-name="PE | Radio TV Catacaos" tvg-logo="https://play-lh.googleusercontent.com/VLpL-p1oz2SxYaweCoRufLeV6DjCt4zqE5PHZeDGpGGcwgkYg0imxolbEFLd75ZqDFs=w240-h480-rw" group-title="REGIONALES", 221 | Radio TV Catacaos || Catacaos; Piura
+#EXTINF:-1 tvg-id="PE | Radio TV Catacaos" tvg-name="PE | Radio TV Catacaos" tvg-logo="https://play-lh.googleusercontent.com/VLpL-p1oz2SxYaweCoRufLeV6DjCt4zqE5PHZeDGpGGcwgkYg0imxolbEFLd75ZqDFs=w240-h480-rw" group-title="REGIONALES", 223 | Radio TV Catacaos || Catacaos; Piura
 https://mc.servidor.stream:19360/8262/8262.m3u8
-#EXTINF:-1 tvg-id="PE | Canal 8 Catacaos" tvg-name="PE | Canal 8 Catacaos" tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="REGIONALES", 222 | Canal 8 Catacaos || Catacaos; Piura
+#EXTINF:-1 tvg-id="PE | Canal 8 Catacaos" tvg-name="PE | Canal 8 Catacaos" tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="REGIONALES", 224 | Canal 8 Catacaos || Catacaos; Piura
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="REGIONALES", 223 | TV Norte || Chiclayo
+#EXTINF:-1 tvg-id="PE | TV Norte" tvg-name="PE | TV Norte" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Norte-Chiclayo-en-vivo-Online.png" group-title="REGIONALES", 225 | TV Norte || Chiclayo
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal 49 TV" tvg-name="PE | Canal 49 TV" tvg-logo="https://pbs.twimg.com/media/GWStHyzXkAAp1Bh?format=png&name=small" group-title="REGIONALES", 224 | Canal 49 TV || Chiclayo
+#EXTINF:-1 tvg-id="PE | Canal 49 TV" tvg-name="PE | Canal 49 TV" tvg-logo="https://pbs.twimg.com/media/GWStHyzXkAAp1Bh?format=png&name=small" group-title="REGIONALES", 226 | Canal 49 TV || Chiclayo
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 225 | TV Cosmos || Trujillo
+#EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 227 | TV Cosmos || Trujillo
 https://live-evg25.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", 226 | Sol TV || Trujillo
+#EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", 228 | Sol TV || Trujillo
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Milenial TV" tvg-name="PE | Milenial TV" tvg-logo="https://go.wintv.pe/static/backdrops/982/854982_1280.jpg" group-title="REGIONALES", 227 | Milenial TV || Trujillo
+#EXTINF:-1 tvg-id="PE | Milenial TV" tvg-name="PE | Milenial TV" tvg-logo="https://go.wintv.pe/static/backdrops/982/854982_1280.jpg" group-title="REGIONALES", 229 | Milenial TV || Trujillo
 https://live-evg25.tv360.bitel.com.pe/bitel/milenial/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Malu TV" tvg-name="PE | Malu TV" tvg-logo="https://pbs.twimg.com/media/GnE9W22XkAA-kEv?format=png&name=360x360" group-title="REGIONALES", 228 | Malu TV || Trujillo
+#EXTINF:-1 tvg-id="PE | Malu TV" tvg-name="PE | Malu TV" tvg-logo="https://pbs.twimg.com/media/GnE9W22XkAA-kEv?format=png&name=360x360" group-title="REGIONALES", 230 | Malu TV || Trujillo
 https://live-evg25.tv360.bitel.com.pe/bitel/malutv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | RTV Oasis" tvg-name="PE | RTV Oasis" tvg-logo="http://oasisrtv.com/wp-content/uploads/2021/07/cropped-00000001-5-1.png" group-title="REGIONALES", 229 | RTV Oasis || Pacasmayo
+#EXTINF:-1 tvg-id="PE | RTV Oasis" tvg-name="PE | RTV Oasis" tvg-logo="http://oasisrtv.com/wp-content/uploads/2021/07/cropped-00000001-5-1.png" group-title="REGIONALES", 231 | RTV Oasis || Pacasmayo
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-id="PE | Canal Nuestro" tvg-name="PE | Canal Nuestro" tvg-logo="https://nuestrocanal.pe/wp-content/uploads/2025/01/cropped-LOGONUESTROCANALPEQUE.png" group-title="REGIONALES", 230 | Canal Nuestro || Casma
+#EXTINF:-1 tvg-id="PE | Canal Nuestro" tvg-name="PE | Canal Nuestro" tvg-logo="https://nuestrocanal.pe/wp-content/uploads/2025/01/cropped-LOGONUESTROCANALPEQUE.png" group-title="REGIONALES", 232 | Canal Nuestro || Casma
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Onda TV" tvg-name="PE | Onda TV" tvg-logo="https://pbs.twimg.com/media/GZbCC8GWwAERY31?format=png&name=240x240" group-title="REGIONALES", 231 | Onda TV || Ica
+#EXTINF:-1 tvg-id="PE | Onda TV" tvg-name="PE | Onda TV" tvg-logo="https://pbs.twimg.com/media/GZbCC8GWwAERY31?format=png&name=240x240" group-title="REGIONALES", 233 | Onda TV || Ica
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Dunas TV" tvg-name="PE | Dunas TV" tvg-logo="https://pbs.twimg.com/media/GnE-sqyW4AAWdxQ?format=png&name=small" group-title="REGIONALES", 232 | Dunas TV || Ica
+#EXTINF:-1 tvg-id="PE | Dunas TV" tvg-name="PE | Dunas TV" tvg-logo="https://pbs.twimg.com/media/GnE-sqyW4AAWdxQ?format=png&name=small" group-title="REGIONALES", 234 | Dunas TV || Ica
 https://live-evg25.tv360.bitel.com.pe/bitel/dunastv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Nsk Television" tvg-name="PE | Nsk Television" tvg-logo="https://pbs.twimg.com/profile_images/1128435204970962950/SFRurEst_400x400.png" group-title="REGIONALES", 233 | Nsk Television || Nazca
+#EXTINF:-1 tvg-id="PE | Nsk Television" tvg-name="PE | Nsk Television" tvg-logo="https://pbs.twimg.com/profile_images/1128435204970962950/SFRurEst_400x400.png" group-title="REGIONALES", 235 | Nsk Television || Nazca
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Gtv" tvg-name="PE | Gtv" tvg-logo="https://pbs.twimg.com/media/GZbAluDXIAAHyuB?format=png&name=small" group-title="REGIONALES", 234 | Gtv || Pisco
+#EXTINF:-1 tvg-id="PE | Gtv" tvg-name="PE | Gtv" tvg-logo="https://pbs.twimg.com/media/GZbAluDXIAAHyuB?format=png&name=small" group-title="REGIONALES", 236 | Gtv || Pisco
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Cajamarca TV" tvg-name="PE | Cajamarca TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/CajamarcaTV.png" group-title="REGIONALES", 235 | Cajamarca TV || Cajamarca
+#EXTINF:-1 tvg-id="PE | Cajamarca TV" tvg-name="PE | Cajamarca TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/CajamarcaTV.png" group-title="REGIONALES", 237 | Cajamarca TV || Cajamarca
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Creo TV" tvg-name="PE | Creo TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creo_tv.jpg" group-title="REGIONALES", 236 | Creo TV || Cajamarca
+#EXTINF:-1 tvg-id="PE | Creo TV" tvg-name="PE | Creo TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creo_tv.jpg" group-title="REGIONALES", 238 | Creo TV || Cajamarca
 https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Impacto Televisión" tvg-name="PE | Impacto Televisión" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="REGIONALES", 237 | Impacto Televisión || Cajamarca
+#EXTINF:-1 tvg-id="PE | Impacto Televisión" tvg-name="PE | Impacto Televisión" tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="REGIONALES", 239 | Impacto Televisión || Cajamarca
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Turbo Mix Televisión" tvg-name="PE | Turbo Mix Televisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Radio-Turbo-Mix-TV-en-vivo-Online-100x70.png" group-title="REGIONALES", 238 | Turbo Mix Televisión || Cajamarca
+#EXTINF:-1 tvg-id="PE | Turbo Mix Televisión" tvg-name="PE | Turbo Mix Televisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Radio-Turbo-Mix-TV-en-vivo-Online-100x70.png" group-title="REGIONALES", 240 | Turbo Mix Televisión || Cajamarca
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="PE | Megavision" tvg-name="PE | Megavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDPWAp6RHsHR1C_Ut-xtJiQBUE6vRVERe7A&s" group-title="REGIONALES", 239 | Megavision || Cajamarca
+#EXTINF:-1 tvg-id="PE | Megavision" tvg-name="PE | Megavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDPWAp6RHsHR1C_Ut-xtJiQBUE6vRVERe7A&s" group-title="REGIONALES", 241 | Megavision || Cajamarca
 http://live-evg25.tv360.bitel.com.pe/bitel/megavision/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Aura TV" tvg-name="PE | Aura TV" tvg-logo="https://pbs.twimg.com/media/GnFGAPaW8AAHPou?format=png&name=small" group-title="REGIONALES", 240 | Aura TV || Cajamarca
+#EXTINF:-1 tvg-id="PE | Aura TV" tvg-name="PE | Aura TV" tvg-logo="https://pbs.twimg.com/media/GnFGAPaW8AAHPou?format=png&name=small" group-title="REGIONALES", 242 | Aura TV || Cajamarca
 https://live-evg25.tv360.bitel.com.pe/bitel/auratv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | CNC" tvg-name="PE | CNC" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="REGIONALES", 241 | CNC || Cajamarca
+#EXTINF:-1 tvg-id="PE | CNC" tvg-name="PE | CNC" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="REGIONALES", 243 | CNC || Cajamarca
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="PE | Hoy Peru TV" tvg-name="PE | Hoy Peru TV" tvg-logo="https://pbs.twimg.com/media/GnLx-mhXAAAL9-h?format=png&name=small" group-title="REGIONALES", 242 | Hoy Peru TV || Jaen
+#EXTINF:-1 tvg-id="PE | Hoy Peru TV" tvg-name="PE | Hoy Peru TV" tvg-logo="https://pbs.twimg.com/media/GnLx-mhXAAAL9-h?format=png&name=small" group-title="REGIONALES", 244 | Hoy Peru TV || Jaen
 https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" tvg-logo="https://yt3.ggpht.com/x3C0xu-ay9CuUpMSJXpuCJpMbkEKpyxhLDuJxACa3eUqozbJ2Od8VlGMWgbDt4WZnTB_EwTy=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 243 | XTV || Jaen
+#EXTINF:-1 tvg-id="PE | XTV" tvg-name="PE | XTV" tvg-logo="https://yt3.ggpht.com/x3C0xu-ay9CuUpMSJXpuCJpMbkEKpyxhLDuJxACa3eUqozbJ2Od8VlGMWgbDt4WZnTB_EwTy=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 245 | XTV || Jaen
 https://live.obslivestream.com/xtv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://pbs.twimg.com/profile_images/1313561244222267395/Y1TVAghs_400x400.jpg" group-title="REGIONALES", 244 | Mega TV || Jaen
+#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://pbs.twimg.com/profile_images/1313561244222267395/Y1TVAghs_400x400.jpg" group-title="REGIONALES", 246 | Mega TV || Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="PE | Sqala TV" tvg-name="PE | Sqala TV" tvg-logo="https://yt3.googleusercontent.com/CR8uJExom-0WxM0JtThAJUwgJl4wHHq_t8tbno1YYKZTQx2MXIlNVslVbGNz8puUi85kZwzehg=s160-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 245 | Sqala TV || Chachapoyas
+#EXTINF:-1 tvg-id="PE | Sqala TV" tvg-name="PE | Sqala TV" tvg-logo="https://yt3.googleusercontent.com/CR8uJExom-0WxM0JtThAJUwgJl4wHHq_t8tbno1YYKZTQx2MXIlNVslVbGNz8puUi85kZwzehg=s160-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 247 | Sqala TV || Chachapoyas
 https://live-evg25.tv360.bitel.com.pe/bitel/sqalatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Dub TV" tvg-name="PE | Dub TV" tvg-logo="https://pbs.twimg.com/media/Gszj9vMWMAE6Qos?format=png&name=small" group-title="REGIONALES", 246 | Dub TV || Chachapoyas
+#EXTINF:-1 tvg-id="PE | Dub TV" tvg-name="PE | Dub TV" tvg-logo="https://pbs.twimg.com/media/Gszj9vMWMAE6Qos?format=png&name=small" group-title="REGIONALES", 248 | Dub TV || Chachapoyas
 https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Rumba TV" tvg-name="PE | Rumba TV" tvg-logo="https://pbs.twimg.com/media/GiLB8u0WcAAml35?format=png&name=360x360" group-title="REGIONALES", 247 | Rumba TV || Huanuco
+#EXTINF:-1 tvg-id="PE | Rumba TV" tvg-name="PE | Rumba TV" tvg-logo="https://pbs.twimg.com/media/GiLB8u0WcAAml35?format=png&name=360x360" group-title="REGIONALES", 249 | Rumba TV || Huanuco
 https://live-evg25.tv360.bitel.com.pe/bitel/rumbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://pbs.twimg.com/media/GiLD-JEXQAA91HM?format=png&name=small" group-title="REGIONALES", 248 | Uranio TV || Tingo María
+#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://pbs.twimg.com/media/GiLD-JEXQAA91HM?format=png&name=small" group-title="REGIONALES", 250 | Uranio TV || Tingo María
 http://live-evg25.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://pbs.twimg.com/media/GatcC5bWkAAof2u?format=png&name=240x240" group-title="REGIONALES", 249 | Mega TV || Cerro de Pasco
+#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://pbs.twimg.com/media/GatcC5bWkAAof2u?format=png&name=240x240" group-title="REGIONALES", 251 | Mega TV || Cerro de Pasco
 https://live-evg25.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Unitel" tvg-name="PE | Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="REGIONALES", 250 | Unitel || Huancayo
+#EXTINF:-1 tvg-id="PE | Unitel" tvg-name="PE | Unitel" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="REGIONALES", 252 | Unitel || Huancayo
 https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Cadena TV" tvg-name="PE | Cadena TV" tvg-logo="https://image.winudf.com/v2/image/cGUuaG9zdHJlYW1wZXJ1LmNhZGVuYXR2aF9zY3JlZW5fMF8xNTAzMzI5MzIyXzAwMg/screen-0.jpg?fakeurl=1&type=.webp" group-title="REGIONALES", 251 | Cadena TV || Huancayo
+#EXTINF:-1 tvg-id="PE | Cadena TV" tvg-name="PE | Cadena TV" tvg-logo="https://image.winudf.com/v2/image/cGUuaG9zdHJlYW1wZXJ1LmNhZGVuYXR2aF9zY3JlZW5fMF8xNTAzMzI5MzIyXzAwMg/screen-0.jpg?fakeurl=1&type=.webp" group-title="REGIONALES", 253 | Cadena TV || Huancayo
 https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Wanka Canal 21" tvg-name="PE | TV Wanka Canal 21" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_CANAL_21_HUANCAYO.jpg" group-title="REGIONALES", 252 | TV Wanka Canal 21 || Huancayo
+#EXTINF:-1 tvg-id="PE | TV Wanka Canal 21" tvg-name="PE | TV Wanka Canal 21" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_CANAL_21_HUANCAYO.jpg" group-title="REGIONALES", 254 | TV Wanka Canal 21 || Huancayo
 https://ott1.hdlatam.tv/live/huancayo/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Unicentro TV" tvg-name="PE | Unicentro TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="REGIONALES", 253 | Unicentro TV || Distrito de El Tambo; Huancayo
+#EXTINF:-1 tvg-id="PE | Unicentro TV" tvg-name="PE | Unicentro TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="REGIONALES", 255 | Unicentro TV || Distrito de El Tambo; Huancayo
 https://ott1.hdlatam.tv/live/unic3ntr0_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://pbs.twimg.com/media/GIEyHPQWcAAJ9QX?format=png&name=900x900" group-title="REGIONALES", 254 | Nativa TV || Chanchamayo
+#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-name="PE | Nativa TV" tvg-logo="https://pbs.twimg.com/media/GIEyHPQWcAAJ9QX?format=png&name=900x900" group-title="REGIONALES", 256 | Nativa TV || Chanchamayo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="PE | Miel TV" tvg-name="PE | Miel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbmp2nNyGG4qX7CQod5FO0HjNNm7mn37mZbH0Ja7R56lp1u3ciY6os58LvmZmJIbI8GQ&usqp=CAU" group-title="REGIONALES", 255 | Miel TV || Chanchamayo
+#EXTINF:-1 tvg-id="PE | Miel TV" tvg-name="PE | Miel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbmp2nNyGG4qX7CQod5FO0HjNNm7mn37mZbH0Ja7R56lp1u3ciY6os58LvmZmJIbI8GQ&usqp=CAU" group-title="REGIONALES", 257 | Miel TV || Chanchamayo
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-id="PE | Atlantis TV" tvg-name="PE | Atlantis TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ATLANTIS_AYACUCHO.jpeg" group-title="REGIONALES", 256 | Atlantis TV || Ayacucho
+#EXTINF:-1 tvg-id="PE | Telecentro" tvg-name="PE | Telecentro" tvg-logo="https://www.telecentroperu.com/wp-content/uploads/2024/11/tele-centro-logo-2024.png" group-title="REGIONALES", 258 | Telecentro || Huancavelica
+https://live-evg25.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8?uid=74530
+#EXTINF:-1 tvg-id="PE | Atlantis TV" tvg-name="PE | Atlantis TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/LOGO_ATLANTIS_AYACUCHO.jpeg" group-title="REGIONALES", 259 | Atlantis TV || Ayacucho
 https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal 25" tvg-name="PE | Canal 25" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ke95cLU0rQvsDYC9qk47css3fxXBCJpfOtMK_OJ54iejE=s160-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 257 | Canal 25 || Ayacucho
+#EXTINF:-1 tvg-id="PE | Canal 25" tvg-name="PE | Canal 25" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ke95cLU0rQvsDYC9qk47css3fxXBCJpfOtMK_OJ54iejE=s160-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 260 | Canal 25 || Ayacucho
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Canal 33 TV Sat" tvg-name="PE | Canal 33 TV Sat" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="REGIONALES", 258 | Canal 33 TV Sat || Ayacucho
+#EXTINF:-1 tvg-id="PE | Canal 33 TV Sat" tvg-name="PE | Canal 33 TV Sat" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="REGIONALES", 261 | Canal 33 TV Sat || Ayacucho
 https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8
-#EXTINF:-1 tvg-id="PE | Media TV" tvg-name="PE | Media TV" tvg-logo="https://pbs.twimg.com/media/GnFIPxBX0AAy37N?format=png&name=small" group-title="REGIONALES", 259 | Media TV || Ayacucho
+#EXTINF:-1 tvg-id="PE | Media TV" tvg-name="PE | Media TV" tvg-logo="https://pbs.twimg.com/media/GnFIPxBX0AAy37N?format=png&name=small" group-title="REGIONALES", 262 | Media TV || Ayacucho
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Andina TV" tvg-name="PE | Andina TV" tvg-logo="https://pbs.twimg.com/media/GnFKbdtXEAElpHg?format=png&name=small" group-title="REGIONALES", 260 | Andina TV || Ayacucho
+#EXTINF:-1 tvg-id="PE | Andina TV" tvg-name="PE | Andina TV" tvg-logo="https://pbs.twimg.com/media/GnFKbdtXEAElpHg?format=png&name=small" group-title="REGIONALES", 263 | Andina TV || Ayacucho
 https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Solar Television" tvg-name="PE | Solar Television" tvg-logo="https://pbs.twimg.com/media/GaQDl2EXMAARsrV?format=png&name=240x240" group-title="REGIONALES", 261 | Solar Television || Abancay
+#EXTINF:-1 tvg-id="PE | Solar Television" tvg-name="PE | Solar Television" tvg-logo="https://pbs.twimg.com/media/GaQDl2EXMAARsrV?format=png&name=240x240" group-title="REGIONALES", 264 | Solar Television || Abancay
 https://live-evg25.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Canal M Television" tvg-name="PE | Canal M Television" tvg-logo="https://canalmabancay.com/wp-content/uploads/2021/11/LOGO-CANAL-M-2024-2-2.png" group-title="REGIONALES", 262 | Canal M Television || Abancay
+#EXTINF:-1 tvg-id="PE | Canal M Television" tvg-name="PE | Canal M Television" tvg-logo="https://canalmabancay.com/wp-content/uploads/2021/11/LOGO-CANAL-M-2024-2-2.png" group-title="REGIONALES", 265 | Canal M Television || Abancay
 https://live-evg25.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | CTC" tvg-name="PE | CTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Compa%C3%B1%C3%ADa_de_Televisi%C3%B3n_Cusque%C3%B1a.jpg/revision/latest?cb=20221127014959&path-prefix=es" group-title="REGIONALES", 263 | CTC || Cuzco
+#EXTINF:-1 tvg-id="PE | CTC" tvg-name="PE | CTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Compa%C3%B1%C3%ADa_de_Televisi%C3%B3n_Cusque%C3%B1a.jpg/revision/latest?cb=20221127014959&path-prefix=es" group-title="REGIONALES", 266 | CTC || Cuzco
 https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Inkavisión" tvg-name="PE | Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="REGIONALES", 264 | Inkavisión || Cuzco
+#EXTINF:-1 tvg-id="PE | Inkavisión" tvg-name="PE | Inkavisión" tvg-logo="http://core1.hdlatam.tv/media/images/channel/inkavision.jpg" group-title="REGIONALES", 267 | Inkavisión || Cuzco
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Tevesur" tvg-name="PE | Tevesur" tvg-logo="https://pbs.twimg.com/media/Guh4ldaWMAANG-o?format=png&name=240x240" group-title="REGIONALES", 265 | Tevesur || Cuzco
+#EXTINF:-1 tvg-id="PE | Tevesur" tvg-name="PE | Tevesur" tvg-logo="https://pbs.twimg.com/media/Guh4ldaWMAANG-o?format=png&name=240x240" group-title="REGIONALES", 268 | Tevesur || Cuzco
 https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" tvg-logo="https://www.dmjsur.com/radio/img/dmj.png" group-title="REGIONALES", 266 | DMJ Televisión || Cuzco
+#EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" tvg-logo="https://www.dmjsur.com/radio/img/dmj.png" group-title="REGIONALES", 269 | DMJ Televisión || Cuzco
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Qosqo Times Television" tvg-name="PE | Qosqo Times Television" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="REGIONALES", 267 | Qosqo Times Television || Cuzco
+#EXTINF:-1 tvg-id="PE | Qosqo Times Television" tvg-name="PE | Qosqo Times Television" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="REGIONALES", 270 | Qosqo Times Television || Cuzco
 https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Sistemas" tvg-name="PE | TV Sistemas" tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="REGIONALES", 268 | TV Sistemas || Cuzco
+#EXTINF:-1 tvg-id="PE | TV Sistemas" tvg-name="PE | TV Sistemas" tvg-logo="https://pbs.twimg.com/media/FSNf6rdXIAIono-?format=jpg&name=medium" group-title="REGIONALES", 271 | TV Sistemas || Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV en Línea" tvg-name="PE | TV en Línea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2021/10/logo-tv-en-linea-cusco.jpg" group-title="REGIONALES", 269 | TV en Línea || Cuzco
+#EXTINF:-1 tvg-id="PE | TV en Línea" tvg-name="PE | TV en Línea" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2021/10/logo-tv-en-linea-cusco.jpg" group-title="REGIONALES", 272 | TV en Línea || Cuzco
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 270 | Agro TV || Cuzco
+#EXTINF:-1 tvg-id="PE | Agro TV" tvg-name="PE | Agro TV" tvg-logo="https://pbs.twimg.com/media/FXmbIh6WIAAdhcO?format=png&name=240x240" group-title="REGIONALES", 273 | Agro TV || Cuzco
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/TVMUNDOCUZCO.png" group-title="REGIONALES", 271 | TV Mundo || Cuzco
+#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/TVMUNDOCUZCO.png" group-title="REGIONALES", 274 | TV Mundo || Cuzco
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 272 | Solar TV || Cuzco
+#EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 275 | Solar TV || Cuzco
 https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/URIOL.jpeg" group-title="REGIONALES", 273 | Uriol TV || Puerto Maldonado
+#EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/URIOL.jpeg" group-title="REGIONALES", 276 | Uriol TV || Puerto Maldonado
 https://ott1.hdlatam.tv/live_abr/UriolTV_PM/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 274 | TV Mar || Puerto Maldonado
+#EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 277 | TV Mar || Puerto Maldonado
 https://live-evg25.tv360.bitel.com.pe/bitel/tvmar/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | RTP" tvg-name="PE | RTP" tvg-logo="https://pbs.twimg.com/media/GiLJFRWWIAEXsxK?format=png&name=360x360" group-title="REGIONALES", 275 | RTP || Puno
+#EXTINF:-1 tvg-id="PE | RTP" tvg-name="PE | RTP" tvg-logo="https://pbs.twimg.com/media/GiLJFRWWIAEXsxK?format=png&name=360x360" group-title="REGIONALES", 278 | RTP || Puno
 https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Cositel TV" tvg-name="PE | Cositel TV" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="REGIONALES", 276 | Cositel TV || Juliaca
+#EXTINF:-1 tvg-id="PE | Cositel TV" tvg-name="PE | Cositel TV" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="REGIONALES", 279 | Cositel TV || Juliaca
 https://live-evg25.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Antena Uno" tvg-name="PE | Antena Uno" tvg-logo="https://cablego.com.pe/cache/logos256/ANTENA1.png" group-title="REGIONALES", 277 | Antena Uno || Yunguyo
+#EXTINF:-1 tvg-id="PE | Antena Uno" tvg-name="PE | Antena Uno" tvg-logo="https://cablego.com.pe/cache/logos256/ANTENA1.png" group-title="REGIONALES", 280 | Antena Uno || Yunguyo
 https://play.agenciastreaming.com:8081/antena1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 278 | Mega TV || Arequipa
+#EXTINF:-1 tvg-id="PE | Mega TV" tvg-name="PE | Mega TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online-100x70.png" group-title="REGIONALES", 281 | Mega TV || Arequipa
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-id="PE | Visión Sur" tvg-name="PE | Visión Sur" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 279 | Visión Sur || Arequipa
+#EXTINF:-1 tvg-id="PE | Visión Sur" tvg-name="PE | Visión Sur" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 282 | Visión Sur || Arequipa
 https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/tvmundoarequipa.png" group-title="REGIONALES", 280 | TV Mundo || Arequipa
+#EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="http://core1.hdlatam.tv/media/images/channel/tvmundoarequipa.png" group-title="REGIONALES", 283 | TV Mundo || Arequipa
 https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="REGIONALES", 281 | Primavera 15 TV || Moquegua
+#EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="REGIONALES", 284 | Primavera 15 TV || Moquegua
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur de Ilo" tvg-name="PE | Telesur de Ilo" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/04/telesur-ilo.jpg" group-title="REGIONALES", 282 | Telesur || Ilo
-https://telesurnew.b-cdn.net/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur de Moquegua" tvg-name="PE | Telesur de Moquegua" tvg-logo="https://cableclub.com.pe/wp-content/uploads/2021/05/telesur-moq-150x150-2.jpg" group-title="REGIONALES", 282.2 | Telesur || Moquegua
-https://telesurnew.b-cdn.net/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur de Mollendo" tvg-name="PE | Telesur de Mollendo" tvg-logo="https://pbs.twimg.com/media/FSNdknBWUAAeYsF?format=jpg&name=small" group-title="REGIONALES", 282.3 | Telesur || Mollendo
-https://telesurnew.b-cdn.net/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="PE | Telesur de Camaná" tvg-name="PE | Telesur de Camaná" tvg-logo="https://cdn-profiles.tunein.com/s305740/images/bannerx.jpg?t=636808940900000000" group-title="REGIONALES", 282.4 | Telesur || Camana
-https://telesurnew.b-cdn.net/hls/camana.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Uno TV" tvg-name="PE | Radio Uno TV" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="REGIONALES", 283 | Radio Uno TV || Tacna
+#EXTINF:-1 tvg-id="PE | Radio Uno TV" tvg-name="PE | Radio Uno TV" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="REGIONALES", 285 | Radio Uno TV || Tacna
 https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Astros Television" tvg-name="PE | Astros Television" tvg-logo="https://pbs.twimg.com/media/GiLMJmEXkAIKqao?format=png&name=240x240" group-title="REGIONALES", 284 | Astros Television || Tacna
+#EXTINF:-1 tvg-id="PE | Astros Television" tvg-name="PE | Astros Television" tvg-logo="https://pbs.twimg.com/media/GiLMJmEXkAIKqao?format=png&name=240x240" group-title="REGIONALES", 286 | Astros Television || Tacna
 https://live-evg25.tv360.bitel.com.pe/bitel/astrostv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Vigil TV Canal 45" tvg-name="PE | Vigil TV Canal 45" tvg-logo="https://pbs.twimg.com/media/GiLNUMDWsAA6m0y?format=png&name=small" group-title="REGIONALES", 285 | Vigil TV Canal 45 || Tacna
+#EXTINF:-1 tvg-id="PE | Vigil TV Canal 45" tvg-name="PE | Vigil TV Canal 45" tvg-logo="https://pbs.twimg.com/media/GiLNUMDWsAA6m0y?format=png&name=small" group-title="REGIONALES", 287 | Vigil TV Canal 45 || Tacna
 https://live-evg25.tv360.bitel.com.pe/bitel/vigiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 286 | Gamavisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Gamavisión" tvg-name="EC | Gamavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", 288 | Gamavisión || ECUADOR
 http://160.20.165.246:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 287 | Ecuador TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 289 | Ecuador TV || ECUADOR
 https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 288 | Oromar Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 290 | Oromar Televisión || ECUADOR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 289 | Hechos Ecuador TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 291 | Hechos Ecuador TV || ECUADOR
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="ECUADOR", 290 | Ecotel TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Ecotel TV" tvg-name="EC | Ecotel TV" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png" group-title="ECUADOR", 292 | Ecotel TV || ECUADOR
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 291 | Puruwa TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 293 | Puruwa TV || ECUADOR
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 292 | RTU || ECUADOR
+#EXTINF:-1 tvg-id="EC | RTU El canal de noticias" tvg-name="EC | RTU El canal de noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/556px-Logo_rtu.jpg" group-title="ECUADOR", 294 | RTU || ECUADOR
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 293 | Capricho TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", 295 | Capricho TV || ECUADOR
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
-#EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://play-lh.googleusercontent.com/GLiz6wOIpexLiIuzRAlQEvgI_VO1WtbPbvgEVAkg98PqTFXozyE7mB3JFkJvAw3G77s" group-title="ECUADOR", 294 | Multicanal || ECUADOR
+#EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://play-lh.googleusercontent.com/GLiz6wOIpexLiIuzRAlQEvgI_VO1WtbPbvgEVAkg98PqTFXozyE7mB3JFkJvAw3G77s" group-title="ECUADOR", 296 | Multicanal || ECUADOR
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="EC | Sono Onda TV" tvg-name="EC | Sono Onda TV" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-LOGOSONOONDA.png" group-title="ECUADOR", 295 | Sono Onda TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Sono Onda TV" tvg-name="EC | Sono Onda TV" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-LOGOSONOONDA.png" group-title="ECUADOR", 297 | Sono Onda TV || ECUADOR
 https://live.obslivestream.com/sonoondatv/index.m3u8
-#EXTINF:-1 tvg-id="EC | UCSG Televisión" tvg-name="EC | UCSG Televisión" tvg-logo="https://i.pinimg.com/736x/b0/2a/1b/b02a1b783f1f7f39f8c425d381e564c2.jpg" group-title="ECUADOR", 296 | UCSG Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | UCSG Televisión" tvg-name="EC | UCSG Televisión" tvg-logo="https://i.pinimg.com/736x/b0/2a/1b/b02a1b783f1f7f39f8c425d381e564c2.jpg" group-title="ECUADOR", 298 | UCSG Televisión || ECUADOR
 https://stream.catomedia.net/catomedia-app/index.m3u8
-#EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 297 | Zaracay Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Zaracay Televisión" tvg-name="EC | Zaracay Televisión" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s88-c-k-c0x00ffffff-no-rj" group-title="ECUADOR", 299 | Zaracay Televisión || ECUADOR
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | Educa Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeb6_1GE_r4e_zFo8ltQKxtmQdWo3mKCs7iA&s" group-title="ECUADOR", 298 | Educa Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Educa Televisión" tvg-name="EC | Educa Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeb6_1GE_r4e_zFo8ltQKxtmQdWo3mKCs7iA&s" group-title="ECUADOR", 300 | Educa Televisión || ECUADOR
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | TV Color Canal 36 Cotopaxi" tvg-name="EC | TV Color Canal 36 Cotopaxi" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.webp" group-title="ECUADOR", 299 | TV Color Canal 36 Cotopaxi || ECUADOR
+#EXTINF:-1 tvg-id="EC | TV Color Canal 36 Cotopaxi" tvg-name="EC | TV Color Canal 36 Cotopaxi" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/10/4e/f6104ea0-e26c-c90f-8e4f-2267aabddbc2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/230x0w.webp" group-title="ECUADOR", 301 | TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 tvg-id="EC | Radio y TV Alegría" tvg-name="EC | Radio y TV Alegría" tvg-logo="https://play-lh.googleusercontent.com/uRTcgaXlQIMXrtATh3tMnz39UmJ10lg8kHgJZZxMimHvIUhF6pzEckYoD8apAgZZhA=w240-h480-rw" group-title="ECUADOR", 300 | Radio y TV Alegría || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio y TV Alegría" tvg-name="EC | Radio y TV Alegría" tvg-logo="https://play-lh.googleusercontent.com/uRTcgaXlQIMXrtATh3tMnz39UmJ10lg8kHgJZZxMimHvIUhF6pzEckYoD8apAgZZhA=w240-h480-rw" group-title="ECUADOR", 302 | Radio y TV Alegría || ECUADOR
 https://video.compuwebecuador.com:3880/stream/play.m3u8
-#EXTINF:-1 tvg-id="EC | Loreto TV" tvg-name="EC | Loreto TV" tvg-logo="https://play-lh.googleusercontent.com/ZPjHp0gP6cPHsJeMbiFU_NNvOTQqNONaDnEeDusXjW_dsO677CfvdbQJ6QFxBzzJGrg=w240-h480-rw" group-title="ECUADOR", 301 | Loreto TV || ECUADOR
+#EXTINF:-1 tvg-id="EC | Loreto TV" tvg-name="EC | Loreto TV" tvg-logo="https://play-lh.googleusercontent.com/ZPjHp0gP6cPHsJeMbiFU_NNvOTQqNONaDnEeDusXjW_dsO677CfvdbQJ6QFxBzzJGrg=w240-h480-rw" group-title="ECUADOR", 303 | Loreto TV || ECUADOR
 https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Nortivisión" tvg-name="EC | Nortivisión" tvg-logo="https://play-lh.googleusercontent.com/AJSl7zf1KY9UP2cM4drSQxny_drzI1YcE63YTElVAXqzW9PvCorg7iDELybfmdpQL2o" group-title="ECUADOR", 302 | Nortivisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Nortivisión" tvg-name="EC | Nortivisión" tvg-logo="https://play-lh.googleusercontent.com/AJSl7zf1KY9UP2cM4drSQxny_drzI1YcE63YTElVAXqzW9PvCorg7iDELybfmdpQL2o" group-title="ECUADOR", 304 | Nortivisión || ECUADOR
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
-#EXTINF:-1 tvg-id="EC | Austral Televisión" tvg-name="EC | Austral Televisión" tvg-logo="https://pbs.twimg.com/profile_images/1777399381399887872/Jcyb2urV_400x400.jpg" group-title="ECUADOR", 303 | Austral Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Austral Televisión" tvg-name="EC | Austral Televisión" tvg-logo="https://pbs.twimg.com/profile_images/1777399381399887872/Jcyb2urV_400x400.jpg" group-title="ECUADOR", 305 | Austral Televisión || ECUADOR
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | RTV" tvg-name="EC | RTV" tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2022/08/SELLO-RTV-2022-1536x1536.png" group-title="ECUADOR", 304 | RTV || ECUADOR
+#EXTINF:-1 tvg-id="EC | RTV" tvg-name="EC | RTV" tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2022/08/SELLO-RTV-2022-1536x1536.png" group-title="ECUADOR", 306 | RTV || ECUADOR
 https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | Canal RCN" tvg-name="CO | Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", 305 | Canal RCN || COLOMBIA
-http://38.41.8.1:8000/play/a06j
-#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", 306 | Canal Caracol || COLOMBIA
-http://38.41.8.1:8000/play/a06i
 #EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
 http://38.41.8.1:8000/play/a0wc
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 308 | Canal Capital || COLOMBIA
