@@ -150,9 +150,9 @@ http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 71 | Warner Channel
 http://179.61.31.142:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 72 | Star Channel
-http://38.41.8.1:8000/play/a0ur
+http://38.41.8.1:8000/play/a04x
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 73 | FX
-http://38.41.8.1:8000/play/a05v
+http://38.41.8.1:8000/play/a0sn
 #EXTINF:-1 tvg-id="USA | Clover Channel" tvg-name="USA | Clover Channel" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" group-title="PELICULAS Y SERIES", 74 | Clover Channel
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Universal TV
@@ -1424,7 +1424,7 @@ http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TeleAntillas.jpg/125px-TeleAntillas.jpg" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
-http://45.228.232.219:16000/play/a0lh/index.m3u8
+http://38.41.8.1:8000/play/a0y3
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
