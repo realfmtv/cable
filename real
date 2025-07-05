@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/-s7qO-J2arnfVjkdP8RlLw/1751715924//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/zodQNZzictVTsWyEJ4vuTA/1751775807//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -157,7 +157,7 @@ http://191.52.214.5:8000/play/a02r/index.m3u8
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 75 | Universal TV
 http://160.20.165.246:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="PE | Creo Latino tu cine" tvg-name="PE | Creo Latino tu cine" tvg-logo="" group-title="PELICULAS Y SERIES", 76 | Creo Latino tu cine
+#EXTINF:-1 tvg-id="PE | Creo Latino tu cine" tvg-name="PE | Creo Latino tu cine" tvg-logo="https://pbs.twimg.com/media/GvESL-bWoAAZA00?format=png&name=360x360" group-title="PELICULAS Y SERIES", 76 | Creo Latino tu cine
 https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Cinema +" tvg-name="CO | Cinema +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVgKgoMnvikMau7Cg9jsbFWr99Qe7Zl11Aw&s" group-title="PELICULAS Y SERIES", 77 | Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
@@ -936,7 +936,7 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(YWAnCRVPuT9M9BRXPNQe_lNoCZvL6SQ80xMeV5xrDBVl0wDcgFo_jtVx-H3eEuELU-3OPCxrcsVHHhO5xu_-cPsaOrdCQnI0ZEHyJEZWRV0)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(kfyFW_SpZn9N1vZ9SawH46nT4kUr1VzUbN7t9IC2XXWKgIO2tSIJQZ6WhpMAE_b46ex3ZudGYhiQ-7syzntQfOl2ldXHFK3V0IZopTEGmxo64LSJCbyJdnKOmujCObUe)/dm/3/x84eirw/s/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
 https://live.eu-north-1a.cf.dmcdn.net/sec2(VWLZcGRQPTdjQJQ_tzOvTWsE-R4RSAe3IDmpG3tb467wX0Ce4TVXRygzzdq7fRPkrI6uIJzNoZYXiWmdZlQ3Q6RcRDmvj0fwns6NygeVFRRD65N70o2VAJBiTbu4DLtU)/dm/3/x9ie7h0/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
