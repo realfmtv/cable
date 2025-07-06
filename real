@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/OuYwtq-3aNec0J79-INEKg/1751817255//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/GS00ccy1Sc11eooDBZEOhQ/1751867679//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1122,33 +1122,29 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7Pp
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 782 | Canal 11 || COSTA RICA
 https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 783 | Trece Costa Rica Televisión || COSTA RICA
-https://live-c.cf.dmcdn.net/sec2(oP_fvphCzS7hETlBjQlwj5_MzgJRhCphr73fa6BhrdbmG-F9-ntv_W3G3270SR7IwIlI-N2oe3l1Y5_xhMOcyJ1Sf8jE-Rj26WCGKfs_HRGSX-deNfg4vANEtBRnn2BL)/dm/3/x7vh8g3/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(wPyomsp6DUWykA8c-em2fC4ru9Q7VWbvYOvu_-hnykc9YQcr0XdqwYNOvU9hx7G1j7JT2eoC1-u4prdjvFhyc_ffzx34HbLOmeqTkhXlf3oVKhQASPGWLMi3YxprGROY)/dm/3/x7vh8g3/d/live-720.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99cc1a3bb1764748c4924d9653c47df2.webp" group-title="COSTA RICA", 784 | Telered || COSTA RICA
-https://62fc643fbf1aa.streamlock.net/prueba1/prueba1/playlist.m3u8
+https://acceso.radiosportstv.online:3908/live/teleredcrlive.m3u8
 #EXTINF:-1 tvg-id="CR | Antena Seis TV" tvg-name="CR | Antena Seis TV" tvg-logo="https://pbs.twimg.com/media/FcB8VoxXEAE5jd0?format=png&name=360x360" group-title="COSTA RICA", 765 | Antena Seis TV || COSTA RICA
-http://tv.azulstream.com:8081/live/NGBjaF4fW5Ms/Nhh3jbs6AsVs/1.m3u8
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 14" tvg-name="CR | TV Sur Canal 14" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png" group-title="COSTA RICA", 786 | TV Sur Canal 14 || COSTA RICA
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | TV Norte" tvg-name="CR | TV Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzpvMx6KFKlFyHmFowpfMvoDt56jJ6tEbvRRtaGjOQQtpMIYyxXy_L_sIdWKVDzt_sfv4&usqp=CAU" group-title="COSTA RICA", 787 | TV Norte || COSTA RICA
+https://k20.usastreams.com:8081/tvsur/index.m3u8
+#EXTINF:-1 tvg-id="CR | TV Norte" tvg-name="CR | TV Norte" tvg-logo="https://www.tvn14.com/wp-content/uploads/2023/03/tvn-logom.svg" group-title="COSTA RICA", 787 | TV Norte || COSTA RICA
 https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Norte Informativo TV" tvg-name="CR | Norte Informativo TV" tvg-logo="https://pbs.twimg.com/media/FlMry5xXoAYtMEN?format=png&name=small" group-title="COSTA RICA", 788 | Norte Informativo TV || COSTA RICA
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="CR | Telesistema" tvg-name="CR | Telesistema" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/player_image/public/2021-04/telesistema-costa-rica.png.webp?itok=tFpto95y" group-title="COSTA RICA", 789 | Telesistema || COSTA RICA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-id="CR | TV Sur Canal 9" tvg-name="CR | TV Sur Canal 9" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online-100x70.png" group-title="COSTA RICA", 790 | TV Sur Canal 9 || COSTA RICA
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Ticavision Canal 27" tvg-name="CR | Ticavision Canal 27" tvg-logo="https://costaricatelevision.com/sites/default/files/2021-03/ticavision-costa-rica_0.png" group-title="COSTA RICA", 791 | Ticavisión || COSTA RICA
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | Anexión TV 36" tvg-name="CR | Anexión TV 36" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/anexiontv-100x70.png" group-title="COSTA RICA", 792 | Anexión TV 36 || COSTA RICA
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="CR | San Vito TV" tvg-name="CR | San Vito TV" tvg-logo="https://yt3.ggpht.com/cLTNc45fyk6VrejPCSbSE6nQgKyR_iVQGfVAZEmxfnJ7i__RkHV06KDGfXvMecGAtV_lYmQsCw=s900-c-k-c0x00ffffff-no-rj" group-title="COSTA RICA", 793 | San Vito TV || COSTA RICA
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | San Vito TV" tvg-name="CR | San Vito TV" tvg-logo="https://play-lh.googleusercontent.com/Kt8hsRbkD5AHz8zRFOy3LbRdTeTLip3WUR9IzPvSHKSTFfj907rpb203h5CeUUIlzyI" group-title="COSTA RICA", 793 | San Vito TV || COSTA RICA
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CR | Tele Uno TV" tvg-name="CR | Tele Uno TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_sAmXW2IvcCMjM4eMnz87h9QSR8mKCWcDCMkSSFQ=s900-c-k-c0x00ffffff-no-rj" group-title="COSTA RICA", 794 | Tele Uno TV || COSTA RICA
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 tvg-id="CR | TV Santa Cruz" tvg-name="CR | TV Santa Cruz" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png" group-title="COSTA RICA", 795 | TV Santa Cruz || COSTA RICA
-https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Nicoya TV" tvg-name="CR | Nicoya TV" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" group-title="COSTA RICA", 796 | Nicoya TV || COSTA RICA
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Voice Over TV" tvg-name="CR | Voice Over TV" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" group-title="COSTA RICA", 797 | Voice Over TV || COSTA RICA
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="CR | Colosal TV" tvg-name="CR | Colosal TV" tvg-logo="https://pbs.twimg.com/media/FcB6HSyXwAAsFGg?format=png&name=360x360" group-title="MUSICA Y REALITIES", 798 | Colosal TV
