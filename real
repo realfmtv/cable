@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/l1PaUUKFBY5ZUTZ-NAYm0w/1752539142//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/ZSDuXTCtvjEtDY1iI5RKmQ/1752579003//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1104,7 +1104,7 @@ https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Canal_9_Noticias.jpg/125px-Canal_9_Noticias.jpg" group-title="PARAGUAY", 761 | C9N || PARAGUAY
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/SNT_LOGO.jpg/220px-SNT_LOGO.jpg" group-title="PARAGUAY", 762 | SNT || PARAGUAY
-https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768 | Televisora Nacional || PANAMÁ
 http://45.5.117.182:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
@@ -1132,7 +1132,7 @@ http://190.149.66.90:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 782 | Canal 11 || COSTA RICA
-https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
+https://d1bva7j5xkfa6y.cloudfront.net/55df2e2af4d2f275175992cb/live/index.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 783 | Trece Costa Rica Televisión || COSTA RICA
 http://179.61.31.142:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99cc1a3bb1764748c4924d9653c47df2.webp" group-title="COSTA RICA", 784 | Telered || COSTA RICA
@@ -1230,7 +1230,7 @@ http://179.61.31.142:8000/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 5" tvg-name="HN | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/150px-Canal_5_HN_logo_2019.png" group-title="HONDURAS", 831 | Canal 5 El Lider || HONDURAS
 http://179.61.31.142:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6" tvg-name="HN | Canal 6" tvg-logo="https://file.canal6.com.hn//2022/03/logo_header.webp" group-title="HONDURAS", 832 | Canal 6 || HONDURAS
-https://envivo.canal6.com.hn/hls/0/stream.m3u8
+https://envivo.canal6.com.hn/memfs/5a536b3e-954a-4124-a17a-d94bbd0968a2.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 833 | Telecadena 7 y 4 || HONDURAS
 http://200.52.148.194:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal8hn2023.png/300px-Canal8hn2023.png" group-title="HONDURAS", 834 | Canal 8 || HONDURAS
@@ -1733,7 +1733,7 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 https://panelautodj.innovatestream.pe:10742/;
 #EXTINF:-1 tvg-id="PE | Radio Interactiva" tvg-name="PE | Radio Interactiva" tvg-logo="https://interactivaradio.com/wp-content/uploads/2023/10/LOGO.png" group-title="EMISORAS LOCALES", 1080 | Interactiva Radio 92.9 FM || Moyobamba; Perú
 https://conectperu.com/8390/stream
-#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="EMISORAS LOCALES", 1081 | Radio Selva 93.7 FM || Moyobamba; Perú
+#EXTINF:-1 tvg-id="PE | Radio Selva" tvg-name="PE | Radio Selva" tvg-logo="https://ahxpro.com/panelradiotv/server/public/images/1745990543fondo.jpg" group-title="EMISORAS LOCALES", 1081 | Radio Selva 93.7 FM || Moyobamba; Perú
 https://radioconector.com:7010/stream
 #EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 1082 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
