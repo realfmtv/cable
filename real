@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://live-evg4.tv360.bitel.com.pe/12tcZUB7gfcIfhqdrsGgwQ/1752727281//bitel/americatv/playlist.m3u8?uid=74530
+https://live-evg4.tv360.bitel.com.pe/XH35HK9iDp0R-zJ9TY5y3g/1752752385//bitel/americatv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -18,9 +18,9 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="PE | TV Peru Noticias" tvg-name="PE | TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/120px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=2924955019&_cdn_token=971f7983ca3ab98b232869496ed9a2df3c0079a0
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=2925242195&_cdn_token=59413de4626a40b58e637132386fe76083d7ee76
 #EXTINF:-1 tvg-id="PE | Canal J" tvg-name="PE | Canal J" tvg-logo="https://static.srv.econocable.i.mtvreg.com/cache/logos/CANALJ.png" group-title="PERU", 8 | Canal J
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CANALJ/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALJ_stream_bi&_cdn_session=2924955587&_cdn_token=3ad5540e037cfa16f20a9895df779562b649b646
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALJ/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALJ_stream_bi&_cdn_session=2925242499&_cdn_token=46b9b542047d2640d089f6c332f9eefe5869546b
 #EXTINF:-1 tvg-id="PE | Andina Television" tvg-name="PE | Andina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Plus" tvg-name="PE | Andina Television Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
@@ -28,7 +28,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Sur" tvg-name="PE | Andina Television Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
 https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="PERU", 10 | RPP TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=2924956691&_cdn_token=1430184aabcbc6e36a70959abf134ad36f3165f7
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=2925242707&_cdn_token=912d249f45928fe8d836e9dc204949a50b730920
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
@@ -422,7 +422,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="REGIONALES", En prueba | Conectad2 Television
 https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Justicia TV" tvg-name="PE | Justicia TV" tvg-logo="https://static.srv.econocable.i.mtvreg.com/cache/logos/JUSTICIATV.png" group-title="REGIONALES", En prueba | Justicia TV
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUSTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUSTICIATV_stream_rx&_cdn_session=2924957763&_cdn_token=b5d0a006b563f8ba8475a2bf5f97c8c624e4b542
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUSTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUSTICIATV_stream_rx&_cdn_session=2925243691&_cdn_token=a19d5da519dbedebad9c6b43d316a8b0bc61eb9a
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 197 | Onda Digital Noticias || Lima
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital 2" tvg-name="PE | Onda Digital 2" tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2020/07/LOGO-ODTV-2.png?resize=300%2C269&ssl=1" group-title="REGIONALES", 197.2 | Onda Digital 2 || Lima
@@ -616,7 +616,7 @@ http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="ECUADOR", En prueba | TVC || ECUADOR
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", En prueba | RTS || ECUADOR
-https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
+https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 290 | Ecuador TV || ECUADOR
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 291 | Oromar Televisión || ECUADOR
@@ -959,10 +959,10 @@ https://rtp.noxun.net/hls/stream.m3u8
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Asociación de Teledifusoras Bolivianas" tvg-name="BO | Asociación de Teledifusoras Bolivianas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(wq-8lw22RMxNX3ckVfcGwlF_u-zfAU4SO9AOuP5-Alyqq6JFPlPgGzTVrtnZAU9_M6kb7aq4MHqiZ2Cw-ea0ribE7Zi6IRgOLF0JNxqr_xBoDkm8_7R18gb_mdc9ys7V)/dm/3/x84eirw/s/live-720.m3u8
+#EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
+https://live.eu-north-1a.cf.dmcdn.net/sec2(NnRB4qwTykLeptBNnVUcTMdKWdnaUnUwk1-j1p_WEg_XKPa7eTK7gbYBHiOsdfU2Gmr53ehiE0b1eTtUlq-RBvtw6pvkpX8P6Q8nmtty_QA4CoUlSbRWrt8Nd_MnUekQ)/dm/3/x84eirw/s/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(VWLZcGRQPTdjQJQ_tzOvTWsE-R4RSAe3IDmpG3tb467wX0Ce4TVXRygzzdq7fRPkrI6uIJzNoZYXiWmdZlQ3Q6RcRDmvj0fwns6NygeVFRRD65N70o2VAJBiTbu4DLtU)/dm/3/x9ie7h0/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(QHvE7ubVCcZqKj5FxyAgk8wRcn6qHav_DRIIZu_ZxZDyC_tyr2l3G6cjx8uGnKtWk7D5jDgj2o734j-fJt0O4YiCsHE1ezCp-FtNeNoDJ5Kj6ZsKLqc1seAKw3U7a3fc)/dm/3/x9mmebq/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
@@ -1095,8 +1095,6 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Plaza TV" tvg-name="CL | Plaza TV" tvg-logo="https://pbs.twimg.com/profile_images/1463313754712465410/BSW2UVAs_400x400.jpg" group-title="CHILE", 744 | Plaza TV || CHILE
 https://marine2.miplay.cl/girovisual/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="CHILE", En prueba | TV Pop
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AR | Television Publica" tvg-name="AR | Television Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", En prueba | Television Publica || ARGENTINA
 http://38.41.8.1:8000/play/a040
 #EXTINF:-1 tvg-id="AR | Ciudad Mágica TV" tvg-name="AR | Ciudad Mágica TV" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="ARGENTINA", 747 | Ciudad Mágica TV || ARGENTINA
