@@ -422,7 +422,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="REGIONALES", En prueba | Conectad2 Television
 https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="PE | Justicia TV" tvg-name="PE | Justicia TV" tvg-logo="https://static.srv.econocable.i.mtvreg.com/cache/logos/JUSTICIATV.png" group-title="REGIONALES", En prueba | Justicia TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALJ/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALJ_stream_bi&_cdn_session=2936294916&_cdn_token=c5cace21dff851194cbff6fdb35507875536ee4b
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUSTICIATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUSTICIATV_stream_rx&_cdn_session=2936335844&_cdn_token=489c67be892de37e0534b7e27381b99063d264d6
 #EXTINF:-1 tvg-id="PE | Onda Digital" tvg-name="PE | Onda Digital" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 197 | Onda Digital Noticias || Lima
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Onda Digital 2" tvg-name="PE | Onda Digital 2" tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2020/07/LOGO-ODTV-2.png?resize=300%2C269&ssl=1" group-title="REGIONALES", 197.2 | Onda Digital 2 || Lima
