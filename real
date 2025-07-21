@@ -1336,25 +1336,25 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
-http://45.5.117.182:8000/play/a0fR/index.m3u8
+http://190.149.62.46:8004/play/a0lf/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
-http://181.78.105.146:2000/play/a08g/index.m3u8
+http://190.149.62.46:8004/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 873 | TN 23 || GUATEMALA
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+http://190.149.62.46:8004/play/1/index.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 874 | Guatevisión || GUATEMALA
 http://179.61.31.142:8000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="GUATEMALA", 875 | Canal 27 El Canal de la Esperanza || GUATEMALA
-https://live.canal27.tv:3633/live/canal27live.m3u8
+#EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="http://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944-1024x576.png" group-title="GUATEMALA", 875 | Canal 27 El Canal de la Esperanza || GUATEMALA
+https://ch1-c27.duin.dev/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
-http://38.180.133.31:8000/play/a0oa/index.m3u8
+http://190.149.62.46:8004/play/a0mk/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
-http://45.5.117.182:8000/play/f0j9/index.m3u8
+http://190.149.62.46:8004/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
 http://38.180.133.31:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsgFYaU_tT4Z0x5Wqd0bOn62qEjlQbC_rfPhkE4MfeO_XuMoUOlmHG30HrOKWE-LpZMJyz9wdnhjjY_We1rLS8PzzOfC21fXO1N7GyTy4Gjx7hwp52YHbzCLm-wcDpI1vj1ecM1K0qMQZzqigS6LCCAN8rfyAOK4XnuLxE6B7SAcIezoexCsVWWmfpNIZW1P2aXlkMi_ImRlwHycm_4uLeaCwsFNbEgiT8SQblupqHTp1sld2BvaYk0CN33pZKX_Y1kKY7j0ROD9Xtqy1xkzA_yH74j1WeG27tOo36BTpW3La9I5nvVIqoYzmYKIFUGI7LWJbLLISoJgxnuRMMEw3jqCpopYJon1KfTSVHxLUBDZlVFr-BmOlobDYvEUuRAHiiICKFBgHJAIUO4bkDkqgrPr5bGkOM8qL2-yEO1exzMdhs_O-qgsd3v9TmCrgvj8fQsiYSknbOhD7pNxm8a7y82nlFiU5Lezv2borexuadx0Coxh54LnPLkrSa6OYrj-bUGu3662yyJTj6KXEiDNzXq8S4TD8P4qOg4NbygvMuV3NUgUDIL-IdzRb_RPPLrLUDtrc9naJIjzT4hDXjwjvh_QfFxRy5iAcyi7lc6bnnoBqPba0RkVerQi8Cg5cwyMORcnI4NmnoE44ym6aSq0e-O3uYXlumCAbRSRh9gGQpvGUgtsBlEd3rw6vdz7TXQNMdunnVltEf5nyR0peI7UXd609W_9cJgbZqdPw7NfS1I86XB5HVrLbCNLuHi2drUpj9r3VoxjLUljd9OQpdhODdzFxOeR-Hsw6qlDqDwxKuSjl0pERsoH9gMoIwRXWLjdHORiK5-z2Xx0Bj8UaVGOnNiHL5smfho4PDbK9z-CxJ72HRNd8ixfJrKD9GS9lITO5UVBjczldpyQz_SZELKnIZBzYJMNfffdDxD_l9LgAutOQ1a-h0zy7zRSYxoMX8cmkEruN6zWCVDzIAEqCXVzLWVhc3QtMjCjCQ.m3u8
+http://190.149.62.46:8004/play/a0ox/index.m3u8
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 881 | TVS Retro || GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", 882 | Canal 5 Sololá || GUATEMALA
@@ -1672,9 +1672,9 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="MEXICO", 1036 | Las Estrellas || MÉXICO
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://190.149.62.46:8004/play/a0of/index.m3u8
 #EXTINF:-1 tvg-id="MX | Canal 5" tvg-name="MX | Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", 1037 | Canal 5 || MÉXICO
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+http://190.149.62.46:8004/play/a0p0/index.m3u8
 #EXTINF:-1 tvg-id="MX | Multimedios Televisión Canal 6" tvg-name="MX | Multimedios Televisión Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/150px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", 1038 | Multimedios Televisión Canal 6 || MÉXICO
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="MX | a más+" tvg-name="MX | a más+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/200px-A%2B_2021.svg.png" group-title="MEXICO", 1039 | a más+ || MÉXICO
@@ -1684,7 +1684,7 @@ https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Justicia TV" tvg-name="MX | Justicia TV" tvg-logo="https://yt3.googleusercontent.com/IQ9OT-8XLVsNLMl5nCkh_uU7uJ0iaUpa2gQ6o8U66dp4JCG6f9mYtVIFivm-TMla_Sg7ekdUyYg=s160-c-k-c0x00ffffff-no-rj" group-title="MEXICO", 1041 | Justicia TV || MÉXICO
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Unicable" tvg-name="MX | Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="MEXICO", 1042 | Unicable || MÉXICO
-http://181.78.105.146:2000/play/a08f/index.m3u8
+http://190.149.62.46:8004/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="MX | ADN 40" tvg-name="MX | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adn40_2022.png/245px-Adn40_2022.png" group-title="MEXICO", 1043 | ADN 40 || MÉXICO
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="MX | N+ Media" tvg-name="MX | N+ Media" tvg-logo="https://img.asmedia.epimg.net/resizer/__0kSWQYeMV8ePRtOMVM_gEfza0=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", 1044 | N+ Media || MÉXICO
