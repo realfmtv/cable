@@ -627,7 +627,7 @@ https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", 290 | Ecuador TV || ECUADOR
 https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR", 291 | Oromar Televisión || ECUADOR
+#EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BmcWWEYtrtRJoUxVTkfvb2_pWIfBbODaDg&s" group-title="ECUADOR", 291 | Oromar Televisión || ECUADOR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 292 | Hechos Ecuador TV || ECUADOR
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
@@ -1348,11 +1348,11 @@ https://live.canal27.tv:3633/live/canal27live.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
-http://45.5.117.182:8000/play/a0st/index.m3u8
+http://38.180.133.31:8000/play/a0oa/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
 http://45.5.117.182:8000/play/f0j9/index.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
-http://138.59.177.34:8000/play/a062/index.m3u8
+http://38.180.133.31:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsgFYaU_tT4Z0x5Wqd0bOn62qEjlQbC_rfPhkE4MfeO_XuMoUOlmHG30HrOKWE-LpZMJyz9wdnhjjY_We1rLS8PzzOfC21fXO1N7GyTy4Gjx7hwp52YHbzCLm-wcDpI1vj1ecM1K0qMQZzqigS6LCCAN8rfyAOK4XnuLxE6B7SAcIezoexCsVWWmfpNIZW1P2aXlkMi_ImRlwHycm_4uLeaCwsFNbEgiT8SQblupqHTp1sld2BvaYk0CN33pZKX_Y1kKY7j0ROD9Xtqy1xkzA_yH74j1WeG27tOo36BTpW3La9I5nvVIqoYzmYKIFUGI7LWJbLLISoJgxnuRMMEw3jqCpopYJon1KfTSVHxLUBDZlVFr-BmOlobDYvEUuRAHiiICKFBgHJAIUO4bkDkqgrPr5bGkOM8qL2-yEO1exzMdhs_O-qgsd3v9TmCrgvj8fQsiYSknbOhD7pNxm8a7y82nlFiU5Lezv2borexuadx0Coxh54LnPLkrSa6OYrj-bUGu3662yyJTj6KXEiDNzXq8S4TD8P4qOg4NbygvMuV3NUgUDIL-IdzRb_RPPLrLUDtrc9naJIjzT4hDXjwjvh_QfFxRy5iAcyi7lc6bnnoBqPba0RkVerQi8Cg5cwyMORcnI4NmnoE44ym6aSq0e-O3uYXlumCAbRSRh9gGQpvGUgtsBlEd3rw6vdz7TXQNMdunnVltEf5nyR0peI7UXd609W_9cJgbZqdPw7NfS1I86XB5HVrLbCNLuHi2drUpj9r3VoxjLUljd9OQpdhODdzFxOeR-Hsw6qlDqDwxKuSjl0pERsoH9gMoIwRXWLjdHORiK5-z2Xx0Bj8UaVGOnNiHL5smfho4PDbK9z-CxJ72HRNd8ixfJrKD9GS9lITO5UVBjczldpyQz_SZELKnIZBzYJMNfffdDxD_l9LgAutOQ1a-h0zy7zRSYxoMX8cmkEruN6zWCVDzIAEqCXVzLWVhc3QtMjCjCQ.m3u8
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 881 | TVS Retro || GUATEMALA
