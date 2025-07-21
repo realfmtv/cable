@@ -1331,13 +1331,13 @@ http://go.iptvhn.net:25461/7680/7680/227
 https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
-#EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Canal7GT2022.png/1024px-Canal7GT2022.png" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Canal11GT2022.png/200px-Canal11GT2022.png" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
 http://190.149.62.46:8004/play/a0lf/index.m3u8
-#EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal13GT2022.png/250px-Canal13GT2022.png" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Canal13Guatemala2022.png/revision/latest?cb=20221112015302" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
 http://190.149.62.46:8004/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 873 | TN 23 || GUATEMALA
 http://190.149.62.46:8004/play/1/index.m3u8
@@ -1349,13 +1349,13 @@ https://ch1-c27.duin.dev/hls/0/stream.m3u8
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
 http://190.149.62.46:8004/play/a0mk/index.m3u8
-#EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_antigua_logo.png/115px-Canal_antigua_logo.png" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
-http://190.149.62.46:8004/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mQ2cGaphWUv9K2kYzPGhOHQMLCIBTqLEPsmtqaJd58jEc=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
+https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
 http://38.180.133.31:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
 http://190.149.62.46:8004/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="GUATEMALA", 881 | TVS Retro || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Vision TV" tvg-name="GT | Vision TV" tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="GUATEMALA", 881 | Vision TV || GUATEMALA
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 5 Sololá" tvg-name="GT | Canal 5 Sololá" tvg-logo="https://play-lh.googleusercontent.com/nM4lpY-B8PmfTf61UOpV2wSHLKD02F7stYKL36nzjs5OT6QXTF4dEsyoCVJVW4KlXg=w526-h296-rw" group-title="GUATEMALA", 882 | Canal 5 Sololá || GUATEMALA
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
