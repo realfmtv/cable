@@ -1332,7 +1332,7 @@ https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
