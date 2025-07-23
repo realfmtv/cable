@@ -6,7 +6,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2948769636&_cdn_token=764c751254fa458ae23593250d8b94c32f11cd58
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2957993564&_cdn_token=79083b66c908964aa5d7c2e03efe095b0d55a620
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1332,7 +1332,7 @@ https://amixtv.live:3395/live/unetvlive.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
-https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
@@ -2023,12 +2023,14 @@ https://server6.globalhostla.com:8068/stream
 https://acp4.lorini.net/proxy/ur2080?mp=/stream
 #EXTINF:-1 tvg-id="VE | La Radio del Sur" tvg-name="VE | La Radio del Sur" tvg-logo="http://www.laradiodelsur.com.ve/wp-content/uploads/2020/03/c300.png" group-title="EMISORAS INTERNACIONALES", 1213 | La Radio del Sur || VENEZUELA
 http://190.202.130.61:8000/lrds
-#EXTINF:-1 tvg-id="BO | Radio Estelar" tvg-name="BO | Radio Estelar" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/estelar-fm-92-5.png" group-title="EMISORAS INTERNACIONALES", 1214 | Radio Estelar 92.5 FM || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Radio Estelar" tvg-name="BO | Radio Estelar" tvg-logo="https://www.estelarfm.com/EstelarFm.jpg" group-title="EMISORAS INTERNACIONALES", 1214 | Radio Estelar 92.5 FM || BOLIVIA
 https://a3.asurahosting.com:7680/radio.mp3
 #EXTINF:-1 tvg-id="BO | Radio Panamericana" tvg-name="BO | Radio Panamericana" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="EMISORAS INTERNACIONALES", 1215 | Radio Panamericana 96.1 FM || BOLIVIA
 https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
 #EXTINF:-1 tvg-id="BO | ATB Radio" tvg-name="BO | ATB Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/atb.png" group-title="EMISORAS INTERNACIONALES", 1216 | ATB Radio 107.2 FM || BOLIVIA
 https://streamingenbolivia.com/8006/stream
+#EXTINF:-1 tvg-id="BO | Eres Radio" tvg-name="BO | Eres Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbKtM9aa00ve5KxUm1a5G_CoDcxjZi-ibww&s" group-title="EMISORAS INTERNACIONALES", En prueba | Eres Radio 105.7 FM || BOLIVIA
+https://sp5.servidorrprivado.com/8789/stream
 #EXTINF:-1 tvg-id="CL | Romántica FM" tvg-name="CL | Romántica FM" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="EMISORAS INTERNACIONALES", 1217 | Romántica 104.1 FM || CHILE
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 #EXTINF:-1 tvg-id="CL | Amor AM & FM Stereo" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="https://www.radioamor.cl/images/log-header.png" group-title="EMISORAS INTERNACIONALES", 1218 | Amor AM & FM Stereo || CHILE
