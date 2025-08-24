@@ -6,7 +6,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2932421269&_cdn_token=3468a3841cb9a625c7e26943a9c982985ee05e55
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=2941465309&_cdn_token=36103a002bb5eb5ee057218626e12ee919fbc42a
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3013230388&_cdn_token=5083cdf09966c1bdbe1e2dc4eebbb2a872baa9d5
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -228,7 +228,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/IPE/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="PE | DM Kids TV" tvg-name="PE | DM Kids TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo_david_transparente.png" group-title="INFANTILES", 102 | DM Kids TV
 https://ott1.hdlatam.tv/live/k1ds_TVNXDRMBXMLSK/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Canal Infantil" tvg-name="USA | Canal Infantil" tvg-logo="https://www.latingroup.us/images/logoci.png" group-title="INFANTILES", 103 | Canal Infantil
-http://160.20.165.246:8000/play/a01y/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CINEINFANTIL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINEINFANTIL_stream_0k&_cdn_session=2941467253&_cdn_token=0dbc527d17b2dd1d4b88dcfdeb4056663a485266
 #EXTINF:-1 tvg-id="USA | FMH Kids" tvg-name="USA | FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTILES", 104 | FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Peque TV" tvg-name="CL | Peque TV" tvg-logo="https://pbs.twimg.com/media/Gu_Z8XFWQAAEaDB?format=png&name=small" group-title="INFANTILES", 105 | Peque TV
@@ -338,7 +338,7 @@ https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="CULTURA Y EDUCACION", 151 | TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 152 | National Geographic
-http://179.61.31.142:8000/play/a0ff/index.m3u8
+http://186.148.178.10:9092/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA Y EDUCACION", 153 | Discovery Science
 http://179.61.31.142:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://cdn.mitvstatic.com/channels/pe_history_m.png" group-title="CULTURA Y EDUCACION", En prueba | History
@@ -665,16 +665,14 @@ https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | RTV" tvg-name="EC | RTV" tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2022/08/SELLO-RTV-2022-1536x1536.png" group-title="ECUADOR", 306 | RTV || ECUADOR
 https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", En prueba | RCN
-http://38.41.8.1:8000/play/a0t4
-#EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", En prueba | Caracol Television
-http://38.41.8.1:8000/play/a0t5
-#EXTINF:-1 tvg-id="CO | El Tiempo Television" tvg-name="CO | El Tiempo Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ET_canal_El_Tiempo_logo.png/250px-ET_canal_El_Tiempo_logo.png" group-title="COLOMBIA", 307 | El Tiempo Television
-http://38.41.8.1:8000/play/a0wc
-#EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 308 | Canal Capital || COLOMBIA
-https://cdns.livewave.co:8081/canalcapital/index.m3u8
-#EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="COLOMBIA", 309 | Eureka tu canal || COLOMBIA
-https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", 307 | RCN
+http://186.148.178.10:9092/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN 2" tvg-name="CO | RCN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/250px-RCN_HD2_2023.png" group-title="COLOMBIA", 307.2 | RCN 2
+http://186.148.178.10:9092/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", 308 | Caracol Television
+http://186.148.178.10:9092/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 309 | Canal Capital || COLOMBIA
+http://186.148.178.10:9092/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 310 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 311 | Zoom TV || COLOMBIA
