@@ -140,13 +140,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-id="MX | Corazon" tvg-name="MX | Corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png/250px-Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="NOVELAS", 62 | Corazon
 http://179.61.31.142:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlnovelas_logo_2021.png/120px-Tlnovelas_logo_2021.png" group-title="NOVELAS", 63 | Tlnovelas
-http://179.61.31.142:8000/play/a0i4/index.m3u8
+http://45.160.12.253:8000/play/069
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://yt3.googleusercontent.com/jv9iG5lX6If2oKYfmNmMrtDRGTxPwLULMNqLHe6WNcuzIzw1ta11kz-vG992OHsmyVO5bVH9R0A=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS", 64 | RCN Novelas
 http://179.61.31.142:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", 65 | Pasiones
 http://179.61.31.142:8000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", En prueba | TNT Novelas
-http://179.61.31.142:8000/play/a0fw/index.m3u8
+http://45.160.12.253:8000/play/103
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png" group-title="INTERNACIONALES", 66 | Univision
 http://179.61.31.142:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 67 | Telemundo Internacional
@@ -202,11 +202,11 @@ http://179.1.199.50:9000/play/a04s
 #EXTINF:-1 tvg-id="PE | Cine Club" tvg-name="PE | Cine Club" tvg-logo="https://pbs.twimg.com/media/GnzVK6iWYAAweEy?format=png&name=240x240" group-title="PELICULAS Y SERIES", 89 | Cine Club
 https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 90 | Cartoon Network
-http://179.61.31.142:8000/play/a01q/index.m3u8
+http://45.160.12.253:8000/play/009
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES", 91 | Cartoonito
 http://179.61.31.142:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/250px-Logo_de_Tooncast.svg.png" group-title="INFANTILES", 92 | Tooncast
-http://179.61.31.142:8000/play/a07p/index.m3u8
+http://45.160.12.253:8000/play/185
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 93 | Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 94 | Dios TV Kids
@@ -236,9 +236,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/330px-123TV_logo_2022.jpg" group-title="INFANTILES", 106 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Kids_Logo_%282021%29.webp/200px-Discovery_Kids_Logo_%282021%29.webp.png" group-title="INFANTILES", 107 | Discovery Kids
-http://179.61.31.142:8000/play/a0cy/index.m3u8
-#EXTINF:-1 tvg-id="USA | Semillitas" tvg-name="USA | Semillitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Semillitas2011.png/330px-Semillitas2011.png" group-title="INFANTILES", 108 | Semillitas
-http://179.61.31.142:8000/play/a063/index.m3u8
+http://45.160.12.253:8000/play/005
+#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/250px-2024_Disney_Channel_text_logo.svg.png" group-title="INFANTILES", 108 | Disney Channel
+http://45.160.12.253:8000/play/010
 #EXTINF:-1 tvg-id="MX | Bitme" tvg-name="MX | Bitme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YyFiyWujtDfuAAnjnE_UdffMQ0V3xTQMFQ&s" group-title="INFANTILES", En prueba | Bitme
 http://186.148.178.10:9092/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 109 | El Conflicto Tribunal del Pueblo TV
@@ -246,7 +246,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 #EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 110 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS E INFORMACION", 111 | CNN en Español
-http://179.61.31.142:8000/play/a05c/index.m3u8
+http://45.160.12.253:8000/play/054
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION",112 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 113 | Telesur
@@ -266,17 +266,21 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="FR | Fashion TV" tvg-name="FR | Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="ESTILOS DE VIDA", 120 | Fashion TV
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
-http://179.61.31.142:8000/play/a0h6/index.m3u8
+http://45.160.12.253:8000/play/212
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 122 | ESPN 2
-http://179.61.31.142:8000/play/a0h7/index.m3u8
+http://45.160.12.253:8000/play/214
 #EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 123 | ESPN 3
-http://179.61.31.142:8000/play/a0h8/index.m3u8
+http://45.160.12.253:8000/play/216
 #EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 124 | ESPN 4
-http://179.61.31.142:8000/play/a0ho/index.m3u8
+http://45.160.12.253:8000/play/218
 #EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 125 | ESPN 5
-http://179.61.31.142:8000/play/a0ha/index.m3u8
+http://45.160.12.253:8000/play/a1d8
 #EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
-http://179.61.31.142:8000/play/a0hy/index.m3u8
+http://45.160.12.253:8000/play/211
+#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/250px-ESPN_7_logo.svg.png" group-title="DEPORTES", En prueba | ESPN 7
+http://45.160.12.253:8000/play/210
+#EXTINF:-1 tvg-id="USA | ESPN Premium" tvg-name="USA | ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", En prueba | ESPN Premium
+http://45.160.12.253:8000/play/209
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 127 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="MX | Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format=png&name=240x240" group-title="DEPORTES", 128 | Sky Sports La Liga
