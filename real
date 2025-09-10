@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Television
-https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8?uid=74530
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3084135316&_cdn_token=201ce6b58e51fc88a0d9a9044e111dca75c63454
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
@@ -19,8 +19,8 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/120px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=3111204499&_cdn_token=31fd7ebe28ba1f23f01b59a4e7bb8865eed6c631
-#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="PERU", 8 | Movistar Deportes
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/JUNTOSTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DJUNTOSTV_stream_9l&_cdn_session=3112459595&_cdn_token=84a109af092f0fd1eaad6ae05c74385ac9f985a5
+#EXTINF:-1 tvg-id="PE | Gol Peru" tvg-name="PE | Gol Peru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Gol_Per%C3%BA_2019.svg/revision/latest/scale-to-width-down/300?cb=20210507225000&path-prefix=es" group-title="PERU", 8 | Gol Peru
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CGEVENTOS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCGEVENTOS_stream_mt&_cdn_session=3084118932&_cdn_token=1e2c86ba4a55881574e85f617bdfb1e5d0dd9bc4
 #EXTINF:-1 tvg-id="PE | Andina Television" tvg-name="PE | Andina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU", 9 | ATV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATV_stream_of&_cdn_session=3112515331&_cdn_token=8c88a44faf53b05abfa1159ff1a4bb8ddce014fd
 #EXTINF:-1 tvg-id="PE | Andina Television Plus" tvg-name="PE | Andina Television Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="PERU", 9.2 | ATV +
