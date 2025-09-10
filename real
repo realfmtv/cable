@@ -960,11 +960,11 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 667 | Bolivisión || BOLIVIA
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
-https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(R-ehCW3wf87uOfXoE8bCjU_5JwywNv-_MsbQvn9IjnvlZPNrdYjwYc2lq9jF3lJRoAFnYwY-inooGepNsaFZKOY0cWLMBzz3KmmCaBFoqc-tUbyjEv4GxqX-uTro2z-z)/cloud/3/x9nzqpo/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(NnRB4qwTykLeptBNnVUcTMdKWdnaUnUwk1-j1p_WEg_XKPa7eTK7gbYBHiOsdfU2Gmr53ehiE0b1eTtUlq-RBvtw6pvkpX8P6Q8nmtty_QA4CoUlSbRWrt8Nd_MnUekQ)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(rUfHjOZo7z_PkP1SJN2bLDSxe5lmVeOIbb8q7Zlzc3sHp3CdAioknMtjVGdVaCxgZaPGnCU0d5k7m90JIuYD197CQzPfBb3uAeihgBGQRh-tO1tP7FB8Fyy-4mKwmtO5)/dm/3/x84eirw/s/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(QHvE7ubVCcZqKj5FxyAgk8wRcn6qHav_DRIIZu_ZxZDyC_tyr2l3G6cjx8uGnKtWk7D5jDgj2o734j-fJt0O4YiCsHE1ezCp-FtNeNoDJ5Kj6ZsKLqc1seAKw3U7a3fc)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(BuuyK8xBgexWlXnQ9Nte3wBPIoF7pZ_PcNQlkC_KMPwtdBWfGo8Q9Gmqd8XXyow6m3X11uySgFOS3K2zg7C2j3EFX0t3zM4wALU29sydOhvsliylH_o_kW-6u_97gyFZ)/dm/3/x9mmebq/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
