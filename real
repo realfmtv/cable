@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3013222436&_cdn_token=f4dfc5640dae64c116873192690f3543cbc3e381
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3084039204&_cdn_token=0a3d5ba6ad8e0a6389832020ba3688b5ed4f1a71
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
