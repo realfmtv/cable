@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", 2 | Latina Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3084135316&_cdn_token=201ce6b58e51fc88a0d9a9044e111dca75c63454
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3084801284&_cdn_token=90650fbda96fb6d03e9a2b750c8f9be4a5963f8a
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3112512187&_cdn_token=aa44c5177670e43284ba14ad3e9fa4c9f8db5684
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3084801148&_cdn_token=2e634375725423466c2e51e2fdd7cbf67c25257b
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3112522003&_cdn_token=179a834084e738c6b7fc4c123e863202bcdfe3cc
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -28,7 +28,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ATVMAS/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="PE | Andina Television Sur" tvg-name="PE | Andina Television Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", 9.3 | ATV Sur
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DATVSUR_stream_5h&_cdn_session=3013252780&_cdn_token=c0ada0a4d260d81f3226b993bf16f75793f293a7
 #EXTINF:-1 tvg-id="PE | RPP TV" tvg-name="PE | RPP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="PERU", 10 | RPP TV
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3112512843&_cdn_token=b100bfce0397be862b46c0919f9c2fd158492c72
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3084802108&_cdn_token=f927b9c378734f1fed0c837ef0c4395288bff414
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3013254604&_cdn_token=0082958a2a00170129cb9c5e22511115485dc301
 #EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
@@ -960,37 +960,37 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 667 | Bolivisión || BOLIVIA
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(R-ehCW3wf87uOfXoE8bCjU_5JwywNv-_MsbQvn9IjnvlZPNrdYjwYc2lq9jF3lJRoAFnYwY-inooGepNsaFZKOY0cWLMBzz3KmmCaBFoqc-tUbyjEv4GxqX-uTro2z-z)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(RORWEK7q9Fc32mnIQwbfaFCW-mDl57kp9Eq6hC0QhJR70UGSCTGGonv4OooWMVOxneCmjmVEGvWrAIe38ZXp99Y_vnrr9nsxOeKGWktMwfzK1w6nbWVP10f1w8RLZio_)/cloud/3/x9nzqpo/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
-https://live.eu-north-1a.cf.dmcdn.net/sec2(rUfHjOZo7z_PkP1SJN2bLDSxe5lmVeOIbb8q7Zlzc3sHp3CdAioknMtjVGdVaCxgZaPGnCU0d5k7m90JIuYD197CQzPfBb3uAeihgBGQRh-tO1tP7FB8Fyy-4mKwmtO5)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(j8FhaHJQgPgx4povXw7bFQZRHRD41OB9nmNEeS4o6XtH7dizSUQp06VXsCDdZuHAonh-na8mNNjLnGcZVBspEXRyFJ64OrkkZatUqCn6uxe4eJtbxz797ML1Nu1mv82i)/dm/3/x84eirw/s/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 670 | Red Uno || BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(BuuyK8xBgexWlXnQ9Nte3wBPIoF7pZ_PcNQlkC_KMPwtdBWfGo8Q9Gmqd8XXyow6m3X11uySgFOS3K2zg7C2j3EFX0t3zM4wALU29sydOhvsliylH_o_kW-6u_97gyFZ)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(hBbLWyhuIu1T6I5GIcy3XI2MM7IIn8TbbzIKF1UGuZIp-Qj4mtFs7f8SJm2yw2ZZVwd5zoDdgzwWUVCu9ak-62T3ZIhMb164yS0hDji-y7HypNzue7ShJlAKBf14grKX)/dm/3/x9mmebq/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2023/10/cropped-cropped-MOSCA-BLANCA-OK-1-1-308x119.png" group-title="BOLIVIA", 673 | Abya Yala TV || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-8.m3u8
 #EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 674 | Erbol TV || BOLIVIA
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+https://sae11.playlist.ttvnw.net/v1/playlist/Cq0GadtD0Lng_6qfOEu9XsQPRuML7Ly-4rRO79cjguqXSaxMq_LcZA8-e_EV1wraU2-frvDRo_N4EsQ7uEFI6qEAff6JYY2tr7gaTNl4M3_30ElJdPetbKirOouvf9yjWO7HeyvwgvB3b7mgn_q4njjxjpRUFsIhH5yGT56db_8jmaeu_93_5RUgLjs4K9mec5bGgaGSbn1fXDRt3pI8Cc0YSgy9BDD8qcf4Y3MLPIU4VZ7XO__uhb3dVB8Kl0V3gZijFUtmi2tfOKJbWY20WF1Ow_52nxPnl8diRx0x2qlOLc_m7sXNc-ioSt4-9vc9mZP5HRDnoMoEYOQrBPLOE0sxyILccXsLOlVc7RBsnbY2UUQxb78VR8AJe9Hz4W5aE-AFZOnFLKaKHaUw2X6O9yp3cJmaQQ3mWa3XZ12i4Ms133JGoPgriyUIzD5xJuw6451SfjCaVdHx-tOEYbXST8Asq7LLlUz7eC9ZNU8LGRfUpX_YICFj3HfuN4DMP8wjXS4wz3PZcUNdIib39Z3DvCuSjUA8LjUKiudXHh5g2uJh5_UF9wLyPBsUu96Absd_dJcC24Lq0HM8tp0cMX04VsWe42elM3WXo4RKt1r_BNT0JElNXcziMhyVE2Orthdiu8fsB5r_sIUd95Igdyo8_PQiHk07isbObiwci-BC_-E1p1DOjMDvx5Q94ye4w80PPbJ3PwIS5p8-4i89Q8z4Kl6lAY0cZxGTCp9KpA85GCkeNaYxihHzUEYQHvzGnfeUWC3LC8iUf4KKt2wpDTJuD1HFpjY9YelgrQCB-UwQizqlR89-ZyHnrHPNGxUXSeaoVPUjJ6NFmXCEw9Zm-sffFi8gxE29t507est9p5o7J-XZFaJ4oRRxNPdyhXzlGwtVYYDoD7OZJwGN8cOTSwwTb3nQR80Nm5fE7WvJBfzBiuaXfkZcllVMdylTlZuIIpVvnSzQFLelJ6XjLTYcwfcyk8seZkgLnXvt8MMM7x0VDoJbIAKV4MiGkHO4vPT3_DyWKIALIbYsBrbNszdB6MtYRhOTYZ6h8zp8UcFF0CqmK1GUqSYxn4__0bsWiOT4BQSrGgxLzedU-h8thLWVseogASoJdXMtZWFzdC0yMJgN.m3u8
 #EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 675 | Coral TV || BOLIVIA
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1751690501506" group-title="BOLIVIA", 676 | TV Universitaria || BOLIVIA
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677 | Seo TV || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-1.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Deportes" tvg-name="BO | Seo TV Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.2 | Seo TV Deportes || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-5.1.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-5.1.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Peliculas" tvg-name="BO | Seo TV Peliculas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.3 | Seo TV Peliculas || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-4.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Novelas" tvg-name="BO | Seo TV Novelas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.4 | Seo TV Novelas || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-3.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-3.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Kids" tvg-name="BO | Seo TV Kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.5 | Seo TV Kids || BOLIVIA
-https://seo.tv.bo/tv/LIpSEO-TV-2.m3u8
+https://seo.tv.bo/tv/XLIpSEO-TV-2.m3u8
 #EXTINF:-1 tvg-id="BO | Univalle TV" tvg-name="BO | Univalle TV" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="BOLIVIA", 678 | Univalle TV || BOLIVIA
 https://master.tucableip.com/univalletv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red CCTV" tvg-name="BO | Red CCTV" tvg-logo="https://redcctvbolivia.com/wp-content/uploads/2024/02/Recurso-4.png" group-title="BOLIVIA", 679 | Red CCTV || BOLIVIA
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Ceacom TV" tvg-name="BO | Ceacom TV" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo%20CEACOM%2002%20icon.png" group-title="BOLIVIA", 683 | Ceacom TV || BOLIVIA
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Culturas" tvg-name="BO | TV Culturas" tvg-logo="https://pbs.twimg.com/media/F7wgkOVW0AAGFku?format=png&name=small" group-title="BOLIVIA", 686 | TV Culturas || BOLIVIA
