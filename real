@@ -968,7 +968,7 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(BuuyK8xBgexWlXnQ9Nte3wBPIoF7pZ_PcNQlk
 #EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 671 | PAT || BOLIVIA
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2023/10/cropped-cropped-MOSCA-BLANCA-OK-1-1-308x119.png" group-title="BOLIVIA", 673 | Abya Yala TV || BOLIVIA
 https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 #EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 674 | Erbol TV || BOLIVIA
