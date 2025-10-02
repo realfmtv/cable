@@ -6,17 +6,17 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="PERU", 3 | La Tele
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATELE_stream_d6&_cdn_session=3135222075&_cdn_token=54207288d122931ae5bd63eab0575c32fed37196
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3106348676&_cdn_token=78f21154150fd870da7619cecf3ba15288553fe7
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3132508940&_cdn_token=456a7b69962638fbc479e6f000b2a6fcaf59ff6e
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3112713844&_cdn_token=ee3cb8f42ec9ff32051c9b95a0fbe4354fe7d880
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3115436403&_cdn_token=cf76a08071c9c42fca3dda721ed1b13255a46f9c
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=3013232692&_cdn_token=c30ee7a85352667ec663049240242f99d8cbc488
 #EXTINF:-1 tvg-id="PE | TV Peru" tvg-name="PE | TV Peru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="PERU", 7 | TV Peru
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVPERU_stream_p5&_cdn_session=3013233924&_cdn_token=119dac259392d4de94de6d4fdc469f7a97eb2c93
 #EXTINF:-1 tvg-id="PE | TV Peru Internacional" tvg-name="PE | TV Peru Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU", 7.2 | TV Peru Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1 tvg-id="PE | TV Peru Noticias" tvg-name="PE | TV Peru Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU", 7.3 | TV Peru Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/120px-Congreso_TV.png" group-title="PERU", 7.4 | Congreso TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=3111204499&_cdn_token=31fd7ebe28ba1f23f01b59a4e7bb8865eed6c631
 #EXTINF:-1 tvg-id="PE | Canal J" tvg-name="PE | Canal J" tvg-logo="https://static.srv.econocable.i.mtvreg.com/cache/logos/CANALJ.png" group-title="PERU", 8 | Canal J
@@ -62,7 +62,7 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", 26 | Antares Television || Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 27 | Television Tarapoto || Tarapoto
-https://ott1.hdlatam.tv/live_abr/TVTARAPOTO/playlist.m3u8
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://pbs.twimg.com/media/GlGQHpVWwAAZLss?format=png&name=small" group-title="PROVINCIALES", 28 | Master Television || Tarapoto
 https://live-evg25.tv360.bitel.com.pe/bitel/mastertv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Via Television" tvg-name="PE | Via Television" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PROVINCIALES", 29 | Via Television || Tarapoto
@@ -87,7 +87,7 @@ https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Cosmovision Television" tvg-name="PE | Cosmovision Television" tvg-logo="https://cosmovisiontvyurimaguas.com/wp-content/uploads/2024/06/loggocosmo.webp" group-title="REGIONALES", 39 | Cosmovision Television || Yurimaguas
 https://vivatv.juanjuiserver.com:3398/live/cosmovisionlive.m3u8
-#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="REGIONALES", 40 | Super Canal Televisión || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2025/09/cropped-cropped-logo-toxica-white.ai_.png" group-title="REGIONALES", 40 | Super Canal Televisión || Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="REGIONALES", 41 | RTV Total || Yurimaguas
 https://live.obslivestream.com/rtvtotal/index.m3u8
