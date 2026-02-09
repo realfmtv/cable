@@ -68,7 +68,7 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | NQ Television" tvg-name="PE | NQ Television" tvg-logo="https://playmax.tv/upload/logos/NQ%20TELEVISION.gif" group-title="PROVINCIALES", 29 | NQ Television || Nueva Cajamarca
 https://live.obslivestream.com/nq/index.m3u8
 #EXTINF:-1 tvg-id="PE | Antares TV Tarapoto" tvg-name="PE | Antares TV Tarapoto" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="PROVINCIALES", 30 | Antares Television || Tarapoto
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Tarapoto" tvg-name="PE | TV Tarapoto" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PROVINCIALES", 31 | Television Tarapoto || Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://pbs.twimg.com/media/GlGQHpVWwAAZLss?format=png&name=small" group-title="PROVINCIALES", 32 | Master Television || Tarapoto
@@ -79,7 +79,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="https://pbs.twimg.com/media/G4KbZA5XEAABJ7Q?format=png&name=small" group-title="PROVINCIALES", 36 | Innova TV || Tarapoto
 https://ott1.hdlatam.tv/live/innovatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | GF TV" tvg-name="PE | GF TV" tvg-logo="https://playmax.tv/wp-content/uploads/2024/08/gfTV.png" group-title="PROVINCIALES", 36 | GF TV || Tarapoto
+#EXTINF:-1 tvg-id="PE | GF TV" tvg-name="PE | GF TV" tvg-logo="https://playmax.tv/upload/logos/GFTV.jpg" group-title="PROVINCIALES", 36 | GF TV || Tarapoto
 https://live.obslivestream.com/regionaltv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Tarapoto Digital TV" tvg-name="PE | Tarapoto Digital TV" tvg-logo="https://pbs.twimg.com/media/GhN1oarXwAAthGg?format=png&name=small" group-title="PROVINCIALES", 37 | Tarapoto Digital TV || Tarapoto
 https://live.obslivestream.com/actpro/index.m3u8
@@ -87,32 +87,32 @@ https://live.obslivestream.com/actpro/index.m3u8
 https://tv.perustreaming.net:3817/live/estelartvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", 39 | Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="PE | Delta TV" tvg-name="PE | Delta TV" tvg-logo="https://pbs.twimg.com/media/F2H4fiFWIAAbIIC?format=png&name=small" group-title="PROVINCIALES", 40 | Delta TV || Pacayzapa; Lamas
-https://cloud5.streaminglivehd.com:3511/live/dilverlive.m3u8
-#EXTINF:-1 tvg-id="PE | Trece TV" tvg-name="PE | Trece TV" tvg-logo="https://playmax.tv/upload/logos/trece.jpg" group-title="PROVINCIALES", 41 | Trece TV || Picota
-https://live.obslivestream.com/canaltrece/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 42 | Radio TV Juanjui || Juanjui
+#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://riberena.com/wp-content/uploads/2021/07/riberena_93.7-1536x1086.png" group-title="PROVINCIALES", 40 | Ribereña TV || Bellavista
+https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
+#EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 41 | Radio TV Juanjui || Juanjui
 https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
-#EXTINF:-1 tvg-id="PE | Yurimaguas TV" tvg-name="PE | Yurimaguas TV" tvg-logo="https://playmax.tv/upload/logos/YURIMAGUASTV800X800.jpg" group-title="REGIONALES", 43 | Yurimaguas TV || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Yurimaguas TV" tvg-name="PE | Yurimaguas TV" tvg-logo="https://playmax.tv/upload/logos/YURIMAGUASTV800X800.jpg" group-title="REGIONALES", 42 | Yurimaguas TV || Yurimaguas
 https://live.obslivestream.com/yurimaguastelevision/index.m3u8
-#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="REGIONALES", 44 | Uranio TV || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="REGIONALES", 43 | Uranio TV || Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Cosmovision Television" tvg-name="PE | Cosmovision Television" tvg-logo="https://cosmovisiontvyurimaguas.com/wp-content/uploads/2024/06/loggocosmo.webp" group-title="REGIONALES", 45 | Cosmovision Television || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Cosmovision Television" tvg-name="PE | Cosmovision Television" tvg-logo="https://cosmovisiontvyurimaguas.com/wp-content/uploads/2024/06/loggocosmo.webp" group-title="REGIONALES", 44 | Cosmovision Television || Yurimaguas
 https://vivatv.juanjuiserver.com:3398/live/cosmovisionlive.m3u8
-#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2025/09/cropped-cropped-logo-toxica-white.ai_.png" group-title="REGIONALES", 46 | Super Canal Televisión || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Super Canal" tvg-name="PE | Super Canal" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2025/09/cropped-cropped-logo-toxica-white.ai_.png" group-title="REGIONALES", 45 | Super Canal Televisión || Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="REGIONALES", 47 | RTV Total || Yurimaguas
+#EXTINF:-1 tvg-id="PE | RTV Total" tvg-name="PE | RTV Total" tvg-logo="https://rtvtotal.com.pe/wp-content/uploads/2024/11/logo2-1.png" group-title="REGIONALES", 46 | RTV Total || Yurimaguas
 https://live.obslivestream.com/rtvtotal/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" tvg-logo="https://roriente.org/wp-content/uploads/2023/12/logo-oficia2l.png" group-title="REGIONALES", 48 | Radio Televisión Oriente || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Radio Televisión Oriente" tvg-name="PE | Radio Televisión Oriente" tvg-logo="https://roriente.org/wp-content/uploads/2023/12/logo-oficia2l.png" group-title="REGIONALES", 47 | Radio Televisión Oriente || Yurimaguas
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-id="PE | Telecolor" tvg-name="PE | Telecolor" tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="REGIONALES", 49 | Telecolor || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Telecolor" tvg-name="PE | Telecolor" tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png" group-title="REGIONALES", 48 | Telecolor || Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="PE | RN Noticias" tvg-name="PE | RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="REGIONALES", 50 | RN Televisión || Yurimaguas
+#EXTINF:-1 tvg-id="PE | RN Noticias" tvg-name="PE | RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="REGIONALES", 49 | RN Televisión || Yurimaguas
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-id="PE | Frecuencia Amazonica TV" tvg-name="PE | Frecuencia Amazonica TV" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="REGIONALES", 51 | Frecuencia Amazonica TV || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Frecuencia Amazonica TV" tvg-name="PE | Frecuencia Amazonica TV" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="REGIONALES", 50 | Frecuencia Amazonica TV || Yurimaguas
 https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="REGIONALES", 52 | Viva TV || Yurimaguas
+#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="REGIONALES", 51 | Viva TV || Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="PE | RTV Xplorer" tvg-name="PE | RTV Xplorer" tvg-logo="https://playmax.tv/upload/logos/LOGO%20RTV%20XPLORER_2026.jpg" group-title="REGIONALES", 52 | RTV Xplorer || Yurimaguas
+https://live.obslivestream.com/rtvxplorer/index.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia TV" tvg-logo="https://pbs.twimg.com/media/GZV9300XcAA9HmG?format=png&name=900x900" group-title="REGIONALES", 53 | Amazonia TV || Yurimaguas
 https://servilive.com:3199/live/amazoniatvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Yurivision" tvg-name="PE | Yurivision" tvg-logo="https://pbs.twimg.com/media/GgJht1cW4AAsh7n?format=png&name=360x360" group-title="REGIONALES", 54 | Yurivision || Yurimaguas
@@ -129,7 +129,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8
 https://tv.oyotunstream.com:1936/arpegio/arpegio/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonica Television" tvg-name="PE | Amazonica Television" tvg-logo="https://www.amazonicatv.pe/wp-content/uploads/2024/09/415734570_122134414520082405_1537925820106461256_n-removebg-preview-e1725526219831.png" group-title="REGIONALES", 60 | Amazonica Television || Iquitos
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/playlist.m3u8?uid=74530
-#EXTINF:-1 tvg-id="PE | Iqt TV" tvg-name="PE | Iqt TV" tvg-logo="https://iqttv.tv/wp-content/uploads/2025/02/LOGO-IQUITOS-TV-BLANCO-SIN-FONDO.png" group-title="REGIONALES", 61 | Iqt TV || Iquitos
+#EXTINF:-1 tvg-id="PE | Iqt TV" tvg-name="PE | Iqt TV" tvg-logo="https://i0.wp.com/iqttv.tv/wp-content/uploads/2025/08/cropped-Logo-IQT-TV-scaled-1.webp?resize=80%2C57&ssl=1" group-title="REGIONALES", 61 | Iqt TV || Iquitos
 https://live20.bozztv.com/giatv/giatv-iqttvlive/iqttvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia TV" tvg-logo="https://www.amazoniatvr.com/players/videoplayer/assets/logo.png" group-title="REGIONALES", 62 | Amazonia TV || Iquitos
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
@@ -139,11 +139,13 @@ https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
 https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", 65 | Ucayali TV || Pucallpa
 https://eu1.servers10.com:8081/8180/index.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://4.bp.blogspot.com/-5M-VuRAdvTU/T4yTbNOp-7I/AAAAAAAAABI/-yQ7qdHRyFU/s400/Ribere%25C3%25B1a%2BTV%2BLogo%2Bpag.png" group-title="REGIONALES", 66 | Ribereña TV || Pucallpa
-https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/playlist.m3u8?uid=4711663
-#EXTINF:-1 tvg-id="PE | BNB Digital TV" tvg-name="PE | BNB Digital TV" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="REGIONALES", 67 | BNB Digital TV || Atalaya
-https://play.agenciastreaming.com:8081/bnblimalive/index.m3u8
-#EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 68| Top TV || Aguaytía
+#EXTINF:-1 tvg-id="PE | Selvatica Television" tvg-name="PE | Selvatica Television" tvg-logo="https://4.bp.blogspot.com/-5M-VuRAdvTU/T4yTbNOp-7I/AAAAAAAAABI/-yQ7qdHRyFU/s400/Ribere%25C3%25B1a%2BTV%2BLogo%2Bpag.png" group-title="REGIONALES", 66 | Selvatica Television || Pucallpa
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8?uid=74530
+#EXTINF:-1 tvg-id="PE | Ucayalina de Television" tvg-name="PE | Ucayalina de Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/UTV-isotype.svg/250px-UTV-isotype.svg.png" group-title="REGIONALES", 67 | Ucayalina de Television || Pucallpa
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Alpha Television" tvg-name="PE | Alpha Television" tvg-logo="https://redalpha.pe/wp-content/uploads/2025/12/logo-web-blanco-scaled.png" group-title="REGIONALES", 68 | Alpha Television || Pucallpa
+https://live-evg25.tv360.bitel.com.pe/bitel/bnb/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Top TV" tvg-name="PE | Top TV" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="REGIONALES", 69| Top TV || Aguaytía
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w240-h480-rw" group-title="NOVELAS", 69 | Novelísima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
@@ -189,6 +191,8 @@ http://38.41.8.1:8000/play/a0rq
 http://38.41.8.1:8000/play/a109
 #EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="PELICULAS Y SERIES", 90 | HBO Xtreme
 http://38.41.8.1:8000/play/a10b
+#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="PELICULAS Y SERIES", En prueba | HBO Signature
+http://38.41.8.1:8000/play/a10a
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 91 | Cine Premium
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINEPREMIUM_stream_87&_cdn_session=3302712083&_cdn_token=3dad55e2a5cc2149d932fd9a13214973edf52800
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 92 | Cine Hispano
@@ -199,6 +203,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CINEFAMILIAR/40-hls/live-medi
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Eurochannel" tvg-name="BR | Eurochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/250px-Logo_Eurochannel.png" group-title="PELICULAS Y SERIES", 95 | Eurochannel
 http://190.60.39.195:8000/play/a0xb/index.m3u8
+#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tcm_m.png" group-title="PELICULAS Y SERIES", En prueba | TCM
+http://38.41.8.1:8000/play/a04x
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 96 | Cartoon Network
 http://179.1.199.50:9000/play/a05w
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/250px-Logo_de_Tooncast.svg.png" group-title="INFANTILES", 97 | Tooncast
@@ -209,8 +215,8 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 100 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
-#EXTINF:-1 tvg-id="MX | Anime onegai" tvg-name="MX | Anime onegai" tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="INFANTILES", 92 | Anime onegai
-https://live-evg20.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Chiki Toonz" tvg-name="MX | Chiki Toonz" tvg-logo="https://yt3.googleusercontent.com/-F-UKvV8TldnPLAeYx3Cj-Uk6F0Hd7rRrKzKHLCtEYVssjiwlk8VVE6f3yXiRpF7IPF3fIM8on8=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 92 | Chiki Toonz
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Anima Kids" tvg-name="BR | Anima Kids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="INFANTILES", 93 | Anima Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 94 | Toon Goggles TV
@@ -234,7 +240,7 @@ http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/250px-2024_Disney_Channel_text_logo.svg.png" group-title="INFANTILES", 103 | Disney Channel
 http://190.60.39.195:8000/play/a0xy/index.m3u8
 #EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTILES", 104 | Nickelodeon
-http://45.160.12.253:8000/play/014
+http://38.41.8.1:8000/play/a0rt
 #EXTINF:-1 tvg-id="MX | Bitme" tvg-name="MX | Bitme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YyFiyWujtDfuAAnjnE_UdffMQ0V3xTQMFQ&s" group-title="INFANTILES", 105 | Bitme
 http://190.60.39.195:8000/play/LATINO/index.m3u8
 #EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 106 | El Conflicto Tribunal del Pueblo TV
@@ -279,8 +285,10 @@ http://190.60.39.195:8000/play/a0wk/index.m3u8
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="AR | El Garage TV" tvg-name="AR | El Garage TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", 126 | El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 127 | beIN Sports Xtra ñ
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | TNT Sports" tvg-name="USA | TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyrCnln2KUJCwQv28YdHFsFnnPM3v-UZDStA&s" group-title="DEPORTES", En prueba | TNT Sports
+http://38.41.8.1:8000/play/a0yi
+#EXTINF:-1 tvg-id="USA | TNT Sports Premium" tvg-name="USA | TNT Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES", 127 | TNT Sports Premium
+http://38.41.8.1:8000/play/a0rn
 #EXTINF:-1 tvg-id="PE | Bitt TV" tvg-name="PE | Bitt TV" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/BITT-TV-NEGRO-1024x440.png" group-title="MUSICA Y REALITIES", 128 | Bitt TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bittSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_mi-gente_m.png" group-title="MUSICA Y REALITIES", 129 | Mi Gente TV
@@ -737,6 +745,8 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Telearagua" tvg-name="VE | Telearagua" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a9d8a5767456b0a2e0382f9087d63914.webp" group-title="VENEZUELA", 352 | Telearagua || VENEZUELA
 http://45.173.198.59:8080/hls/nginx3.m3u8
+#EXTINF:-1 tvg-id="VE | Aguacate TV" tvg-name="VE | Aguacate TV" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="VENEZUELA", En prueba | Aguacate TV || VENEZUELA
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
 #EXTINF:-1 tvg-id="BR | TV Brasil" tvg-name="BR | TV Brasil" tvg-logo="https://s2.glbimg.com/e0Pj7r09Z16FXeEmDfffESxLtUk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/P/I/kWROf8ROqpWkcIt24TbQ/tv-brasil.jpg" group-title="BRASIL", 353 | TV Brasil || BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/89/Logotipo_da_RedeTV%21.png/200px-Logotipo_da_RedeTV%21.png" group-title="BRASIL", 354 | Rede TV || BRASIL
