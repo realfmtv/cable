@@ -133,13 +133,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/playlist.m3u8?uid=74530
 https://live20.bozztv.com/giatv/giatv-iqttvlive/iqttvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Amazonia TV" tvg-name="PE | Amazonia TV" tvg-logo="https://www.amazoniatvr.com/players/videoplayer/assets/logo.png" group-title="REGIONALES", 62 | Amazonia TV || Iquitos
 https://servilive.com:3295/live/v8nkywddqlive.m3u8
-#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="http://tv.10dailythings.com/images/channels/PE/oriental-tv-21-pucallpa-720p-not-247/normal.png" group-title="REGIONALES", 63 | Oriental TV || Pucallpa
+#EXTINF:-1 tvg-id="PE | Oriental TV" tvg-name="PE | Oriental TV" tvg-logo="https://play-lh.googleusercontent.com/muKqQA3wKw0hWG55HzQQHOhkcAKTYDylf7N2XXub35LRtel74QeIXC0tz67XXBI-oSM=w240-h480-rw" group-title="REGIONALES", 63 | Oriental TV || Pucallpa
 https://ott1.hdlatam.tv/live/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Ya TV" tvg-name="PE | Ya TV" tvg-logo="https://play-lh.googleusercontent.com/_X3laoxSMiqEcP6gR4MNX-7FWqAM8YIOv0Ho6juGEA6elk6b4X_sFliEXUn7_LyUiQ=w240-h480-rw" group-title="REGIONALES", 64 | Ya TV || Pucallpa
 https://play.agenciastreaming.com:8081/yatvpucallpa/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="REGIONALES", 65 | Ucayali TV || Pucallpa
 https://eu1.servers10.com:8081/8180/index.m3u8
-#EXTINF:-1 tvg-id="PE | Selvatica Television" tvg-name="PE | Selvatica Television" tvg-logo="https://scontent.flim6-4.fna.fbcdn.net/v/t39.30808-1/524116788_122110007900946612_5426177743173733216_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeGa4ilpR9LUeCU8CTSMRucl-A--FkLXPXn4D74WQtc9ebKQ5G2Kpb7ik3fqk4cceus&_nc_ohc=Y_9iIq_pHUUQ7kNvwGAEFX0&_nc_oc=AdnBBNVnzAOGLDGq5yoBoXCyu6dKm4KN_7I2mdCsUISxuhhWQ5tc9RdELTaqKJEd8HQ&_nc_zt=24&_nc_ht=scontent.flim6-4.fna&_nc_gid=o4sPge4cKTdQX_MOEwzS8Q&oh=00_AfvebIcx6zjH3-FHQwVKV2mbJ1Aa-x9nsts6hdg1ogoH8g&oe=698F4BB0" group-title="REGIONALES", 66 | Selvatica Television || Pucallpa
+#EXTINF:-1 tvg-id="PE | Selvatica Television" tvg-name="PE | Selvatica Television" tvg-logo="https://pbs.twimg.com/media/HBNBUEGW8AAz_Rc?format=png&name=240x240" group-title="REGIONALES", 66 | Selvatica Television || Pucallpa
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8?uid=74530
 #EXTINF:-1 tvg-id="PE | Ucayalina de Television" tvg-name="PE | Ucayalina de Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/UTV-isotype.svg/250px-UTV-isotype.svg.png" group-title="REGIONALES", 67 | Ucayalina de Television || Pucallpa
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
@@ -150,7 +150,7 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB=w240-h480-rw" group-title="NOVELAS", 70 | Novelísima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
 #EXTINF:-1 tvg-id="TR | Kanal D Drama" tvg-name="TR | Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="NOVELAS", 71 | Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 #EXTINF:-1 tvg-id="MX | Tlnovelas" tvg-name="MX | Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tlnovelas_logo_2021.png/120px-Tlnovelas_logo_2021.png" group-title="NOVELAS", 72 | Tlnovelas
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELENOVELAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELENOVELAS_stream_ak&_cdn_session=3534424829&_cdn_token=d2312567892127b9738f9a1ede52ec4c64713ab8
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png" group-title="NOVELAS", 73 | Pasiones
@@ -173,10 +173,14 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=3534419173&_cdn_token=8f1aae6af36b2f64a79315a8251cd1d415f36956
 #EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="PELICULAS Y SERIES", 80 | Sony Channel
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=3534419605&_cdn_token=5342695c2c8c06bef01ab1e6eb6eab87bd766e9f
+#EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Sony Movies
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=3547937860&_cdn_token=c14570059d7bfc851b1d38b7f58433480b2c3e9f
 #EXTINF:-1 tvg-id="USA | Cinelife" tvg-name="USA | Cinelife" tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg" group-title="PELICULAS Y SERIES", 81 | Cinelife
 https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png" group-title="PELICULAS Y SERIES", 82 | FX
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=3534419949&_cdn_token=bac12bbb4231517533cc4ecabd6d669cce58fbd8
+#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Star Channel
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=3547939100&_cdn_token=737deb0d00f07efc18695d01e47dff7051d5ccb8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 83 | Warner Channel
 http://179.1.199.50:9000/play/a04w
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 84 | TNT
@@ -186,21 +190,19 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.
 #EXTINF:-1 tvg-id="PE | Creo Latino tu cine" tvg-name="PE | Creo Latino tu cine" tvg-logo="https://pbs.twimg.com/media/GvESL-bWoAAZA00?format=png&name=360x360" group-title="PELICULAS Y SERIES", 85 | Creo Latino tu cine
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="PELICULAS Y SERIES", 86 | Studio Universal
-http://179.1.199.50:9000/play/a07n
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=3537349197&_cdn_token=2ef03e48b9fce6a74eb88a9d054ae356fd2b7062
+#EXTINF:-1 tvg-id="USA | Universal" tvg-name="USA | Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Universal
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=3547942204&_cdn_token=f05d906d6d49ee7f3ef913d62a4e6e06d85b0440
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 87 | HBO
-http://38.41.8.1:8000/play/a0ro
+http://177.10.184.193:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 88 | HBO 2
 http://177.10.184.193:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Plus" tvg-name="USA | HBO Plus" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="PELICULAS Y SERIES", 89 | HBO Plus
-http://38.41.8.1:8000/play/a12d
-#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/250px-HBO_Pop.svg.png" group-title="PELICULAS Y SERIES", 90 | HBO Pop
-http://38.41.8.1:8000/play/a0rq
+http://177.10.184.193:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/250px-HBO_Family.svg.png" group-title="PELICULAS Y SERIES", 91 | HBO Family
-http://38.41.8.1:8000/play/a109
-#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" group-title="PELICULAS Y SERIES", 92 | HBO Xtreme
-http://38.41.8.1:8000/play/a10b
-#EXTINF:-1 tvg-id="USA | HBO Signature" tvg-name="USA | HBO Signature" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="PELICULAS Y SERIES", 93 | HBO Signature
-http://38.41.8.1:8000/play/a10a
+http://177.10.184.193:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", En prueba | A&E
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=3537398349&_cdn_token=3134ff1855562b69f41459473c17c90fa6cd4a17
 #EXTINF:-1 tvg-id="USA | Cine Premium" tvg-name="USA | Cine Premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="PELICULAS Y SERIES", 94 | Cine Premium
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CINEPREMIUM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINEPREMIUM_stream_87&_cdn_session=3302712083&_cdn_token=3dad55e2a5cc2149d932fd9a13214973edf52800
 #EXTINF:-1 tvg-id="USA | Cine Hispano" tvg-name="USA | Cine Hispano" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png" group-title="PELICULAS Y SERIES", 95 | Cine Hispano
@@ -213,23 +215,49 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8
 http://190.60.39.195:8000/play/a0xb/index.m3u8
 #EXTINF:-1 tvg-id="USA | Europa Europa" tvg-name="USA | Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" group-title="PELICULAS Y SERIES", 98 | Europa Europa
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=3534425941&_cdn_token=ea47581bba60bf095c72bf58f392431076bef985
+#EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Lifetime
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=3547969460&_cdn_token=4b8de0f46ffe4b336fca5ce5df4d6511738dafdd
 #EXTINF:-1 tvg-id="MX | Canal Claro" tvg-name="MX | Canal Claro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMxv6G4_WE3vSB9ODvXJzjBuAC9aOFHw4nw&s" group-title="PELICULAS Y SERIES", 99 | Canal Claro
 http://177.10.184.193:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", En prueba | AMC
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=3537382501&_cdn_token=a664e33a8afe8a0a4183ba76ed65d10a2248f05d
+#EXTINF:-1 tvg-id="USA | AMC Series" tvg-name="USA | AMC Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png" group-title="PELICULAS Y SERIES", En prueba | AMC Series
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMCSERIES_stream_sp&_cdn_session=3537396333&_cdn_token=668508f038b201d5682049a9f463a59844f52211
+#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Golden
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_meta=server%3Dhttp%2CuserID%3D962895936%2CdeviceID%3D583757391&_cdn_session=3547942668&_cdn_timestamp=1771238222&_cdn_token=b6db9dbbf321bc7b89719c3cd48ead4f497c4b97
+#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Golden Edge
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
+#EXTINF:-1 tvg-id="MX | Cinema" tvg-name="MX | Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinema-mediano.png" group-title="PELICULAS Y SERIES", En prueba | Cinema
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AZCINEMA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCINEMA_stream_eg&_cdn_session=3537449837&_cdn_token=391f16941abfa5900179e344a24df364b9d056be
+#EXTINF:-1 tvg-id="USA | TCM" tvg-name="USA | TCM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" group-title="PELICULAS Y SERIES", En prueba | TCM
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTCM_stream_ta&_cdn_session=3537471061&_cdn_token=6b404c8268b64963640a4922dbb27b886236d349
+#EXTINF:-1 tvg-id="MX | De pelicula" tvg-name="MX | De pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="PELICULAS Y SERIES", En prueba | De pelicula
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DEPELICULA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDEPELICULA_stream_7v&_cdn_session=3547912892&_cdn_token=bef48f977b4a562086821cb35c4d655649d5e514
+#EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" group-title="PELICULAS Y SERIES", En prueba | USA Network
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=3537474005&_cdn_token=30c30524b5637719dc61388418ba37736d255ee9
+#EXTINF:-1 tvg-id="USA | Film & Arts" tvg-name="USA | Film & Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/306px-Film%26Arts2016.png" group-title="PELICULAS Y SERIES", En prueba | Film & Arts
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=3547945228&_cdn_token=9ccc44567626c2cdbbb489660336b720016f3b29
+#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://cdn.mitvstatic.com/channels/pe_space_m.png" group-title="PELICULAS Y SERIES", En prueba | Space
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/SPACE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSPACE_stream_sa&_cdn_session=3547908548&_cdn_token=f9a23be0c2a7d94561f987278c5292f3117d25e1
+#EXTINF:-1 tvg-id="USA | Zoomoo" tvg-name="USA | Zoomoo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoomoo-mediano.png" group-title="INFANTILES", En prueba | Zoomoo
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_session=3547999452&_cdn_token=eb598d95f659a9caf027ba27768af8de83a93607
 #EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", 100 | Cartoon Network
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=3534427797&_cdn_token=20b4198f63bec4def41ca664d9ebe78fbf4b5012
+#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="INFANTILES", En prueba | Cartoonito
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=3547998956&_cdn_token=e6551ac560af9e5ae5e169d18eadd5c91ff2f397
 #EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/250px-Logo_de_Tooncast.svg.png" group-title="INFANTILES", 101 | Tooncast
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
 #EXTINF:-1 tvg-id="PA | Dreiko TV" tvg-name="PA | Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="INFANTILES", 102 | Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="USA | Dios TV Kids" tvg-name="USA | Dios TV Kids" tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES", 103 | Dios TV Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="INFANTILES", 104 | Magic Kids
+#EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/250px-Logomagic96.png" group-title="INFANTILES", 104 | Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
 #EXTINF:-1 tvg-id="MX | Chiki Toonz" tvg-name="MX | Chiki Toonz" tvg-logo="https://yt3.googleusercontent.com/-F-UKvV8TldnPLAeYx3Cj-Uk6F0Hd7rRrKzKHLCtEYVssjiwlk8VVE6f3yXiRpF7IPF3fIM8on8=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 105 | Chiki Toonz
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Anima Kids" tvg-name="BR | Anima Kids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="INFANTILES", 106 | Anima Kids
-https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/220px-Toon_Goggles_logo.png" group-title="INFANTILES", 107 | Toon Goggles TV
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Toon Goggles" tvg-name="USA | Toon Goggles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Toon_Goggles_logo.png/250px-Toon_Goggles_logo.png" group-title="INFANTILES", 107 | Toon Goggles TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="ES | TVG Xabarín" tvg-name="ES | TVG Xabarín" tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES", 108 | TVG Xabarín
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
@@ -245,18 +273,32 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Kids" tvg-name="PE | Creo Kids" tvg-logo="https://pbs.twimg.com/media/G4KixbzXYAAmHs0?format=png&name=small" group-title="INFANTILES", 114 | Creo Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Adult swim" tvg-name="USA | Adult swim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHl8KdnMZVVlmjJkrSddzNIbwVuZk9eksDYg&s" group-title="INFANTILES", En prueba | Adult swim
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ADULTSWIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DADULTSWIM_stream_e0&_cdn_session=3548009052&_cdn_token=5c05172911bd40fc3340b8ad06f585e745875fef
 #EXTINF:-1 tvg-id="VE | 1·2·3 TV" tvg-name="VE | 1·2·3 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/123TV_logo_2022.jpg/330px-123TV_logo_2022.jpg" group-title="INFANTILES", 115 | 1·2·3 TV
 http://38.41.8.1:8000/play/a03o
 #EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="USA | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/250px-2024_Disney_Channel_text_logo.svg.png" group-title="INFANTILES", 116 | Disney Channel
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=3534428373&_cdn_token=88ae9f63eb292b6b33207e07278b3194e9b4ad07
-#EXTINF:-1 tvg-id="USA | Nickelodeon" tvg-name="USA | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/330px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTILES", 117 | Nickelodeon
-http://38.41.8.1:8000/play/a0rt
+#EXTINF:-1 tvg-id="USA | Disney Junior" tvg-name="USA | Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="INFANTILES", 117 | Disney Junior
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_meta=server%3Dhttp%2CuserID%3D962895936%2CdeviceID%3D583757391&_cdn_session=3547996436&_cdn_timestamp=1771240942&_cdn_token=f4d0d88ac987ac32724fc16e09b1f074f4bb0a35
 #EXTINF:-1 tvg-id="MX | Bitme" tvg-name="MX | Bitme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YyFiyWujtDfuAAnjnE_UdffMQ0V3xTQMFQ&s" group-title="INFANTILES", 118 | Bitme
-http://190.60.39.195:8000/play/LATINO/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/BITME/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITME_stream_n7&_cdn_session=3548009476&_cdn_token=59779329b7a0f32985a05dca0e72034bb68fbe4c
+#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" group-title="INFANTILES", En prueba | Discovery Kids
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=3548001588&_cdn_token=d95b5d90d972a415d29d75042dcb3dbd46025732
+#EXTINF:-1 tvg-id="AR | Plim Plim" tvg-name="AR | Plim Plim" tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest/scale-to-width-down/276?cb=20250906030459" group-title="INFANTILES", En prueba | Plim Plim
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=3548004412&_cdn_token=6b1997c94aaae5a3cc0a2bcd97297b0eb1ccccc6
+#EXTINF:-1 tvg-id="USA | Dreamworks" tvg-name="USA | Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/DreamWorks_Animation_Television.svg/250px-DreamWorks_Animation_Television.svg.png" group-title="INFANTILES", En prueba | Dreamworks
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/250px-DistritoComediaLOGO2018.png" group-title="COMEDIA", En prueba | Distrito Comedia
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISTRITOCOMEDIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISTRITOCOMEDIA_stream_0o&_cdn_session=3548009804&_cdn_token=f4f26f911d06487b8a10d48ff7e55ca22a6e058b
+#EXTINF:-1 tvg-id="USA | CNN" tvg-name="USA | CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | CNN
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_stream_ol&_cdn_session=3547965724&_cdn_token=b8365b931694179f7944869ca02522f731f1a4ab
 #EXTINF:-1 tvg-id="USA | CNN En español" tvg-name="USA | CNN En español" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cnn-en-espanol_m.png" group-title="NOTICIAS E INFORMACION", 119 | CNN En español
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
-#EXTINF:-1 tvg-id="CO | Cablenoticias" tvg-name="CO | Cablenoticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1f17cQPet_8hGplOl1BoFAr40VKjJ-vgiw&s" group-title="NOTICIAS E INFORMACION", 120 | Cablenoticias
-http://190.60.39.195:8000/play/a0we/index.m3u8
+#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/250px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 120 | Noticias Caracol
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=3547952644&_cdn_token=ce07a9bfd4b7cbb21d88a28f6c279bb5a24c4919
+#EXTINF:-1 tvg-id="PE | Latina noticias" tvg-name="PE | Latina noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="NOTICIAS E INFORMACION", En prueba | Latina noticias
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3547953084&_cdn_token=5c86c6ea8ba706b7f9317827d0bf215a9c6f2d20
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 121 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="NOTICIAS E INFORMACION", 122 | Telesur
@@ -345,6 +387,14 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="ESTILOS DE VIDA", 164 | TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
+#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="ESTILOS DE VIDA", En prueba | Discovery Home & Health
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=3547981500&_cdn_token=26a4e26c19220642c59fc7f6cb633fa36435daac
+#EXTINF:-1 tvg-id="USA | El Gourmet" tvg-name="USA | El Gourmet" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" group-title="ESTILOS DE VIDA", En prueba | El Gourmet
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=3547982372&_cdn_token=547885d1aa366add5036da4ad0e1fface003ad9e
+#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="ESTILOS DE VIDA", En prueba | Food Network
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/10-40-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_meta=userID%3D962895936%2CdeviceID%3D583757391%2Cserver%3Dhttp&_cdn_session=3547984532&_cdn_timestamp=1771239978&_cdn_token=4cc2c3691ad0e5a7399b8e229a3548a35ab6cd79
+#EXTINF:-1 tvg-id="USA | TLC" tvg-name="USA | TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png" group-title="ESTILOS DE VIDA", En prueba | TLC
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=3547988612&_cdn_token=5089573da982c32c6d1531b621a312c37a90547b
 #EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png" group-title="ESTILOS DE VIDA", En prueba | HGTV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=3534514509&_cdn_token=ae9cb902565b53e74bca2639cc1eca86d805bf94
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png" group-title="CULTURA Y EDUCACION", 165 | National Geographic
@@ -367,6 +417,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
 #EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="CULTURA Y EDUCACION", 171 | Documentales Astral || Moyobamba
 http://38.41.8.1:8000/play/a03x
+#EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", En prueba | Love Nature
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=3537362501&_cdn_token=59d1d9cdf27984218eb5954a2021d00515d7565e
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 172 | EWTN
 https://canalsangabriel.com/hls/ewtn.m3u8
 #EXTINF:-1 tvg-id="MX | María Visión" tvg-name="MX | María Visión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" group-title="RELIGIOSOS", 173 | María Visión
