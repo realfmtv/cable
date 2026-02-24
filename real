@@ -35,7 +35,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ATVSUR/10-hls/live-media.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DRPP_stream_1q&_cdn_session=3084802108&_cdn_token=f927b9c378734f1fed0c837ef0c4395288bff414
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3013254604&_cdn_token=0082958a2a00170129cb9c5e22511115485dc301
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMP TV
+#EXTINF:-1 tvg-id="PE | USMPTV" tvg-name="PE | USMPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMPTV
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="PE | USMPTV Musica" tvg-name="PE | USMPTV Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/USMP_TV_M%C3%BAsica_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210504214636&path-prefix=es" group-title="PERU", 12.2 | USMPTV Musica
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3013255884&_cdn_token=a3ef1a348d155a46d2aabc2548500211ae0e3bc1
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=3013257084&_cdn_token=075268a8a2fc6b35dac77fb9330e4219493e5304
@@ -425,10 +427,10 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-me
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=3534505189&_cdn_token=553f14fc40fc7ccf3e86123b630b4b0a57eb9fcd
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA Y EDUCACION", 206 | Animal Planet
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
-#EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="CULTURA Y EDUCACION", 207 | Documentales Astral || Moyobamba
-http://38.41.8.1:8000/play/a03x
-#EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 208 | Love Nature
+#EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 207 | Love Nature
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=3537362501&_cdn_token=59d1d9cdf27984218eb5954a2021d00515d7565e
+#EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="CULTURA Y EDUCACION", 208 | Documentales Astral || Moyobamba
+http://38.41.8.1:8000/play/a03x
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 209 | EWTN
 https://canalsangabriel.com/hls/ewtn.m3u8
 #EXTINF:-1 tvg-id="MX | María Visión" tvg-name="MX | María Visión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" group-title="RELIGIOSOS", 210 | María Visión
@@ -451,7 +453,7 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="CL | Nuevo Tiempo" tvg-name="CL | Nuevo Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/NuevoTiempo2015.png" group-title="RELIGIOSOS", 219 | Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYxRcAL9EyP4RSIz2go9Y8T1SAmF8jBO9wZj5rTHbHZ_LJtnTQQrfarq9G35IN3wiPALdl0m72PnYaA4-v5Az3vgk_SKLBMLdXOYbjY02EL1aKztJ4sjQzl7L-EyqO-EcOotby6TwyBTM/s1600/nuevotiempo.png" group-title="RELIGIOSOS", 220 | Nuevo Tiempo || Brasil
+#EXTINF:-1 tvg-id="BR | Nuevo Tiempo" tvg-name="BR | Nuevo Tiempo" tvg-logo="https://files.adventistas.org/noticias/es/2017/02/22150807/be14d71fab494f41d3d253fe989325bc.jpg" group-title="RELIGIOSOS", 220 | Nuevo Tiempo || Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Hope Channel" tvg-name="USA | Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hc_V_Logo.png/250px-Hc_V_Logo.png" group-title="RELIGIOSOS", 221 | Hope Channel
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
