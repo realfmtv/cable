@@ -199,6 +199,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=3537349197&_cdn_token=2ef03e48b9fce6a74eb88a9d054ae356fd2b7062
 #EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/250px-Universal_TV_logo.svg.png" group-title="PELICULAS Y SERIES", 92 | Universal TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=3547942204&_cdn_token=f05d906d6d49ee7f3ef913d62a4e6e06d85b0440
+#EXTINF:-1 tvg-id="PE | Cine Club" tvg-name="PE | Cine Club" tvg-logo="https://tv2.yottalan.com/media/images/channel/cineclub.jpeg" group-title="PELICULAS Y SERIES", En prueba | Cine Club
+https://ott2.hdlatam.tv/live/CineCl4b/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="PELICULAS Y SERIES", 93 | HBO
 http://177.10.184.193:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PELICULAS Y SERIES", 94 | HBO 2
@@ -555,6 +557,8 @@ https://ott1.hdlatam.tv/live/NeoTV/playlist.m3u8
 https://cp.tvdatta.com:2020/hls/tvbella/tvbella.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://play-lh.googleusercontent.com/ozY6Nn_FethMhi-54w2oi-jEwIMj1fMx85R9fHJ4mNEBFXwQk0ztP37EFc2RMRBvLTo=w240-h480-rw" group-title="REGIONALES", 268 | Gamarra Channel || Lima
 https://live-evg7.tv360.bitel.com.pe/bitel/gamarratv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Peru Entertaiment Play" tvg-name="PE | Peru Entertaiment Play" tvg-logo="https://tv2.yottalan.com/media/images/channel/WhatsApp_Image_2024-01-08_at_3.43.18_PM_1_0UwmeLo.jpeg" group-title="REGIONALES", En prueba | Peru Entertaiment Play || Lima
+https://ott1.hdlatam.tv/live/WmkP3rU_Ch4nn3LnakaP/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Dayzel Sports" tvg-name="PE | Dayzel Sports" tvg-logo="https://www.dayzelcorp.com/media/branding/9442a43a82ce4099832c5eb9366f072d.png" group-title="REGIONALES", 269 | Dayzel Sports || Lima
 https://live-evg5.tv360.bitel.com.pe/bitel/dayzel/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Milenial TV" tvg-name="PE | Milenial TV" tvg-logo="https://go.wintv.pe/static/backdrops/982/854982_1280.jpg" group-title="REGIONALES", 270 | Milenial TV || Pueblo Libre; Lima
