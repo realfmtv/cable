@@ -1310,13 +1310,13 @@ https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicarao TV" tvg-name="NI | Nicarao TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nicarao_TV_Logo.jpg/250px-Nicarao_TV_Logo.jpg" group-title="NICARAGUA", 814 | Nicarao TV || NICARAGUA
 http://179.61.31.142:8000/play/a0aq/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV-2" tvg-name="SV | TV-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TCS_2_2016.png/150px-TCS_2_2016.png" group-title="EL SALVADOR", 815 | TV-2 || EL SALVADOR
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+http://190.105.128.198:5800/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 3" tvg-name="SV | Canal 3" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1536x1301.png" group-title="EL SALVADOR", 816 | Canal 3 || EL SALVADOR
 https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/245px-Canal_4_TCS.png" group-title="EL SALVADOR", 817 | Canal 4 || EL SALVADOR
-http://179.61.31.142:8000/play/a0gm/index.m3u8
+http://190.105.128.198:5800/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 818 | TV Seis || EL SALVADOR
-http://179.61.31.142:8000/play/a0g1/index.m3u8
+http://190.105.128.198:5800/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 10" tvg-name="SV | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/200px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR", 819 | Canal 10 || EL SALVADOR
 http://179.61.31.142:8000/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/150px-TUTV_11_2014.png" group-title="EL SALVADOR", 820 | Canal 11 TUTV || EL SALVADOR
@@ -1420,9 +1420,9 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
-http://179.60.224.196:8000/play/a0dv/index.m3u8
+http://190.105.128.198:5800/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Canal13Guatemala2022.png/revision/latest?cb=20221112015302" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
-http://179.60.224.196:8000/play/a0dy/index.m3u8
+http://190.105.128.198:5800/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 873 | TN 23 || GUATEMALA
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 874 | Guatevisión || GUATEMALA
