@@ -787,8 +787,6 @@ http://190.60.39.195:8000/play/a0w7/index.m3u8
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png/290px-Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png" group-title="VENEZUELA", 344 | TVES || VENEZUELA
 http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="VENEZUELA", En prueba | Televen || VENEZUELA
-http://videx1ksfjuxb.ultratvlock.x10.mx/canal/TELEVEN
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 345 | Vale TV || VENEZUELA
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/250px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 346 | VTV || VENEZUELA
@@ -1068,7 +1066,7 @@ https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 672 | Tele Estrella || BOLIVIA
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2023/10/cropped-cropped-MOSCA-BLANCA-OK-1-1-308x119.png" group-title="BOLIVIA", 673 | Abya Yala TV || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-8.m3u8
+https://fb.tv.bo/hls/AbyaYala.m3u8
 #EXTINF:-1 tvg-id="BO | Erbol TV" tvg-name="BO | Erbol TV" tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", 674 | Erbol TV || BOLIVIA
 https://sae12.playlist.ttvnw.net/v1/playlist/CqsGi_67f_GOyax93Sku0NTUtT4q2nxaOItz6uO6Pe7YTn-VRKMW-2neHTdbrlnojY6peQ9UJtAjF4EPYq82slM5P3AJYqLLL40q-l3woDNmQvj0fAgYtt3vDMi2dHCW-us-mtf4k_rrxTA7ite8A-XfmsptUVGAN0ELbiHkiZLBu5gHGkrqsA2b3vTVKe0zAuwAVPEPeqgPbtti0iF6J6zAYdZU35awOxSzMGaxjSUg5MpuuFWZW7F93z6hq-ffPukBgMU2dExpj_tjaYwBWTBkDuRJ8jsmvFJm47CDzn0dkJdvmAm--Ywb01EYaTRxUFL8B4qf9XKKdsQch_4rW58iluhBSYBWLXLYXfQ4GFCvXdz5o-lxaGE-64586QyabhDv6gotQIxsrrp78YV0kwOYEsbaboCeMDUClhdQswt9hRK90gTxYKXsPCj5_QAUrna991qmG_y-Vh0jPwsWpk4B2Yf8DJGChoq2pUwq_aUrTigAm3-zoNaT5yY93svwk0WAE1CuVrpf_F0_P0Vyh1ouDRxkja23ka2YNCCNHC9mkYg-nUS-OnuqXWGOGtn46eedab33AQUMPwxECOcdOWGJvllwJioNnv74nQESvpPe9Udlmvg89zVAgaki8csilZ4pGGyZySJRdsIF6qHE7HjwBXgDj40fSl117WQH7j57HsE45fBRODxgyIQ05KYrKERVjLLIGtROqOQEt4WhYDlqftvXQ4D4gsAMsSPqbeCdZDOprH9ETUpUXs7Et-DGz5Iw7QSJYuIkTdxmEHS5TARAsJkluiCUQuaJ14h0MtDQ4Dt_EQZTacXJuthHqiVHVCx73SwaPmdfxfc3iU_G_iaAI3CC55OOCvYHV6_CSOcFDmwO3bCEHtM9EzR4sJ2fGfN6IFESTXxRigOFy5EMUIn7DZzu-PKltBUoRtTrRHJlRSlYFkxtojBibJqKyjDig8qON_bA7gA6hc0Yux6qLqlhekc0KiK3cR2x9Q8UAqOfNOOtPeGoQS2wNouTjWfVumq5t6y6hSqUMecLMxjta5HjfI69W0wLU-l4B75VM22amxOvWPHqZNqA8lozxxoMe1Wbr7N5-UK5ncHLIAEqCXVzLWVhc3QtMjCZDQ.m3u8
 #EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 675 | Coral TV || BOLIVIA
@@ -1076,15 +1074,15 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1751690501506" group-title="BOLIVIA", 676 | TV Universitaria || BOLIVIA
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV" tvg-name="BO | Seo TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677 | Seo TV || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-1.m3u8
+https://fb.tv.bo/hls/SEOTVHD.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Deportes" tvg-name="BO | Seo TV Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.2 | Seo TV Deportes || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-5.1.m3u8
+https://fb.tv.bo/hls/SEOTVDEPORTES.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Peliculas" tvg-name="BO | Seo TV Peliculas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.3 | Seo TV Peliculas || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-4.m3u8
+https://fb.tv.bo/hls/SEOTVPELISHD.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Novelas" tvg-name="BO | Seo TV Novelas" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.4 | Seo TV Novelas || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-3.m3u8
+https://fb.tv.bo/hls/SEOTVNOVELAS.m3u8
 #EXTINF:-1 tvg-id="BO | Seo TV Kids" tvg-name="BO | Seo TV Kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="BOLIVIA", 677.5 | Seo TV Kids || BOLIVIA
-https://seo.tv.bo/tv/XLIpSEO-TV-2.m3u8
+https://fb.tv.bo/hls/SEOTVKIDS.m3u8
 #EXTINF:-1 tvg-id="BO | Univalle TV" tvg-name="BO | Univalle TV" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="BOLIVIA", 678 | Univalle TV || BOLIVIA
 https://master.tucableip.com/univalletv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red CCTV" tvg-name="BO | Red CCTV" tvg-logo="https://redcctvbolivia.com/wp-content/uploads/2024/02/Recurso-4.png" group-title="BOLIVIA", 679 | Red CCTV || BOLIVIA
