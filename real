@@ -36,7 +36,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3013254604&_cdn_token=0082958a2a00170129cb9c5e22511115485dc301
 #EXTINF:-1 tvg-id="PE | USMPTV" tvg-name="PE | USMPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
+https://ott2.hdlatam.tv/live_abr/sUkdS14hrgdew/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | USMPTV Musica" tvg-name="PE | USMPTV Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/USMP_TV_M%C3%BAsica_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210504214636&path-prefix=es" group-title="PERU", 12.2 | USMPTV Musica
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3013255884&_cdn_token=a3ef1a348d155a46d2aabc2548500211ae0e3bc1
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
@@ -268,7 +268,9 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Creo Kids" tvg-name="PE | Creo Kids" tvg-logo="https://pbs.twimg.com/media/G4KixbzXYAAmHs0?format=png&name=small" group-title="INFANTILES", 126 | Creo Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/250px-Logomagic96.png" group-title="INFANTILES", 127 | Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg-id="AR | Retro Magico" tvg-name="AR | Retro Magico" tvg-logo="https://tv2.yottalan.com/media/images/channel/retromagico_SMtoQMd.PNG" group-title="INFANTILES", En prueba | Retro Magico
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="MX | Chiki Toonz" tvg-name="MX | Chiki Toonz" tvg-logo="https://yt3.googleusercontent.com/-F-UKvV8TldnPLAeYx3Cj-Uk6F0Hd7rRrKzKHLCtEYVssjiwlk8VVE6f3yXiRpF7IPF3fIM8on8=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTILES", 128 | Chiki Toonz
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Anima Kids" tvg-name="BR | Anima Kids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="INFANTILES", 129 | Anima Kids
@@ -437,8 +439,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 211 | Love Nature
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=3537362501&_cdn_token=59d1d9cdf27984218eb5954a2021d00515d7565e
-#EXTINF:-1 tvg-id="PE | Documentales Astral" tvg-name="PE | Documentales Astral" tvg-logo="https://pbs.twimg.com/media/FhxOiAFaYAIRw_Y?format=png&name=360x360" group-title="CULTURA Y EDUCACION", 212 | Documentales Astral || Moyobamba
-http://38.41.8.1:8000/play/a03x
+#EXTINF:-1 tvg-id="AR | El Mundo del Campo TV" tvg-name="AR | El Mundo del Campo TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/1728151572085.jpeg" group-title="CULTURA Y EDUCACION", 212 | El Mundo del Campo TV
+https://ott1.hdlatam.tv/live/elMund0delCampo/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="RELIGIOSOS", 213 | EWTN
 https://canalsangabriel.com/hls/ewtn.m3u8
 #EXTINF:-1 tvg-id="MX | María Visión" tvg-name="MX | María Visión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" group-title="RELIGIOSOS", 214 | María Visión
@@ -566,7 +568,7 @@ https://cp.tvdatta.com:2020/hls/tvbella/tvbella.m3u8
 #EXTINF:-1 tvg-id="PE | Gamarra Channel" tvg-name="PE | Gamarra Channel" tvg-logo="https://play-lh.googleusercontent.com/ozY6Nn_FethMhi-54w2oi-jEwIMj1fMx85R9fHJ4mNEBFXwQk0ztP37EFc2RMRBvLTo=w240-h480-rw" group-title="REGIONALES", 272 | Gamarra Channel || Lima
 https://live-evg7.tv360.bitel.com.pe/bitel/gamarratv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Peru Entertaiment Play" tvg-name="PE | Peru Entertaiment Play" tvg-logo="https://tv2.yottalan.com/media/images/channel/WhatsApp_Image_2024-01-08_at_3.43.18_PM_1_0UwmeLo.jpeg" group-title="REGIONALES", 273 | Peru Entertaiment Play || Lima
-https://ott1.hdlatam.tv/live/WmkP3rU_Ch4nn3LnakaP/playlist.m3u8
+https://ott1.hdlatam.tv/live/P3rU_Ch4nn3LakaP/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Dayzel Sports" tvg-name="PE | Dayzel Sports" tvg-logo="https://www.dayzelcorp.com/media/branding/9442a43a82ce4099832c5eb9366f072d.png" group-title="REGIONALES", 274 | Dayzel Sports || Lima
 https://live-evg5.tv360.bitel.com.pe/bitel/dayzel/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Milenial TV" tvg-name="PE | Milenial TV" tvg-logo="https://go.wintv.pe/static/backdrops/982/854982_1280.jpg" group-title="REGIONALES", 275 | Milenial TV || Pueblo Libre; Lima
@@ -597,7 +599,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/tiemporealtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Riku TV" tvg-name="PE | Riku TV" tvg-logo="https://ia601203.us.archive.org/32/items/sin-titulo-1_202511/Sin%20t%C3%ADtulo-1.png" group-title="REGIONALES", 288 | Riku TV || Chiclayo
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tv_cosmos.jpg/245px-Tv_cosmos.jpg" group-title="REGIONALES", 289 | TV Cosmos || Trujillo
+#EXTINF:-1 tvg-id="PE | TV Cosmos" tvg-name="PE | TV Cosmos" tvg-logo="https://tv2.yottalan.com/media/images/channel/tvcosmos.jpg" group-title="REGIONALES", 289 | TV Cosmos || Trujillo
 https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Sol TV" tvg-name="PE | Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/150px-Sol_tv_pe.png" group-title="REGIONALES", 290 | Sol TV || Trujillo
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
@@ -922,7 +924,7 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Mon" tvg-name="BR | TV Mon" tvg-logo="https://cache2net3.com/Repositorio/3106/Logo/ee19d371-e.png" group-title="BRASIL", 390 | TV Mon || BRASIL
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | TV Carioca" tvg-name="BR | TV Carioca" tvg-logo="https://play-lh.googleusercontent.com/PNqaA0KokJ1ZQFW24tgteOoqy2qXvdJTiWWhy8ocaJ6sj-jM9p-Gwzth_tyIdwaYchc" group-title="BRASIL", 391 | TV Carioca || BRASIL
-https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
+https://ott1.hdlatam.tv/live/tv_C4ri0ca/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | Amazon Sat TV" tvg-name="BR | Amazon Sat TV" tvg-logo="https://play-lh.googleusercontent.com/HhoMIiIxkqgPYdMZqhgOh98NmC0MoP2Z-GJxpItqJAWQxu0FoOAt2fHyLsxpb4GpxV4=w240-h480-rw" group-title="BRASIL", 392 | Amazon Sat TV || BRASIL
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="BR | Nova TV Agrotour" tvg-name="BR | Nova TV Agrotour" tvg-logo="https://play-lh.googleusercontent.com/yLtIjmPlBctcPALUpP9tbpewcKonYfoQu0-UhMOtLxKJySKWLS3D1dvbtUf3CLNlmEs=w240-h480-rw" group-title="BRASIL", 393 | Nova TV Agrotour || BRASIL
@@ -1416,7 +1418,7 @@ http://177.10.184.193:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+http://190.105.128.198:5800/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
@@ -1426,17 +1428,17 @@ http://190.105.128.198:5800/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="GT | TN 23" tvg-name="GT | TN 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/TN23logo2016.png/250px-TN23logo2016.png" group-title="GUATEMALA", 873 | TN 23 || GUATEMALA
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="GT | Guatevisión" tvg-name="GT | Guatevisión" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/logo-1.png?quality=82" group-title="GUATEMALA", 874 | Guatevisión || GUATEMALA
-http://179.60.224.196:8000/play/a0dx/index.m3u8
+http://190.105.128.198:5800/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 27 El Canal de la Esperanza" tvg-name="GT | Canal 27 El Canal de la Esperanza" tvg-logo="http://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944-1024x576.png" group-title="GUATEMALA", 875 | Canal 27 El Canal de la Esperanza || GUATEMALA
 http://167.250.223.26:8085/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="GT | Nuevo Mundo Televisión" tvg-name="GT | Nuevo Mundo Televisión" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s819cb0bb844c8380/image/i28512c8451c19f44/version/1488494562/image.png" group-title="GUATEMALA", 876 | Nuevo Mundo Televisión || GUATEMALA
 http://179.60.224.196:8000/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-id="GT | TV Azteca Guatemala" tvg-name="GT | TV Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/200px-Azteca_Guate_2017.png" group-title="GUATEMALA", 877 | TV Azteca Guate || GUATEMALA
-http://179.60.224.196:8000/play/a0dw/index.m3u8
+http://190.105.128.198:5800/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mQ2cGaphWUv9K2kYzPGhOHQMLCIBTqLEPsmtqaJd58jEc=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
-http://38.180.133.31:8000/play/a0pn/index.m3u8
+http://190.105.128.198:5800/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
 http://179.60.224.196:8000/play/a0gc/index.m3u8
 #EXTINF:-1 tvg-id="GT | Vision TV" tvg-name="GT | Vision TV" tvg-logo="https://image.roku.com/developer_channels/prod/095ee2266bdf396b53c736fb6a3b825a1d4cd8d2bf59f71b502c149c45d7d7b1.png" group-title="GUATEMALA", 881 | Vision TV || GUATEMALA
@@ -1540,7 +1542,7 @@ http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWDgF8YWCRF1XvDjqnhAGPt2G8E0Z4dC8kRqEyz3SLQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
-http://38.41.8.1:8000/play/a0y3
+http://38.41.8.1:8000/play/a03x
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1966,7 +1968,7 @@ http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 tvg-id="PE | Radio Nuevo Tiempo" tvg-name="PE | Radio Nuevo Tiempo" tvg-logo="https://api.raddios.com/api/radios/723/image/miniaturamovil?2020-04-20%2010:38:56" group-title="EMISORAS NACIONALES", 1141 | Radio Nuevo Tiempo 103.3 FM || Lima; Perú
 https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Nacional" tvg-name="PE | Radio Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Radio_Nacional_Peru_2023.png/1920px-Radio_Nacional_Peru_2023.png" group-title="EMISORAS NACIONALES", 1142 | Radio Nacional del Perú 103.9 FM || Lima; Perú
-https://ott1.hdlatam.tv/live/TVperuNoticias/playlist.m3u8
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png" group-title="EMISORAS NACIONALES", 1143 | Radio Disney 104.7 FM || Lima; Perú
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="PE | Radio Salud y Vida" tvg-name="PE | Radio Salud y Vida" tvg-logo="https://radiosaludyvida.com/wp-content/uploads/2022/09/cropped-logo_vt.png" group-title="EMISORAS NACIONALES", 1144 | Radio Salud y Vida 105.5 FM || Lima; Perú
@@ -2056,130 +2058,132 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce8
 #EXTINF:-1 tvg-id="PE | Viva FM" tvg-name="PE | Viva FM" tvg-logo="https://www.epafm.pe/images/logo_viva-fm.png" group-title="EMISORAS NACIONALES", 1187 | Viva FM || Lima; Perú
 https://tupanel.info:8780/stream
 #EXTINF:-1 tvg-id="PE | Radio Onda Digital" tvg-name="PE | Radio Onda Digital" tvg-logo="https://radioondadigital.com/wp-content/uploads/2024/11/cropped-LOGO-RADIO-ONDA-DIGITAL.png" group-title="EMISORAS DE RADIO CON VIDEO", 1188 | Radio Onda Digital || Lima; Perú
-https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+https://live.ondadigitaltv.com/RADIOODTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Vamisa" tvg-name="PE | Radio Vamisa" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="EMISORAS DE RADIO CON VIDEO", 1189 | Radio Vamisa || Lima; Perú
 https://cloud5.streaminglivehd.com:3780/live/vamisalive.m3u8
 #EXTINF:-1 tvg-id="PE | Radio Conecta2" tvg-name="PE | Radio Conecta2" tvg-logo="https://emisoras.com.pe/uploads/img/radio-conecta2.jpg" group-title="EMISORAS NACIONALES", 1190 | Radio Conecta2 || Lima; Perú
-https://stream-176.zeno.fm/fu201txn2zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdTIwMXR4bjJ6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InozMy1kVWJaUnpLd2Rlc0RYYWlUT2ciLCJpYXQiOjE3MzAwMDI1MDcsImV4cCI6MTczMDAwMjU2N30.Fzr87eTsRJu6-K3E8ojcinM7uWRNHWKHW914-TCQIp0
+https://radioconector.com/8034/stream
 #EXTINF:-1 tvg-id="EC | Radio Romance" tvg-name="EC | Radio Romance" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/romance-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1191 | Radio Romance 90.1 FM || ECUADOR
 https://streamingecuador.com:9010/stream
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" tvg-logo="https://cdn-profiles.tunein.com/s111123/images/logog.png" group-title="EMISORAS INTERNACIONALES", 1192 | Radio Fabu 105.7 FM || ECUADOR
 https://d2qsan2ut81n2k.cloudfront.net/live/b9d33d9d-22a3-414b-b26b-d24eb4cfeb37/ts:abr.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2Fb9d33d9d-22a3-414b-b26b-d24eb4cfeb37%2Fts%3Aabr.m3u8%22%2Csid%3D%22805c9bcc-8bc4-4130-8511-2e58697ebc63%22
 #EXTINF:-1 tvg-id="EC | Radio Atalaya" tvg-name="EC | Radio Atalaya" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/atalaya-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1193 | Radio Atalaya 680 AM || ECUADOR
-https://streaming.ecuastreaming.com/9978/stream
+https://s2.free-shoutcast.com/stream/18082
 #EXTINF:-1 tvg-id="EC | Radio Sucre" tvg-name="EC | Radio Sucre" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2020/07/OK.png" group-title="EMISORAS INTERNACIONALES", 1194 | Radio Sucre 700 AM || ECUADOR
 https://streamingecuador.net:8076/radiosucre
 #EXTINF:-1 tvg-id="EC | Radio Huancavilca" tvg-name="EC | Radio Huancavilca" tvg-logo="https://i.ytimg.com/vi/AWL0IDCfHFA/hqdefault.jpg" group-title="EMISORAS INTERNACIONALES", 1195 | Radio Huancavilca 830 AM || ECUADOR
 https://streamingecuador.net:7078/stream
 #EXTINF:-1 tvg-id="EC | Radio Cristal" tvg-name="EC | Radio Cristal" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/cristal.png" group-title="EMISORAS INTERNACIONALES", 1196 | Radio Cristal 870 AM || ECUADOR
-http://78.47.60.149/9958/;
-#EXTINF:-1 tvg-id="EC | Radio Aguila" tvg-name="EC | Radio Aguila" tvg-logo="https://radioaguila1050am.com/wp-content/uploads/2022/10/RADIO-AGUILA-HORIZONTA.png" group-title="EMISORAS INTERNACIONALES", 1197 | Radio Aguila 1050 AM || ECUADOR
+https://radiocristal.makrodigital.com/stream/radiocristal
+#EXTINF:-1 tvg-id="EC | Radio Ecuantena" tvg-name="EC | Radio Ecuantena" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/ecuantena-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1197 | Radio Ecuantena 1030 AM || ECUADOR
+https://online.radioecuantena.com:8443/transmision.mp3
+#EXTINF:-1 tvg-id="EC | Radio Aguila" tvg-name="EC | Radio Aguila" tvg-logo="https://radioaguila1050am.com/wp-content/uploads/2022/10/RADIO-AGUILA-HORIZONTA.png" group-title="EMISORAS INTERNACIONALES", 1198 | Radio Aguila 1050 AM || ECUADOR
 https://icecasthd.net/proxy/radioaguila/live
-#EXTINF:-1 tvg-id="EC | Radio Sistema 2" tvg-name="EC | Radio Sistema 2" tvg-logo="https://play-lh.googleusercontent.com/btUZExyzwDJm77WZtsyY8saNMlUSigX7keJviQIHZHEK6LlSkZXT4SKYeetJ1DU_R6Y" group-title="EMISORAS INTERNACIONALES", 1198 | Radio Sistema 2 1080 AM || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio Sistema 2" tvg-name="EC | Radio Sistema 2" tvg-logo="https://play-lh.googleusercontent.com/btUZExyzwDJm77WZtsyY8saNMlUSigX7keJviQIHZHEK6LlSkZXT4SKYeetJ1DU_R6Y" group-title="EMISORAS INTERNACIONALES", 1199 | Radio Sistema 2 1080 AM || ECUADOR
 https://streamingecuador.net:8052/radiosistema2
-#EXTINF:-1 tvg-id="EC | Radio Popular" tvg-name="EC | Radio Popular" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5P-bOFOoKqCGRdvPsNLjwdeoGXZ0K-1Ys_Q&s" group-title="EMISORAS INTERNACIONALES", 1199 | Radio Popular de Cuenca 1290 AM || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio Popular" tvg-name="EC | Radio Popular" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5P-bOFOoKqCGRdvPsNLjwdeoGXZ0K-1Ys_Q&s" group-title="EMISORAS INTERNACIONALES", 1200 | Radio Popular de Cuenca 1290 AM || ECUADOR
 https://stream-50.zeno.fm/py6f6znfntzuv?zs=kYEzAzomTc-ju220HEsXzg
-#EXTINF:-1 tvg-id="EC | Radio Soberana 98.7 FM" tvg-name="EC | Radio Soberana 98.7 FM" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="EMISORAS DE RADIO CON VIDEO", 1200 | Radio Soberana 98.7 FM || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio Soberana 98.7 FM" tvg-name="EC | Radio Soberana 98.7 FM" tvg-logo="https://play-lh.googleusercontent.com/n-g2gEIh3jnuxzDo7h4exKiEVBal8ztsjFdej0zrbtoIob1uFe2MWsoK5DA91_2Lskc=s200" group-title="EMISORAS DE RADIO CON VIDEO", 1201 | Radio Soberana 98.7 FM || ECUADOR
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="EC | Radio Monumental" tvg-name="EC | Radio Monumental" tvg-logo="https://www.radiomonumental1510.com/wp-content/uploads/2024/04/logo.jpeg" group-title="EMISORAS DE RADIO CON VIDEO", 1201 | Radio Monumental 1510 AM || ECUADOR
+#EXTINF:-1 tvg-id="EC | Radio Monumental" tvg-name="EC | Radio Monumental" tvg-logo="https://www.radiomonumental1510.com/wp-content/uploads/2024/04/logo.jpeg" group-title="EMISORAS DE RADIO CON VIDEO", 1202 | Radio Monumental 1510 AM || ECUADOR
 https://cloud37.ecuatel.com/monumentaltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | RCN Radio" tvg-name="CO | RCN Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1202 | RCN Radio 93.9 FM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN Radio" tvg-name="CO | RCN Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RCN_Radio_Colombia_logo.svg/250px-RCN_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1203 | RCN Radio 93.9 FM || COLOMBIA
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d/playlist.m3u8?listeningSessionID=641b564000df2c8b_10312435_gNFDpasb__0000004weCT&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&pid=qgZCCtmgb1WvSzOj89obc7kYWsULjYt0&sid=CJzQwkQ3Io0b0Xes0dWJBqZ6d8v2OP71&uid=prXB5zSZ2xeIGlP8C27uDF2cTjJgV7mh&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1689911983863&ot=MppR9VPzMzImd1o3tfASRg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=627c1c39637d89088290f64d&propertyName=lightning-player&propertyType=web-&listenerId=prXB5zSZ2xeIGlP8C27uDF2cTjJgV7mh
-#EXTINF:-1 tvg-id="CO | La FM" tvg-name="CO | La FM" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/992.png" group-title="EMISORAS INTERNACIONALES", 1203 | La FM 94.9 FM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | La FM" tvg-name="CO | La FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/21659.v14.png" group-title="EMISORAS INTERNACIONALES", 1204 | La FM 94.9 FM || COLOMBIA
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/playlist.m3u8?aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp&sid=r7bgeKbdce7kYiLuz1M7qdvM3RdgyhbC&pid=BWEIy7Vwb8RcoZlkfLc6ELHW0wtfi7jq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1689912993482&ot=4zCRqrQGZhesy4HpVGzAYw&proto=https&pz=us&cP=128000
-#EXTINF:-1 tvg-id="CO | W Radio" tvg-name="CO | W Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1204 | W Radio 99.9 FM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | W Radio" tvg-name="CO | W Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/W_Radio_Colombia_logo.svg/225px-W_Radio_Colombia_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1205 | W Radio 99.9 FM || COLOMBIA
 https://27323.live.streamtheworld.com/WRADIOAAC.aac
-#EXTINF:-1 tvg-id="CO | Radio Caracol" tvg-name="CO | Radio Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1205 | Radio Caracol 100.9 FM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Radio Caracol" tvg-name="CO | Radio Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1280px-Caracol_Radio_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1206 | Radio Caracol 100.9 FM || COLOMBIA
 https://27383.live.streamtheworld.com/CARACOL_RADIOAAC_SC?csegid=2000
-#EXTINF:-1 tvg-id="CO | Radio La Cariñosa" tvg-name="CO | Radio La Cariñosa" tvg-logo="https://static.wordpress.rcnradio.com/lacarinosa/logo.webp" group-title="EMISORAS INTERNACIONALES", 1206 | Radio La Cariñosa 610 AM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Radio La Cariñosa" tvg-name="CO | Radio La Cariñosa" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/21569.v22.png" group-title="EMISORAS INTERNACIONALES", 1207 | Radio La Cariñosa 610 AM || COLOMBIA
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632c9c3d202d6801a3178028/playlist.m3u8?listeningSessionID=646ef88900a9f392_4831858_DhmlEiXZ__0000005rx5R&downloadSessionID=0&aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp&sid=r7bgeKbdce7kYiLuz1M7qdvM3RdgyhbC&pid=K25Bhhges8xl0nTSNJmEYV7KUdfJcYh2&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1689912443059&ot=HEBn8jJTNhTRbRu7dSKFvQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=632c9c3d202d6801a3178028&referer=https%3A%2F%2Fwww.colombia.com%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.199&listenerId=CGTcWnMdeb6oxfGxJxV0BdYRsXjK4lHp
-#EXTINF:-1 tvg-id="CO | Antena 2 Radio" tvg-name="CO | Antena 2 Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Antena_2_logo.svg/225px-Antena_2_logo.svg.png" group-title="EMISORAS INTERNACIONALES", 1207 | Antena 2 Radio 650 AM || COLOMBIA
+#EXTINF:-1 tvg-id="CO | Antena 2 Radio" tvg-name="CO | Antena 2 Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/21527.v15.png" group-title="EMISORAS INTERNACIONALES", 1208 | Antena 2 Radio 650 AM || COLOMBIA
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b439234f869e9a50e2b/playlist.m3u8?aid=6271a4d5d206c3172f3c9a9c&dnt=true&uid=34B3JzJ6IfJ8EtVMd3x4xZGtDY39fx10&sid=TUJaBb8fc7qLkdhqfMCGL7VT9zM8RnjU&pid=QIoxr4HtTIngEnPmpAQBmI5RFFrwX3fM&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1689912234284&ot=vGK9OMAlSTKwigqS7Z7RIg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=lightning-player&liveId=632c9b439234f869e9a50e2b&referer=https%3A%2F%2Fwww.colombia.com%2F&propertyName=lightning-player&propertyType=web-app&propertyVersion=v0.0.199&listenerId=34B3JzJ6IfJ8EtVMd3x4xZGtDY39fx10
-#EXTINF:-1 tvg-id="CO | Bésame Radio" tvg-name="CO | Bésame Radio" tvg-logo="https://pbs.twimg.com/profile_images/1601206073381249024/FBJFT_Oa_400x400.jpg" group-title="EMISORAS INTERNACIONALES", 1208 | Bésame Radio 97.4 FM || COLOMBIA
-https://24483.live.streamtheworld.com/BESAME_BOGOTA_SC
-#EXTINF:-1 tvg-id="CO | Radio Santa Fe" tvg-name="CO | Radio Santa Fe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/q-hubo.png" group-title="EMISORAS INTERNACIONALES", 1209 | Radio Santa Fe 1070 AM || COLOMBIA
-https://24253.live.streamtheworld.com/QHUBO_BOGOTA.mp3
-#EXTINF:-1 tvg-id="VE | La Romántica" tvg-name="VE | La Romántica" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2a269dd37312cf7b93009b0030c66385.jpg" group-title="EMISORAS INTERNACIONALES", 1210 | La Romántica 88.9 FM || VENEZUELA
-https://server6.globalhostla.com:8068/stream
-#EXTINF:-1 tvg-id="VE | Unión Radio" tvg-name="VE | Unión Radio" tvg-logo="https://pbs.twimg.com/profile_images/863052198221107200/4sv9Rqcg_400x400.jpg" group-title="EMISORAS INTERNACIONALES", 1211 | Unión Radio || VENEZUELA
+#EXTINF:-1 tvg-id="CO | Bésame Radio" tvg-name="CO | Bésame Radio" tvg-logo="https://pbs.twimg.com/profile_images/1601206073381249024/FBJFT_Oa_400x400.jpg" group-title="EMISORAS INTERNACIONALES", 1209 | Bésame Radio 97.4 FM || COLOMBIA
+https://24423.live.streamtheworld.com/BESAME_BOGOTA_SC
+#EXTINF:-1 tvg-id="CO | Radio Santa Fe" tvg-name="CO | Radio Santa Fe" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-co/q-hubo.png" group-title="EMISORAS INTERNACIONALES", 1210 | Radio Santa Fe 1070 AM || COLOMBIA
+https://24273.live.streamtheworld.com/QHUBO_BOGOTA.mp3
+#EXTINF:-1 tvg-id="VE | La Romántica" tvg-name="VE | La Romántica" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/2a269dd37312cf7b93009b0030c66385.jpg" group-title="EMISORAS INTERNACIONALES", 1211 | La Romántica 88.9 FM || VENEZUELA
+https://acp2.lorini.net:58100/stream
+#EXTINF:-1 tvg-id="VE | Unión Radio" tvg-name="VE | Unión Radio" tvg-logo="https://pbs.twimg.com/profile_images/863052198221107200/4sv9Rqcg_400x400.jpg" group-title="EMISORAS INTERNACIONALES", 1212 | Unión Radio || VENEZUELA
 https://acp4.lorini.net/proxy/ur2080?mp=/stream
-#EXTINF:-1 tvg-id="VE | La Radio del Sur" tvg-name="VE | La Radio del Sur" tvg-logo="http://www.laradiodelsur.com.ve/wp-content/uploads/2020/03/c300.png" group-title="EMISORAS INTERNACIONALES", 1212 | La Radio del Sur || VENEZUELA
+#EXTINF:-1 tvg-id="VE | La Radio del Sur" tvg-name="VE | La Radio del Sur" tvg-logo="http://www.laradiodelsur.com.ve/wp-content/uploads/2020/03/c300.png" group-title="EMISORAS INTERNACIONALES", 1213 | La Radio del Sur || VENEZUELA
 http://190.202.130.61:8000/lrds
-#EXTINF:-1 tvg-id="BO | Radio Estelar" tvg-name="BO | Radio Estelar" tvg-logo="https://www.estelarfm.com/EstelarFm.jpg" group-title="EMISORAS INTERNACIONALES", 1213 | Radio Estelar 92.5 FM || BOLIVIA
-https://a3.asurahosting.com:7680/radio.mp3
-#EXTINF:-1 tvg-id="BO | Radio Panamericana" tvg-name="BO | Radio Panamericana" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="EMISORAS INTERNACIONALES", 1214 | Radio Panamericana 96.1 FM || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Radio Estelar" tvg-name="BO | Radio Estelar" tvg-logo="https://www.estelarfm.com/EstelarFm.jpg" group-title="EMISORAS INTERNACIONALES", 1214 | Radio Estelar 92.5 FM || BOLIVIA
+https://a3.asurahosting.com:6080/radio.mp3
+#EXTINF:-1 tvg-id="BO | Radio Panamericana" tvg-name="BO | Radio Panamericana" tvg-logo="https://www.panamericana.bo/media/radiopanamerica/images/2021/01/01/2021010100000073897.png" group-title="EMISORAS INTERNACIONALES", 1215 | Radio Panamericana 96.1 FM || BOLIVIA
 https://node-10.zeno.fm/8n08k00zveruv?rj-ttl=5&aw_0_req_lsid=d3eb6028b1b90c267d3cbbc22c579110&acu-uid=630572328206&bsw-uid=1c193f44-9191-4b67-8b70-9a52bce372e6&cto-uid=bea7dd87-5a33-45a7-acad-c6a42ee0ccd2-61b426c0-5045&adt-uid=cuid_8ce542d3-5b27-11ec-8553-12
-#EXTINF:-1 tvg-id="BO | ATB Radio" tvg-name="BO | ATB Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/atb.png" group-title="EMISORAS INTERNACIONALES", 1215 | ATB Radio 107.2 FM || BOLIVIA
+#EXTINF:-1 tvg-id="BO | ATB Radio" tvg-name="BO | ATB Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/atb.png" group-title="EMISORAS INTERNACIONALES", 1216 | ATB Radio 107.2 FM || BOLIVIA
 https://streamingenbolivia.com/8006/stream
-#EXTINF:-1 tvg-id="BO | Eres Radio" tvg-name="BO | Eres Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbKtM9aa00ve5KxUm1a5G_CoDcxjZi-ibww&s" group-title="EMISORAS INTERNACIONALES", 1216 | Eres Radio 105.7 FM || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Eres Radio" tvg-name="BO | Eres Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbKtM9aa00ve5KxUm1a5G_CoDcxjZi-ibww&s" group-title="EMISORAS INTERNACIONALES", 1217 | Eres Radio 105.7 FM || BOLIVIA
 https://sp5.servidorrprivado.com/8789/stream
-#EXTINF:-1 tvg-id="CL | Romántica FM" tvg-name="CL | Romántica FM" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="EMISORAS INTERNACIONALES", 1217 | Romántica 104.1 FM || CHILE
+#EXTINF:-1 tvg-id="CL | Romántica FM" tvg-name="CL | Romántica FM" tvg-logo="https://cdn-profiles.tunein.com/s16424/images/bannerx.jpg?t=637366653600000000" group-title="EMISORAS INTERNACIONALES", 1218 | Romántica 104.1 FM || CHILE
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
-#EXTINF:-1 tvg-id="CL | Amor AM & FM Stereo" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="https://www.radioamor.cl/images/log-header.png" group-title="EMISORAS INTERNACIONALES", 1218 | Amor AM & FM Stereo || CHILE
-https://sonic.streamingchilenos.com/9820/stream
-#EXTINF:-1 tvg-id="AR | Nacional Clasica FM" tvg-name="AR | Nacional Clasica FM" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/clasica-capital-federal.png" group-title="EMISORAS INTERNACIONALES", 1219 | Nacional Clasica 96.7 FM || ARGENTINA
+#EXTINF:-1 tvg-id="CL | Amor AM & FM Stereo" tvg-name="CL | Amor AM & FM Stereo" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/149521.v2.png" group-title="EMISORAS INTERNACIONALES", 1219 | Amor AM & FM Stereo || CHILE
+https://sonic.portalfoxmix.club/8194/stream
+#EXTINF:-1 tvg-id="AR | Nacional Clasica FM" tvg-name="AR | Nacional Clasica FM" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/clasica-capital-federal.png" group-title="EMISORAS INTERNACIONALES", 1220 | Nacional Clasica 96.7 FM || ARGENTINA
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
-#EXTINF:-1 tvg-id="AR | Radio Mitre" tvg-name="AR | Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="EMISORAS INTERNACIONALES", 1220 | Radio Mitre 790 AM || ARGENTINA
+#EXTINF:-1 tvg-id="AR | Radio Mitre" tvg-name="AR | Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="EMISORAS INTERNACIONALES", 1221 | Radio Mitre 790 AM || ARGENTINA
 https://22823.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=c5be7b3e-23d2-4b42-9d97-4fe2952ac629
-#EXTINF:-1 tvg-id="CR | Teletica Radio" tvg-name="CR | Teletica Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/teletica.png" group-title="EMISORAS INTERNACIONALES", 1221 | Teletica Radio || COSTA RICA
+#EXTINF:-1 tvg-id="CR | Teletica Radio" tvg-name="CR | Teletica Radio" tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/teletica.png" group-title="EMISORAS INTERNACIONALES", 1222 | Teletica Radio || COSTA RICA
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NI | La Buenísima" tvg-name="NI | La Buenísima" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/05143231/La-Buenisima-1-300x300.png" group-title="EMISORAS INTERNACIONALES", 1222 | La Buenísima 93.1 FM || NICARAGUA
+#EXTINF:-1 tvg-id="NI | La Buenísima" tvg-name="NI | La Buenísima" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/05143231/La-Buenisima-1-300x300.png" group-title="EMISORAS INTERNACIONALES", 1223 | La Buenísima 93.1 FM || NICARAGUA
 https://alba-ni-nicaradios-labuenisima.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="NI | Alfa" tvg-name="NI | Alfa" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143109/Alfa-2-300x300.png" group-title="EMISORAS INTERNACIONALES", 1223 | Alfa 93.5 FM || NICARAGUA
+#EXTINF:-1 tvg-id="NI | Alfa" tvg-name="NI | Alfa" tvg-logo="https://www.nicaradios.com.ni/wp-content/uploads/2021/10/05143109/Alfa-2-300x300.png" group-title="EMISORAS INTERNACIONALES", 1224 | Alfa 93.5 FM || NICARAGUA
 https://alba-ni-nicaradios-alfa.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="NI | La Picosa" tvg-name="NI | La Picosa" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2022-07/La%252520Picosa%25252097.9FM.png.webp?itok=TAafnu8S" group-title="EMISORAS INTERNACIONALES", 1224 | La Picosa 97.9 FM || NICARAGUA
+#EXTINF:-1 tvg-id="NI | La Picosa" tvg-name="NI | La Picosa" tvg-logo="https://radionicaragua.net/sites/default/files/styles/player_image/public/2022-07/La%252520Picosa%25252097.9FM.png.webp?itok=TAafnu8S" group-title="EMISORAS INTERNACIONALES", 1225 | La Picosa 97.9 FM || NICARAGUA
 https://alba-ni-nicaradios-lapicosa.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="NI | Romántica" tvg-name="NI | Romántica" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/04123733/Romantica-300x300.png" group-title="EMISORAS INTERNACIONALES", 1225 | Romántica 98.7 FM || NICARAGUA
+#EXTINF:-1 tvg-id="NI | Romántica" tvg-name="NI | Romántica" tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/17/2021/10/04123733/Romantica-300x300.png" group-title="EMISORAS INTERNACIONALES", 1226 | Romántica 98.7 FM || NICARAGUA
 https://alba-ni-nicaradios-romantica.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="GT | Fabuestéreo FM" tvg-name="GT | Fabuestéreo FM" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/fabuestereo.png" group-title="EMISORAS INTERNACIONALES", 1226 | Fabuestéreo 88.1 FM || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Fabuestéreo FM" tvg-name="GT | Fabuestéreo FM" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/fabuestereo.png" group-title="EMISORAS INTERNACIONALES", 1227 | Fabuestéreo 88.1 FM || GUATEMALA
 https://node-21.zeno.fm/9qt3nd2te0quv?rj-ttl=5&rj-tok=AAABfUMw5CwAR6Q_asRITIsfxg
-#EXTINF:-1 tvg-id="GT | Emisoras Unidas" tvg-name="GT | Emisoras Unidas" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="EMISORAS INTERNACIONALES", 1227 | Radio Emisoras Unidas || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Emisoras Unidas" tvg-name="GT | Emisoras Unidas" tvg-logo="https://emisorasunidas.com/wp-content/uploads/2020/12/logo-full-emisoras-unidas-190x60-1.png" group-title="EMISORAS INTERNACIONALES", 1228 | Radio Emisoras Unidas || GUATEMALA
 https://node-32.zeno.fm/eypgq8m08wquv?rj-ttl=5&rj-tok=AAABfUARHM4Akpk-cHiz5aAFGQ
-#EXTINF:-1 tvg-id="GT | Radio Joya" tvg-name="GT | Radio Joya" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png" group-title="EMISORAS INTERNACIONALES", 1228 | Radio Joya 92.9 FM || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Radio Joya" tvg-name="GT | Radio Joya" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-gt/joya-guatemala.png" group-title="EMISORAS INTERNACIONALES", 1229 | Radio Joya 92.9 FM || GUATEMALA
 https://alba-gt-chapinradio-joya.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="GT | Romántica 105.3 FM" tvg-name="GT | Romántica 105.3 FM" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/romantica-105-3.png" group-title="EMISORAS INTERNACIONALES", 1229 | Romántica 105.3 FM || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Romántica 105.3 FM" tvg-name="GT | Romántica 105.3 FM" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-gt/romantica-105-3.png" group-title="EMISORAS INTERNACIONALES", 1230 | Romántica 105.3 FM || GUATEMALA
 http://54.39.106.215:9314/;
-#EXTINF:-1 tvg-id="GT | Radio Panamericana 1030 AM" tvg-name="GT | Radio Panamericana 1030 AM" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="EMISORAS INTERNACIONALES", 1230 | Radio Panamericana 1030 AM || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Radio Panamericana 1030 AM" tvg-name="GT | Radio Panamericana 1030 AM" tvg-logo="https://cdn-profiles.tunein.com/s138009/images/logod.png?t=156821" group-title="EMISORAS INTERNACIONALES", 1231 | Radio Panamericana 1030 AM || GUATEMALA
 https://radiosfuentesred.site/listen/radio_panamericana/radio.mp3
-#EXTINF:-1 tvg-id="GT | Recuerdo Stereo 101.9 FM Sacatepequez" tvg-name="GT | Recuerdo Stereo 101.9 FM Sacatepequez" tvg-logo="https://www.medios.gt/galeriausuarios/mediosg7sm/imagenesmessage/imagem100529224717960.jpg" group-title="EMISORAS INTERNACIONALES", 1231 | Recuerdo Stereo 101.9 FM Sacatepequez || GUATEMALA
+#EXTINF:-1 tvg-id="GT | Recuerdo Stereo 101.9 FM Sacatepequez" tvg-name="GT | Recuerdo Stereo 101.9 FM Sacatepequez" tvg-logo="https://www.medios.gt/galeriausuarios/mediosg7sm/imagenesmessage/imagem100529224717960.jpg" group-title="EMISORAS INTERNACIONALES", 1232 | Recuerdo Stereo 101.9 FM Sacatepequez || GUATEMALA
 https://cloudstream2032.conectarhosting.com/8300/stream
-#EXTINF:-1 tvg-id="SV | Radio Corazón" tvg-name="SV | Radio Corazón" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/corazon-san-salvador.png" group-title="EMISORAS INTERNACIONALES", 1232 | Radio Corazón 97.3 FM || EL SALVADOR
+#EXTINF:-1 tvg-id="SV | Radio Corazón" tvg-name="SV | Radio Corazón" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/corazon-san-salvador.png" group-title="EMISORAS INTERNACIONALES", 1233 | Radio Corazón 97.3 FM || EL SALVADOR
 https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="SV | Radio Astral" tvg-name="SV | Radio Astral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Radio_Astral_Logo.png" group-title="EMISORAS INTERNACIONALES", 1233 | Radio Astral 102.9 FM || EL SALVADOR
+#EXTINF:-1 tvg-id="SV | Radio Astral" tvg-name="SV | Radio Astral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Radio_Astral_Logo.png" group-title="EMISORAS INTERNACIONALES", 1234 | Radio Astral 102.9 FM || EL SALVADOR
 https://streaming.rcs.com.sv/astral/stream
-#EXTINF:-1 tvg-id="SV | Radio YSKL" tvg-name="SV | Radio YSKL" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f522f60ef27b6593e8d03be1e4944dac.jpg" group-title="EMISORAS INTERNACIONALES", 1234 | Radio YSKL 104.1 FM y 770 AM || EL SALVADOR
+#EXTINF:-1 tvg-id="SV | Radio YSKL" tvg-name="SV | Radio YSKL" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f522f60ef27b6593e8d03be1e4944dac.jpg" group-title="EMISORAS INTERNACIONALES", 1235 | Radio YSKL 104.1 FM y 770 AM || EL SALVADOR
 https://media.dominiocreativo.com:8000/stream/1/
-#EXTINF:-1 tvg-id="SV | Sonora FM" tvg-name="SV | Sonora FM" tvg-logo="http://www.radiosonora.com.sv/img/logo.png" group-title="EMISORAS INTERNACIONALES", 1235 | Sonora 104.5 FM || EL SALVADOR
+#EXTINF:-1 tvg-id="SV | Sonora FM" tvg-name="SV | Sonora FM" tvg-logo="http://www.radiosonora.com.sv/img/logo.png" group-title="EMISORAS INTERNACIONALES", 1236 | Sonora 104.5 FM || EL SALVADOR
 http://190.5.147.67:8000/radiosonora
-#EXTINF:-1 tvg-id="SV | Radio Estereo Mix" tvg-name="SV | Radio Estereo Mix" tvg-logo="https://public-rf-upload.minhawebradio.net/250406/logo/909f45ab5f7c913b3eefe349a8d90d61.png" group-title="EMISORAS INTERNACIONALES", 1236 | Radio Estereo Mix || EL SALVADOR
+#EXTINF:-1 tvg-id="SV | Radio Estereo Mix" tvg-name="SV | Radio Estereo Mix" tvg-logo="https://public-rf-upload.minhawebradio.net/250406/logo/909f45ab5f7c913b3eefe349a8d90d61.png" group-title="EMISORAS INTERNACIONALES", 1237 | Radio Estereo Mix || EL SALVADOR
 https://servidor20-3.brlogic.com:7004/live?source=website
-#EXTINF:-1 tvg-id="MX | Radio México Internacional" tvg-name="MX | Radio México Internacional" tvg-logo="https://dbs.radioline.fr/pictures/radio_77ffed9be8fe88f1a6b4fc56810bb64e/logo200.jpg?size=600" group-title="EMISORAS INTERNACIONALES", 1237 | Radio México Internacional || MEXICO
+#EXTINF:-1 tvg-id="MX | Radio México Internacional" tvg-name="MX | Radio México Internacional" tvg-logo="https://dbs.radioline.fr/pictures/radio_77ffed9be8fe88f1a6b4fc56810bb64e/logo200.jpg?size=600" group-title="EMISORAS INTERNACIONALES", 1238 | Radio México Internacional || MEXICO
 https://s2.mexside.net/8020/stream
-#EXTINF:-1 tvg-id="MX | 88.9 Noticias" tvg-name="MX | 88.9 Noticias" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/noticias.png" group-title="EMISORAS INTERNACIONALES", 1238 | 88.9 Noticias 88.9 FM || MEXICO
+#EXTINF:-1 tvg-id="MX | 88.9 Noticias" tvg-name="MX | 88.9 Noticias" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/noticias.png" group-title="EMISORAS INTERNACIONALES", 1239 | 88.9 Noticias 88.9 FM || MEXICO
 https://15233.live.streamtheworld.com/XHMFMAAC_SC
-#EXTINF:-1 tvg-id="MX | Radio La Romántica" tvg-name="MX | Radio La Romántica" tvg-logo="https://www.laromantica.com.mx/wp-content/uploads/2022/02/logo_la-romantica_2ago2021_186_hd2.png" group-title="EMISORAS INTERNACIONALES", 1239 | Radio La Romántica 92.9 FM || MEXICO
+#EXTINF:-1 tvg-id="MX | Radio La Romántica" tvg-name="MX | Radio La Romántica" tvg-logo="https://www.laromantica.com.mx/wp-content/uploads/2022/02/logo_la-romantica_2ago2021_186_hd2.png" group-title="EMISORAS INTERNACIONALES", 1240 | Radio La Romántica 92.9 FM || MEXICO
 https://stream-163.zeno.fm/q5f7ne3sb18uv?zs=b9HYcOlgSAW-d6JO36wjIA
-#EXTINF:-1 tvg-id="MX | Radio Amor" tvg-name="MX | Radio Amor" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/amor-cdmx.png" group-title="EMISORAS INTERNACIONALES", 1240 | Radio Amor 95.3 FM || MEXICO
+#EXTINF:-1 tvg-id="MX | Radio Amor" tvg-name="MX | Radio Amor" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/amor-cdmx.png" group-title="EMISORAS INTERNACIONALES", 1241 | Radio Amor 95.3 FM || MEXICO
 https://22973.live.streamtheworld.com/XHSHFMAAC_SC
-#EXTINF:-1 tvg-id="MX | Radio Felicidad" tvg-name="MX | Radio Felicidad" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/felicidad.png" group-title="EMISORAS INTERNACIONALES", 1241 | Radio Felicidad 1180 AM || MEXICO
+#EXTINF:-1 tvg-id="MX | Radio Felicidad" tvg-name="MX | Radio Felicidad" tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/felicidad.png" group-title="EMISORAS INTERNACIONALES", 1242 | Radio Felicidad 1180 AM || MEXICO
 https://26273.live.streamtheworld.com/XEFRAMAAC_SC
-#EXTINF:-1 tvg-id="MX | Radio Baladas viejitas pero bonitas" tvg-name="MX | Radio Baladas viejitas pero bonitas" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/baladas-viejitas-bonitas.png" group-title="EMISORAS INTERNACIONALES", 1242 | Radio Baladas viejitas pero bonitas || MEXICO
+#EXTINF:-1 tvg-id="MX | Radio Baladas viejitas pero bonitas" tvg-name="MX | Radio Baladas viejitas pero bonitas" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/baladas-viejitas-bonitas.png" group-title="EMISORAS INTERNACIONALES", 1243 | Radio Baladas viejitas pero bonitas || MEXICO
 https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.mp3
-#EXTINF:-1 tvg-id="USA | Romántica 90 FM" tvg-name="USA | Romántica 90 FM" tvg-logo="https://cdn-profiles.tunein.com/s276267/images/logod.png?t=637239589110000000" group-title="EMISORAS INTERNACIONALES", 1243 | Romántica 90 FM || ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="USA | Romántica 90 FM" tvg-name="USA | Romántica 90 FM" tvg-logo="https://cdn-profiles.tunein.com/s276267/images/logod.png?t=637239589110000000" group-title="EMISORAS INTERNACIONALES", 1244 | Romántica 90 FM || ESTADOS UNIDOS
 http://puertoplataradio.com:8016/;
-#EXTINF:-1 tvg-id="USA | Red de Radiodifusión Bíblica" tvg-name="USA | Red de Radiodifusión Bíblica" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", 1244 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
+#EXTINF:-1 tvg-id="USA | Red de Radiodifusión Bíblica" tvg-name="USA | Red de Radiodifusión Bíblica" tvg-logo="https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2020/12/50thLogoSP.png" group-title="EMISORAS INTERNACIONALES", 1245 | BBN (Bible Broadcasting Network) Radio || ESTADOS UNIDOS
 https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
-#EXTINF:-1 tvg-id="DO | Amor FM" tvg-name="D0 | Amor FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-do/amor.png" group-title="EMISORAS INTERNACIONALES", 1245 | Amor 91.9 FM || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Amor FM" tvg-name="D0 | Amor FM" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-do/amor.png" group-title="EMISORAS INTERNACIONALES", 1246 | Amor 91.9 FM || REPUBLICA DOMINICANA
 http://radio.domiplay.net:9190/stream/1/
-#EXTINF:-1 tvg-id="DO | La Voz de María Radio" tvg-name="D0 | La Voz de María Radio" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="EMISORAS INTERNACIONALES", 1246 | La Voz de María Radio || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | La Voz de María Radio" tvg-name="D0 | La Voz de María Radio" tvg-logo="http://lavozdemariaradio.com/wp-content/uploads/2022/10/cropped-logo-lvm-radio-200.png" group-title="EMISORAS INTERNACIONALES", 1247 | La Voz de María Radio || REPUBLICA DOMINICANA
 https://cast3.asurahosting.com/proxy/luis12/stream?mp=/1;&1679264623993
-#EXTINF:-1 tvg-id="DO | Radio Vida" tvg-name="D0 | Radio Vida" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/34128.v2.png" group-title="EMISORAS INTERNACIONALES", 1247 | Radio Vida 105.3 FM || REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-id="DO | Radio Vida" tvg-name="D0 | Radio Vida" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/34128.v2.png" group-title="EMISORAS INTERNACIONALES", 1248 | Radio Vida 105.3 FM || REPUBLICA DOMINICANA
 http://paginas.moisespaulino.com:8036/stream?type=.mp3
-#EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 1248 | NSE Radio || ESPAÑA
+#EXTINF:-1 tvg-id="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-name="ES | NSE (Nuestra Señora del Encuentro con Dios) Radio" tvg-logo="https://public-rf-upload.minhawebradio.net/166842/cover/73f0ce5e8eab2e197fc683cb50d7b20b.jpg" group-title="EMISORAS INTERNACIONALES", 1249 | NSE Radio || ESPAÑA
 https://evcast.mediacp.eu:2060/stream
-#EXTINF:-1 tvg-id="ES | Melodía 60 Radio" tvg-name="ES | Melodía 60 Radio" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="EMISORAS INTERNACIONALES", 1249 | Melodía 60 Radio || ESPAÑA
+#EXTINF:-1 tvg-id="ES | Melodía 60 Radio" tvg-name="ES | Melodía 60 Radio" tvg-logo="https://play-lh.googleusercontent.com/WrMg6XsDM5oL4FHNVmnYPCX_QOKgPci93vVTQN0f1q1oeFrgpUu0EjyB3pj0GIu_A7U" group-title="EMISORAS INTERNACIONALES", 1250 | Melodía 60 Radio || ESPAÑA
 http://streamtotal.net:8136/stream
-#EXTINF:-1 tvg-id="FR | Radio Francia Internacional" tvg-name="FR | Radio Francia Internacional" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/984.png" group-title="EMISORAS INTERNACIONALES", 1250 | Radio Francia Internacional || FRANCIA
+#EXTINF:-1 tvg-id="FR | Radio Francia Internacional" tvg-name="FR | Radio Francia Internacional" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/984.png" group-title="EMISORAS INTERNACIONALES", 1251 | Radio Francia Internacional || FRANCIA
 https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:-1 tvg-id="CA | Stingray Classica" tvg-name="CA | Stingray Classica" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stingray-classica.png" group-title="CANALES DE AUDIO", 1251 | Stingray Classica
+#EXTINF:-1 tvg-id="CA | Stingray Classica" tvg-name="CA | Stingray Classica" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stingray-classica.png" group-title="CANALES DE AUDIO", 1252 | Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
