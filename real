@@ -93,6 +93,8 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 #EXTINF:-1 tvg-id="PE | Sori TV" tvg-name="PE | Sori TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/WhatsApp_Image_2024-11-22_at_4.58.12_PM.jpeg" group-title="PROVINCIALES", 39 | Sori TV || Bellavista
 https://ott1.hdlatam.tv/live/soritertv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Trece TV" tvg-name="PE | Trece TV" tvg-logo="https://playmax.tv/upload/logos/trece.jpg" group-title="PROVINCIALES", En prueba | Trece TV || Picota
+https://live.obslivestream.com/canaltrece/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 40 | Radio TV Juanjui || Juanjui
 https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
 #EXTINF:-1 tvg-id="PE | Yurimaguas TV" tvg-name="PE | Yurimaguas TV" tvg-logo="https://playmax.tv/upload/logos/YURIMAGUASTV800X800.jpg" group-title="REGIONALES", 41 | Yurimaguas TV || Yurimaguas
