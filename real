@@ -36,9 +36,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3013254604&_cdn_token=0082958a2a00170129cb9c5e22511115485dc301
 #EXTINF:-1 tvg-id="PE | USMPTV" tvg-name="PE | USMPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMPTV
-https://ott2.hdlatam.tv/live_abr/sUkdS14hrgdew/playlist.m3u8
+https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="PE | USMPTV Musica" tvg-name="PE | USMPTV Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/USMP_TV_M%C3%BAsica_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210504214636&path-prefix=es" group-title="PERU", 12.2 | USMPTV Musica
-https://ott1.hdlatam.tv/live/hi3/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3622421685&_cdn_token=1b4f40991a248b63d8c3876d8e0ca6b6390442d8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=3013257084&_cdn_token=075268a8a2fc6b35dac77fb9330e4219493e5304
 #EXTINF:-1 tvg-id="PE | Controversia TV" tvg-name="PE | Controversia TV" tvg-logo="https://playmax.tv/upload/logos/controversia.jpg" group-title="LOCALES", 14 | Controversia TV || Moyobamba
@@ -1279,12 +1279,12 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 2" tvg-name="NI | Canal 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCAAsfEEW97LI5peV0NGAtlIL5VfhnX-schTiTTLig0Oemf0HpCUT4kF6KA1tAKx2ev8&usqp=CAU" group-title="NICARAGUA", 799 | Canal 2 Televicentro || NICARAGUA
 http://179.61.31.142:8000/play/a0gg/index.m3u8
-#EXTINF:-1 tvg-id="NI | Canal 4" tvg-name="NI | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/150px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="NICARAGUA", 800 | Canal 4 Multinoticias || NICARAGUA
-http://138.59.177.34:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="NI | Canal 4" tvg-name="NI | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/960px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="NICARAGUA", 800 | Canal 4 Multinoticias || NICARAGUA
+https://live.eu-north-1b.cf.dmcdn.net/sec2(llOsi4N_sI8Hkl3QDx6yF-aXKpBWH8eO4nTsvHMwC_hpAmFTubJkXwPFCYyOHZYKaugjdyH9PQ2sR_S4qP9hkzPjmbdqgX42raUh3x-snkRfb_4Labtp8OSSdnfShGFp)/dm/3/x7rwv8c/s/live-480.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 6" tvg-name="NI | Canal 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/6_de_nicaragua-mediano.png" group-title="NICARAGUA", 801 | Canal 6 Nicaragüense || NICARAGUA
-http://179.61.31.142:8000/play/a0ck/index.m3u8
-#EXTINF:-1 tvg-id="NI | Canal 8 Telenica" tvg-name="NI | Canal 8 Telenica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tn8_logotipo_2021.png/165px-Tn8_logotipo_2021.png" group-title="NICARAGUA", 802 | TN8 Telenica || NICARAGUA
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(q8ApgNqKqmzA9Q37uRlxNlydkn6qL9icPRHAxr2s9yU-NQTKHvD6iw5tP_yD4iponI8rb-1O6wXh2fQ20EDFUhdZu0sXBA5lIdC7zSOnlOzxjBiX95wptAGsVxoqe3H5)/dm/3/x9phoxq/s/live-480.m3u8
+#EXTINF:-1 tvg-id="NI | Canal 8 Telenica" tvg-name="NI | Canal 8 Telenica" tvg-logo="https://logosnicas.com/wp-content/uploads/2022/08/canal_8_telenica_2021.png" group-title="NICARAGUA", 802 | TN8 Telenica || NICARAGUA
+https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 803 | Canal 9 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/250px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 804 | Canal 10 || NICARAGUA
@@ -1295,8 +1295,8 @@ https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 http://179.61.31.142:8000/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-id="NI | Viva Nicaragua Canal 13" tvg-name="NI | Viva Nicaragua Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logo_Viva_Nicaragua_Canal_13.png/200px-Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA", 807 | Viva Nicaragua Canal 13 || NICARAGUA
 http://179.61.31.142:8000/play/a0g7/index.m3u8
-#EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/14_de_nicaragua-mediano.png" group-title="NICARAGUA", 808 | Vos TV || NICARAGUA
-http://179.61.31.142:8000/play/a0g5/index.m3u8
+#EXTINF:-1 tvg-id="NI | Vos TV Canal 14" tvg-name="NI | Vos TV Canal 14" tvg-logo="https://play-lh.googleusercontent.com/ZHFfUJ3sRBayDotWo7VnA42p4oNGnPGiJXs4ssx2aWIn-W_yJWiGeCUfbD8qLcRULTk=w240-h480-rw" group-title="NICARAGUA", 808 | Vos TV || NICARAGUA
+https://cf.streann.tech/loadbalancer/services/web-players/channels-reseller-secure/5fa1effc2cdc077d5238711b/3a1c0abe-59f0-4921-b477-215db438d5f4/b4ol7r6trcrkh2cg5l5bnutavt/5fa1ed2f2cdcbeaaeac0f986/playlist.m3u8?date=1773104557133&arg1=d3d3LnZvc3R2LmNvbS5uaQ==&device-type=web&device-name=web&device-os=web&device-id=QKqQHA2wz044dmkC0Gq9tTDnjWdUZAvgbwPNS1yJoNRvJnqMb5&country_code=PE&doNotUseRedirect=true
 #EXTINF:-1 tvg-id="NI | Canal 15" tvg-name="NI | Canal 15" tvg-logo="https://pbs.twimg.com/media/FgYBiv_XEAEwavW?format=png&name=small" group-title="NICARAGUA", 809 | Canal 15 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | La Rock 22" tvg-name="NI | La Rock 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/LaRock22.jpg/245px-LaRock22.jpg" group-title="NICARAGUA", 810 | La Rock 22 || NICARAGUA
