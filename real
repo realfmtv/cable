@@ -83,20 +83,20 @@ https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="PE | Innova TV" tvg-name="PE | Innova TV" tvg-logo="https://pbs.twimg.com/media/G4KbZA5XEAABJ7Q?format=png&name=small" group-title="PROVINCIALES", 34 | Innova TV || Tarapoto
 https://ott1.hdlatam.tv/live/innovatv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Tarapoto Digital TV" tvg-name="PE | Tarapoto Digital TV" tvg-logo="https://pbs.twimg.com/media/GhN1oarXwAAthGg?format=png&name=small" group-title="PROVINCIALES", 35 | Tarapoto Digital TV || Tarapoto
-https://live.obslivestream.com/actpro/index.m3u8
-#EXTINF:-1 tvg-id="PE | Estelar Television" tvg-name="PE | Estelar Television" tvg-logo="https://estelartvtarapoto.com/wp-content/uploads/2024/01/logo.png" group-title="PROVINCIALES", 36 | Estelar Television || Tarapoto
+#EXTINF:-1 tvg-id="PE | Estelar Television" tvg-name="PE | Estelar Television" tvg-logo="https://estelartvtarapoto.com/wp-content/uploads/2024/01/logo.png" group-title="PROVINCIALES", 35 | Estelar Television || Tarapoto
 https://tv.perustreaming.net:3817/live/estelartvlive.m3u8
-#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", 37 | Millenium TV || Lamas
+#EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" group-title="PROVINCIALES", 36 | Millenium TV || Lamas
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://riberena.com/wp-content/uploads/2021/07/riberena_93.7-1536x1086.png" group-title="PROVINCIALES", 38 | Ribereña TV || Bellavista
+#EXTINF:-1 tvg-id="PE | Ribereña TV" tvg-name="PE | Ribereña TV" tvg-logo="https://riberena.com/wp-content/uploads/2021/07/riberena_93.7-1536x1086.png" group-title="PROVINCIALES", 37 | Ribereña TV || Bellavista
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
-#EXTINF:-1 tvg-id="PE | Sori TV" tvg-name="PE | Sori TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/WhatsApp_Image_2024-11-22_at_4.58.12_PM.jpeg" group-title="PROVINCIALES", 39 | Sori TV || Bellavista
+#EXTINF:-1 tvg-id="PE | Sori TV" tvg-name="PE | Sori TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/WhatsApp_Image_2024-11-22_at_4.58.12_PM.jpeg" group-title="PROVINCIALES", 38 | Sori TV || Bellavista
 https://ott1.hdlatam.tv/live/soritertv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Trece TV" tvg-name="PE | Trece TV" tvg-logo="https://playmax.tv/upload/logos/trece.jpg" group-title="PROVINCIALES", En prueba | Trece TV || Picota
+#EXTINF:-1 tvg-id="PE | Trece TV" tvg-name="PE | Trece TV" tvg-logo="https://playmax.tv/upload/logos/trece.jpg" group-title="PROVINCIALES", 39 | Trece TV || Picota
 https://live.obslivestream.com/canaltrece/index.m3u8
 #EXTINF:-1 tvg-id="PE | Radio TV Juanjui" tvg-name="PE | Radio TV Juanjui" tvg-logo="https://pbs.twimg.com/media/Fa_cDYIWAAAYv1w?format=png&name=small" group-title="PROVINCIALES", 40 | Radio TV Juanjui || Juanjui
 https://vivatv.juanjuiserver.com:3293/live/radiotvjuanjuilive.m3u8
+#EXTINF:-1 tvg-id="PE | Vision TV" tvg-name="PE | Vision TV" tvg-logo="https://pbs.twimg.com/media/HDHA2riXwAA8PZM?format=png&name=240x240" group-title="PROVINCIALES", En prueba | Vision TV || Tocache
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 tvg-id="PE | Yurimaguas TV" tvg-name="PE | Yurimaguas TV" tvg-logo="https://playmax.tv/upload/logos/YURIMAGUASTV800X800.jpg" group-title="REGIONALES", 41 | Yurimaguas TV || Yurimaguas
 https://live.obslivestream.com/yurimaguastelevision/index.m3u8
 #EXTINF:-1 tvg-id="PE | Uranio TV" tvg-name="PE | Uranio TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="REGIONALES", 42 | Uranio TV || Yurimaguas
@@ -1853,6 +1853,8 @@ https://conectperu.com/8390/stream
 https://radioconector.com:7010/stream
 #EXTINF:-1 tvg-id="PE | Radio Ebenezer" tvg-name="PE | Radio Ebenezer" tvg-logo="https://graph.facebook.com/281962128599048/picture?type=large" group-title="EMISORAS LOCALES", 1082 | Radio Ebenezer 103.5 FM || Moyobamba; Perú
 https://stream-40.zeno.fm/nmx8e1y7cm0uv?zs=e2hAOnVRRs2NRTKp98xR6Q&aw_0_req_lsid=1663150054202_0.5060922715387872&an-uid=5362203318446947601&triton-uid=cookie%3A1a8575a0-a2d8-4284-a5c1-853a8ffb7673
+#EXTINF:-1 tvg-id="PE | Radio Tropicana" tvg-name="PE | Radio Tropicana" tvg-logo="https://tropicanaradio.com/wp-content/uploads/2025/09/TRO.png" group-title="EMISORAS LOCALES", En prueba | Radio Tropicana 99.7 FM || Soritor; Perú
+https://sp.onliveperu.com/8222/stream/;type=mp3
 #EXTINF:-1 tvg-id="PE | Radio Moda Star" tvg-name="PE | Radio Moda Star" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda-moyobamba.png" group-title="EMISORAS LOCALES", 1083 | Radio Moda Star || Moyobamba; Perú
 https://sp.onliveperu.com/8004/stream
 #EXTINF:-1 tvg-id="PE | Radio Power" tvg-name="PE | Radio Power" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/93943.v3.png" group-title="EMISORAS LOCALES", 1084 | Radio Power || Moyobamba; Perú
