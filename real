@@ -36,9 +36,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/RPP/40-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://cablego.com.pe/cache/logos256/PBO.png" group-title="PERU", 11 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=3013254604&_cdn_token=0082958a2a00170129cb9c5e22511115485dc301
 #EXTINF:-1 tvg-id="PE | USMPTV" tvg-name="PE | USMPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", 12 | USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="PE | USMPTV Musica" tvg-name="PE | USMPTV Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/USMP_TV_M%C3%BAsica_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210504214636&path-prefix=es" group-title="PERU", 12.2 | USMPTV Musica
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=3622421685&_cdn_token=1b4f40991a248b63d8c3876d8e0ca6b6390442d8
+#EXTINF:-1 tvg-id="PE | USMPTV Musica" tvg-name="PE | USMPTV Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/USMP_TV_M%C3%BAsica_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210504214636&path-prefix=es" group-title="PERU", 12.2 | USMPTV Musica
+https://ott1.hdlatam.tv/live/hi3/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Global Television" tvg-name="PE | Global Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", 13 | Global Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=3013257084&_cdn_token=075268a8a2fc6b35dac77fb9330e4219493e5304
 #EXTINF:-1 tvg-id="PE | Controversia TV" tvg-name="PE | Controversia TV" tvg-logo="https://playmax.tv/upload/logos/controversia.jpg" group-title="LOCALES", 14 | Controversia TV || Moyobamba
@@ -613,6 +613,8 @@ https://play.agenciastreaming.com:8081/oasis/video.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/canal34SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Canal Nuestro" tvg-name="PE | Canal Nuestro" tvg-logo="https://nuestrocanal.pe/wp-content/uploads/2025/01/cropped-LOGONUESTROCANALPEQUE.png" group-title="REGIONALES", 294 | Canal Nuestro || Casma
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | San Pedro SAT Television" tvg-name="PE | San Pedro SAT Television" tvg-logo="https://tv2.yottalan.com/media/images/channel/LOGO-TV.png" group-title="REGIONALES", En prueba | San Pedro SAT Television || San Marcos; Ancash
+https://ott2.hdlatam.tv/live/sanPedroSatTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Onda TV" tvg-name="PE | Onda TV" tvg-logo="https://pbs.twimg.com/media/GZbCC8GWwAERY31?format=png&name=240x240" group-title="REGIONALES", 295 | Onda TV || Ica
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Dunas TV" tvg-name="PE | Dunas TV" tvg-logo="https://pbs.twimg.com/media/GnE-sqyW4AAWdxQ?format=png&name=small" group-title="REGIONALES", 296 | Dunas TV || Ica
@@ -701,6 +703,8 @@ https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 https://stmv7.voxtvhd.com.br/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 338 | TV Mar || Puerto Maldonado
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/LOGO_URIOLTV.png" group-title="REGIONALES", 338 | Uriol TV || Puerto Maldonado
+https://ott1.hdlatam.tv/live_abr/UriolTV_PM/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | RTP" tvg-name="PE | RTP" tvg-logo="https://pbs.twimg.com/media/GiLJFRWWIAEXsxK?format=png&name=360x360" group-title="REGIONALES", 339 | RTP || Puno
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Cositel TV" tvg-name="PE | Cositel TV" tvg-logo="https://i.imgur.com/qYwHNr9.png" group-title="REGIONALES", 340 | Cositel TV || Juliaca
