@@ -1755,7 +1755,7 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="REPUBLICA DOMINICANA", En prueba | Fuego 40 TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CU | Cubavision" tvg-name="CU | Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="CUBA", 1033 |Cubavision || CUBA
+#EXTINF:-1 tvg-id="CU | Cubavision" tvg-name="CU | Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="CUBA", 1033 | Cubavision || CUBA
 https://tv.picta.cu/cubavision/cubavision_0.m3u8
 #EXTINF:-1 tvg-id="CU | Canal Habana" tvg-name="CU | Canal Habana" tvg-logo="https://i.imgur.com/0EUc52w.png" group-title="CUBA", En prueba | Canal Habana || CUBA
 https://tv.picta.cu/infantil/infantil_0.m3u8
