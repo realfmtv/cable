@@ -793,7 +793,7 @@ http://190.60.39.195:8000/play/a0w7/index.m3u8
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TVes_logo.PNG/250px-TVes_logo.PNG" group-title="VENEZUELA", 344 | TVES || VENEZUELA
 http://38.41.8.1:8000/play/a03k
-#EXTINF:-1 tvg-id="VE | Venevision" tvg-name="VE | Venevision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTJkoQ2zt8bWv82KsjT1gTAJ8VPlrjfBoVg&s" group-title="VENEZUELA", 345 | Venevision || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Venevision Internacional" tvg-name="VE | Venevision Internacional" tvg-logo="https://i.imgur.com/vtGED07.jpeg" group-title="INTERNACIONALES", 345 | Venevision Internacional || VENEZUELA
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 346 | Vale TV || VENEZUELA
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
@@ -1789,6 +1789,20 @@ https://dbdfj5y8nz2u4.cloudfront.net/c13guadalajara/d0dbe915091d400bd8ee7f27f079
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTINF:-1 tvg-id="PR | Telemundo" tvg-name="PR | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PUERTO RICO", 1049 | Telemundo || PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-id="CU | Cubavision" tvg-name="CU | Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="CUBA", En prueba |Cubavision || CUBA
+https://tv.picta.cu/cubavision/cubavision_0.m3u8
+#EXTINF:-1 tvg-id="CU | Canal Habana" tvg-name="CU | Canal Habana" tvg-logo="https://i.imgur.com/0EUc52w.png" group-title="CUBA", En prueba | Canal Habana || CUBA
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:-1 tvg-id="CU | Multivision" tvg-name="CU | Multivision" tvg-logo="https://i.imgur.com/wBX0GNs.png" group-title="CUBA", En prueba | Multivision || CUBA
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:-1 tvg-id="CU | Canal Educativo" tvg-name="CU | Canal Educativo" tvg-logo="https://i.imgur.com/huBxZpP.png" group-title="CUBA", En prueba | Canal Educativo || CUBA
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://i.imgur.com/7tMkA4Z.png" group-title="CUBA", En prueba | Canal Clave || CUBA
+https://tv.picta.cu/clave/clave_0.m3u8
+#EXTINF:-1 tvg-id="CU | Prensa Latina Television" tvg-name="CU | Prensa Latina Television" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="CUBA", En prueba | Prensa Latina Television || CUBA
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="CU | Telerebelde" tvg-name="CU | Telerebelde" tvg-logo="https://i.imgur.com/M6wZzuz.png" group-title="CUBA", En prueba | Telerebelde || CUBA
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1 tvg-id="USA | Stream Uno TV" tvg-name="USA | Stream Uno TV" tvg-logo="https://play-lh.googleusercontent.com/gBsGCIfU_w3CAVGpDoruLQjppjeRAJQoKja0p1kciAGdWHMudwjWfwUvN_3iNdP8BCs" group-title="ESTADOS UNIDOS DE AMÉRICA", 1050 | Stream Uno TV || ESTADOS UNIDOS DE AMÉRICA
 https://vsrv2.az-streamingserver.com:3201/live/streamunotvlive.m3u8
 #EXTINF:-1 tvg-id="USA | Tribuna TV" tvg-name="USA | Tribuna TV" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/4c/f9/9f4cf9e4-8bc2-5ddd-e8be-057e688065e5/mzl.ztmkjvqb.jpg/230x0w.webp" group-title="ESTADOS UNIDOS DE AMÉRICA", 1051 | Tribuna TV || ESTADOS UNIDOS DE AMÉRICA
