@@ -10,7 +10,7 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png/revision/latest/scale-to-width-down/1000?cb=20190120231232" group-title="PERU", 3 | La Tele
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATELE_stream_d6&_cdn_session=3135222075&_cdn_token=54207288d122931ae5bd63eab0575c32fed37196
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3841255149&_cdn_token=45c76b93172c2d0b1fd1b0a5ebd7f719c94caeb0
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3848329309&_cdn_token=4493155fdbc54956d27f68d6d4e269b2727f1180
 #EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", 5 | Panamericana Television
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=3115436403&_cdn_token=cf76a08071c9c42fca3dda721ed1b13255a46f9c
 #EXTINF:-1 tvg-id="PE | Exitosa Television" tvg-name="PE | Exitosa Television" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x185/Y2gwMTAwMDAwMDAwMzk3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x185.png?timestamp=1736147629086" group-title="PERU", 6 | Exitosa Television
@@ -1244,15 +1244,15 @@ https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 777 | Canal 2 CDR || COSTA RICA
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA", 778 | Canal 4 || COSTA RICA
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+http://190.105.128.198:5800/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/150px-Canal6CR.png" group-title="COSTA RICA", 779 | Canal 6 Telecentro || COSTA RICA
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+http://190.105.128.198:5800/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 780 | Teletica || COSTA RICA
-http://190.149.66.90:4000/play/a01g/index.m3u8
+http://190.105.128.198:5800/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Multi8.png/150px-Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", 782 | Canal 11 || COSTA RICA
-https://d1bva7j5xkfa6y.cloudfront.net/55df2e2af4d2f275175992cb/live/index.m3u8
+http://190.105.128.198:5800/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="CR | Trece Costa Rica Televisión" tvg-name="CR | Trece Costa Rica Televisión" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13-trece-costa-rica-televisin-1576.png" group-title="COSTA RICA", 783 | Trece Costa Rica Televisión || COSTA RICA
 http://179.61.31.142:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99cc1a3bb1764748c4924d9653c47df2.webp" group-title="COSTA RICA", 784 | Telered || COSTA RICA
