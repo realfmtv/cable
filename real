@@ -1286,7 +1286,7 @@ https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 803 | Canal 9 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/250px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 804 | Canal 10 || NICARAGUA
-https://d2qsan2ut81n2k.cloudfront.net/live/de56d452-7c64-4e7a-a0f5-aafb4bfa36b7/ts:abr.m3u8
+https://d82p4jax9pjrm.cloudfront.net/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 805 | Canal 11 TV Red || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/960px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 806 | Canal 12 Nicavisión || NICARAGUA
