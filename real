@@ -726,7 +726,7 @@ https://d2m7i0pvomh4vg.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", 313 | RTS || ECUADOR
 https://d2w3o8zn50cs1k.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/EctvLogo.png/330px-EctvLogo.png" group-title="ECUADOR", 314 | Ecuador TV || ECUADOR
-https://samson.streamerr.co:8081/shogun/index.m3u8
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="EC | Oromar TV" tvg-name="EC | Oromar TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BmcWWEYtrtRJoUxVTkfvb2_pWIfBbODaDg&s" group-title="ECUADOR", 315 | Oromar Televisión || ECUADOR
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="EC | Hechos Ecuador TV" tvg-name="EC | Hechos Ecuador TV" tvg-logo="https://www.hechosecuador.com/rw_common/images/HECHOS%20LOGO%20REAL%202018.png" group-title="ECUADOR", 316 | Hechos Ecuador TV || ECUADOR
@@ -764,11 +764,11 @@ http://190.60.39.195:8000/play/a0w6/index.m3u8
 #EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="COLOMBIA", 331.2 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", 332 | Caracol Television
-http://190.60.39.195:8000/play/a0w5/index.m3u8
+http://177.10.184.193:8000/play/a0hi/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", 333 | Canal Capital || COLOMBIA
 http://190.60.39.195:8000/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="COLOMBIA", 334 | Zoom TV || COLOMBIA
-https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
 #EXTINF:-1 tvg-id="CO | Canal 8 TV+" tvg-name="CO | Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="COLOMBIA", 335 | Canal 8 TV+ || COLOMBIA
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="COLOMBIA", 337 | Teleislas || COLOMBIA
@@ -786,7 +786,7 @@ http://190.60.39.195:8000/play/a0w7/index.m3u8
 #EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://huilatv.com/wp-content/uploads/2025/03/LOGO-HUILA-TV-EDITABLE-OCLORES-768x429.png" group-title="COLOMBIA", 343 | Huila TV || COLOMBIA
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TVes_logo.PNG/250px-TVes_logo.PNG" group-title="VENEZUELA", 344 | TVES || VENEZUELA
-http://38.41.8.1:8000/play/a03k
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevision Internacional" tvg-name="VE | Venevision Internacional" tvg-logo="https://i.imgur.com/vtGED07.jpeg" group-title="INTERNACIONALES", 345 | Venevision Internacional || VENEZUELA
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 346 | Vale TV || VENEZUELA
@@ -1058,7 +1058,7 @@ http://38.41.8.1:8000/play/a0d7
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 666 | RTP || BOLIVIA
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 667 | Bolivisión || BOLIVIA
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 668 | Bolivia TV || BOLIVIA
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(x6m4Y5rlDlnEGUK8OuGz3rHW1tc-Kxp6RncR2jPLbbpIPsxUkqcCTuB3Gl44NMRCXQHmWnCqNgkvZbbkPAtP8aUi3etpnpw22o_MOXmpvSeRBW0wOVOtRfvVxuSlPtwX)/cloud/3/x9nzqpo/d/live-720.m3u8
 #EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 669 | ATB || BOLIVIA
@@ -1350,11 +1350,11 @@ http://177.10.184.193:8000/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 6" tvg-name="HN | Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzL0CLY3jizuVFn43vH8XjmLFe8VXzHT1jw&s" group-title="HONDURAS", 834 | Canal 6 || HONDURAS
 http://177.10.184.193:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 835 | Telecadena 7 y 4 || HONDURAS
-http://177.10.184.193:8000/play/a0fk/index.m3u8
+http://177.10.184.193:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal8hn2023.png/300px-Canal8hn2023.png" group-title="HONDURAS", 836 | Canal 8 || HONDURAS
 http://177.10.184.193:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 837 | VTV || HONDURAS
-https://d2qsan2ut81n2k.cloudfront.net/live/011cc7e2-0578-4d05-b38b-7f9d8885fe51/ts:abr.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F011cc7e2-0578-4d05-b38b-7f9d8885fe51%2Fts%3Aabr.m3u8%22%2Csid%3D%222995f334-2dcf-4240-a6aa-a58b5ba847a4%22
+https://dx0vh388d2yli.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20210428031231&path-prefix=es" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
 http://177.10.184.193:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 840 | Girasol TV || HONDURAS
@@ -1548,9 +1548,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?D
 #EXTINF:-1 tvg-id="DO | Cananga Televisión" tvg-name="DO | Cananga Televisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 934 | Cananga Televisión || REPUBLICA DOMINICANA
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 935 | Telemicro || REPUBLICA DOMINICANA
-http://179.61.31.142:8000/play/a025/index.m3u8
+http://177.10.184.193:8000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png" group-title="REPUBLICA DOMINICANA", 936 | Antena 7 || REPUBLICA DOMINICANA
-http://177.10.184.193:8000/play/a037/index.m3u8
+https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 937 | Color Visión || REPUBLICA DOMINICANA
 http://179.61.31.142:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 938 | Telesistema || REPUBLICA DOMINICANA
@@ -1570,7 +1570,7 @@ http://51.81.106.157:8084/hls/a21.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/telefuturo-canal-23-en-vivo-online.jpg" group-title="REPUBLICA DOMINICANA", 945 | Telefuturo canal 23 || REPUBLICA DOMINICANA
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA", 946 | Teleuniverso || REPUBLICA DOMINICANA
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+http://177.10.184.193:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="DO | RNN" tvg-name="DO | RNN" tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2025/04/cropped-Logo-RNN-SQR.png?fit=512%2C512&ssl=1" group-title="REPUBLICA DOMINICANA", En prueba | RNN Canal 27 || REPUBLICA DOMINICANA
 http://179.61.31.142:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="DO | Entelevisión" tvg-name="DO | Entelevisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/entelevision.jpg" group-title="REPUBLICA DOMINICANA", 947 | Entelevisión || REPUBLICA DOMINICANA
