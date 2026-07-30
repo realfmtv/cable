@@ -1240,7 +1240,7 @@ https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RepretelCanal42024.svg/250px-RepretelCanal42024.svg.png" group-title="COSTA RICA", 778 | Canal 4 || COSTA RICA
 http://190.105.128.198:5800/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/250px-RepretelCanal62024.svg.png" group-title="COSTA RICA", 779 | Canal 6 Telecentro || COSTA RICA
-http://190.105.128.198:5800/play/a06l/index.m3u8
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 780 | Teletica || COSTA RICA
 http://190.105.128.198:5800/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
@@ -1351,8 +1351,8 @@ http://177.10.184.193:8000/play/a0e7/index.m3u8
 http://177.10.184.193:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 835 | Telecadena 7 y 4 || HONDURAS
 http://177.10.184.193:8000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal8hn2023.png/300px-Canal8hn2023.png" group-title="HONDURAS", 836 | Canal 8 || HONDURAS
-http://177.10.184.193:8000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://tnh.gob.hn/tnh-logo-original.png" group-title="HONDURAS", 836 | Canal 8 || HONDURAS
+https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CuoFv5cQ-DoRlr7VCrRM6oVclwd8W1XMkk75ddoe4oHkxgaOkL34pird7hyKqgqYUUWX6ig4Y22PpIV2zMIe8JmFK0GkYf6agAyRuKNsbGip-PZc5dn9tNGJFkafXQIk3qFr_vlDTa-QUXJM0gbkixOy_wY6Dd4gTQ00TPwcOUnQ4QBmmhwjEXZLX4ljhK_8DsWEDV8heBe2vbBy4d2uh7aIJS_n9UQPpXQGaIGp5iavCsha_tTOx5o59TQAnyWvZf5GT-ckRMcOEBzhRrjPgXGu6KvR6cWrUp_lEiCFz-8UmTFZ3N8umHYdHGOn9hpWUZhStp73xa6IuXxY7m5nIZjyhhRl6MXMvcmcskUvwcCwpjwa5TX2slNxHf-DUlxM3-L5x282NnGouofHjPekDNFbDVyD--xRP82wmC4DXQ5oyqwB8yXvJkdTl4efKCfxmcmqPeFqU4qtr8s0ps9rwuW18Gfdhb-DT6w06TttBtpsoQdG21zJYVeAwlHALeWHIoYd0lcesC6eSDQzW7lASOe1zZGAa-TN9-yq2ZNEQpZbcUWi1lUN90vsCsmNgSc52lQIOCUJ38gzlxvaYtz-EV8tL41tnyvTUNIQc4rNJzatVoPQL6NraQWze3IvBVxgPkgfVVb1EsBeoeqcE0sSTjT_n5sq9noKp-Zr0c99A1nximi5zQnocc9NRCQWQc4QxIMPCEQgrCriKC2UMhmjCTiv3ArOuf2eumNgXKvjDN3tcnLjOcq7GNIuIiazY_PcXrAyHaCguG0TDGVZhQhzoBwjfhN-_qj8bLFQYkQXP2td7RzYfPWaQKa_cGMOvNEqXKU0f623jGrEC7Khm60z481BhgUHur6SQagOqAnS1voxDynndwTwpjOJadHBzXdR92864RHd0cLMaRCXGVZzEddTwRHGLP0USEFAaGzfdb2uFj_iBuWTaKVQfV44MBFx7g6_C8rzIR4bbAdQdrVNLQJA7eirGFl83QnuwrkaDIQ1pGrrqqH890Pc5CABKgl1cy1lYXN0LTIw2w8.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 837 | VTV || HONDURAS
 https://dx0vh388d2yli.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20210428031231&path-prefix=es" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
@@ -1416,9 +1416,9 @@ https://amixtv.com:8081/unetvhn/mono.m3u8
 #EXTINF:-1 tvg-id="HN | STVE Telebásica" tvg-name="HN | STVE Telebásica" tvg-logo="https://i.ytimg.com/vi/lJFQNVlET2M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSuzmEhm_Od47ommjgMFhAdQkIkg" group-title="HONDURAS", 868 | STVE Telebásica || HONDURAS
 https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
-http://190.105.128.198:5800/play/a018/index.m3u8
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
-http://190.105.128.198:5800/play/a017/index.m3u8
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
 http://190.105.128.198:5800/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Canal13Guatemala2022.png/revision/latest?cb=20221112015302" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
