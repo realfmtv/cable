@@ -799,7 +799,7 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 http://190.97.231.210:8000/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevision Internacional" tvg-name="VE | Venevision Internacional" tvg-logo="https://i.imgur.com/vtGED07.jpeg" group-title="INTERNACIONALES", 345.2 | Venevision Internacional || VENEZUELA
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
-#EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" group-title="VENEZUELA", 346 | Vale TV || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png" group-title="VENEZUELA", 346 | Vale TV || VENEZUELA
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/250px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 347 | VTV || VENEZUELA
 http://190.97.231.210:8000/play/a0ej/index.m3u8
@@ -1046,11 +1046,11 @@ https://avancabrasilcod.akamaized.net/avancabrasil/avancabrasil/playlist.m3u8
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", 664 | The Market Guide TV || BRASIL
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/200px-New_Unitel_logo_HD.jpg" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuvkUpwg5fkm3_ZnDvqzKyuiDsZCHip7ChuDyTmLFFw&s=10" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
 http://190.181.61.93:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 666 | Cadena A || BOLIVIA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", 667 | RTP || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://yt3.googleusercontent.com/wOVshLUTNfgHLJa5rgekUrydXx3TLOrU1N__f0ZPgP0FrIIDCFXgDhc00DRlfgSxogNUvbInhA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 667 | RTP || BOLIVIA
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 668 | Bolivisión || BOLIVIA
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
@@ -1060,20 +1060,20 @@ http://190.181.61.93:8000/play/a004/index.m3u8
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="BO | Red DTV" tvg-name="BO | Red DTV" tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="BOLIVIA", 671 | Red DTV || BOLIVIA
 http://190.181.61.93:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ATBBo2020Logo.png/150px-ATBBo2020Logo.png" group-title="BOLIVIA", 672 | ATB || BOLIVIA
+#EXTINF:-1 tvg-id="BO | ATB" tvg-name="BO | ATB" tvg-logo="https://play-lh.googleusercontent.com/T8iBRzb9NwUTfya2Ue5eJVipDh5beOHBQT0dEooQUh9lrSUtwPZkmS7Yx1KNcTjzHcYwbqGxF2WkGOUk_dDwRg8" group-title="BOLIVIA", 672 | ATB || BOLIVIA
 http://190.181.61.93:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/245px-Uno_logo.svg.png" group-title="BOLIVIA", 673 | Red Uno || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Red Uno" tvg-name="BO | Red Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWpjW6DXkOGW9f4hGGF282_hMLF-4V66gTGy4pKEGwarfvd2PrB3VgJQ&s=10" group-title="BOLIVIA", 673 | Red Uno || BOLIVIA
 http://190.181.61.93:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="BO | TV Universitaria" tvg-name="BO | TV Universitaria" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=12203814&t=1751690501506" group-title="BOLIVIA", 674 | TV Universitaria || BOLIVIA
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/220px-Red_pat_new.jpg" group-title="BOLIVIA", 675 | PAT || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Red Periodistas Asociados Televisión" tvg-name="BO | Red Periodistas Asociados Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", 675 | PAT || BOLIVIA
 http://190.181.61.93:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BOLIVIA", 676 | Tele Estrella || BOLIVIA
+#EXTINF:-1 tvg-id="BO | Tele Estrella" tvg-name="BO | Tele Estrella" tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="BOLIVIA", 676 | Tele Estrella || BOLIVIA
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Abya Yala TV" tvg-name="BO | Abya Yala TV" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2023/10/cropped-cropped-MOSCA-BLANCA-OK-1-1-308x119.png" group-title="BOLIVIA", 677 | Abya Yala TV || BOLIVIA
 https://fb.tv.bo/hls/AbyaYala.m3u8
 #EXTINF:-1 tvg-id="BO | Red Siglo XXI" tvg-name="BO | Red Siglo XXI" tvg-logo="https://redsigloxxi.com.bo/wp-content/uploads/2026/05/cropped-LOGO-RSXXI-LOGO-WEB.png" group-title="BOLIVIA", 678 | Red Siglo XXI || BOLIVIA
-http://190.181.61.93:8000/play/a005/index.m3u8
+https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Coral TV" tvg-name="BO | Coral TV" tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo=s180-rw" group-title="BOLIVIA", 679 | Coral TV || BOLIVIA
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="BO | Univalle TV" tvg-name="BO | Univalle TV" tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/10/282564259_10158977843387405_6403480060241523290_n-removebg-preview1-e1654154741392-edited-1.png?w=500&ssl=1" group-title="BOLIVIA", 680 | Univalle TV || BOLIVIA
