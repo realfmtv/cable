@@ -798,7 +798,7 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="VE | TVES" tvg-name="VE | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TVes_logo.PNG/250px-TVes_logo.PNG" group-title="VENEZUELA", 344 | TVES || VENEZUELA
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevision" tvg-name="VE | Venevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Venevisi%C3%B3n2007.svg/250px-Venevisi%C3%B3n2007.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="VENEZUELA", 345 | Venevision || VENEZUELA
-http://190.97.231.210:8000/play/a0f3/index.m3u8
+http://200.59.191.177:8000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="VE | Venevision Internacional" tvg-name="VE | Venevision Internacional" tvg-logo="https://i.imgur.com/vtGED07.jpeg" group-title="INTERNACIONALES", 345.2 | Venevision Internacional || VENEZUELA
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
 #EXTINF:-1 tvg-id="VE | Vale TV" tvg-name="VE | Vale TV" tvg-logo="https://valetv.info/wp-content/uploads/2020/04/logo-valetv-color-300x200.png" group-title="VENEZUELA", 346 | Vale TV || VENEZUELA
@@ -806,7 +806,7 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-id="VE | Venezolana de Televisión" tvg-name="VE | Venezolana de Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/250px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="VENEZUELA", 347 | VTV || VENEZUELA
 http://200.59.191.177:8000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="VE | Televen" tvg-name="VE | Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/500px-Televen_%282024%29.svg.png" group-title="VENEZUELA", En prueba | Televen || VENEZUELA
-http://190.97.231.210:8000/play/a0ff/index.m3u8
+http://200.59.191.177:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="VE | Vepaco TV" tvg-name="VE | Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" group-title="VENEZUELA", 348 | Vepaco TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="VE | BTA TV" tvg-name="VE | BTA TV" tvg-logo="https://btatv.tv/wp-content/uploads/2022/09/logobta.png" group-title="VENEZUELA", 349 | BTA TV || VENEZUELA
@@ -814,7 +814,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="VE | Catatumbo TV" tvg-name="VE | Catatumbo TV" tvg-logo="https://catatumbo.tv/wp-content/uploads/2022/09/logocatatumbo.png" group-title="VENEZUELA", 350 | Catatumbo TV || VENEZUELA
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="VE | Vive TV" tvg-name="VE | Vive TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/ViVe2020.png/revision/latest?cb=20220902235454&path-prefix=es" group-title="VENEZUELA", 351 | Vive TV || VENEZUELA
-http://190.97.231.210:8000/play/a0fd/index.m3u8
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="VE | Meridiano Television" tvg-name="VE | Meridiano Television" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="VENEZUELA", 352 | Meridiano Television || VENEZUELA
 http://200.59.191.177:8000/play/a0lj/index.m3u8
 #EXTINF:-1 tvg-id="VE | Canal I" tvg-name="VE | Canal I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="VENEZUELA", 353 | Canal I || VENEZUELA
