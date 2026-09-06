@@ -2,11 +2,13 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="PERU", 2 | Latina Television
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3115436459&_cdn_token=e1c749b710095078dd16254a29517e6014970642
+https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina noticias" tvg-name="PE | Latina noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="PERU", 2.2 | Latina noticias
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3547953084&_cdn_token=5c86c6ea8ba706b7f9317827d0bf215a9c6f2d20
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Clasicos" tvg-name="PE | Latina Clasicos" tvg-logo="https://static.wikia.nocookie.net/cholopedia/images/f/fa/Latina_Cl%C3%A1sicos_2024_2_%281%29.svg/revision/latest/scale-to-width-down/1200?cb=20250201223331&path-prefix=es" group-title="PERU", 2.3 | Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Latina Podcast" tvg-name="PE | Latina Podcast" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_2f4c833debe5b232afc5b4598b91ec591769447060.png" group-title="PERU", 2.4 | Latina Podcast
+https://jireh-7-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/playlist.m3u8?ndvc=0&dpssid=r1us74357482013585f2127d9b7e4f6016124780c0e08&sid=ba5t1l1xb21351680036a9d837dac483
 #EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png/revision/latest/scale-to-width-down/1000?cb=20190120231232" group-title="PERU", 3 | La Tele
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATELE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATELE_stream_d6&_cdn_session=3135222075&_cdn_token=54207288d122931ae5bd63eab0575c32fed37196
 #EXTINF:-1 tvg-id="PE | America Television" tvg-name="PE | America Television" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", 4 | America Television
