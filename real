@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="PERU", 2 | Latina Television
-https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=3115436459&_cdn_token=e1c749b710095078dd16254a29517e6014970642
 #EXTINF:-1 tvg-id="PE | Latina noticias" tvg-name="PE | Latina noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="PERU", 2.2 | Latina noticias
-https://jireh-8-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINANOTI/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINANOTI_stream_er&_cdn_session=3547953084&_cdn_token=5c86c6ea8ba706b7f9317827d0bf215a9c6f2d20
 #EXTINF:-1 tvg-id="PE | Latina Clasicos" tvg-name="PE | Latina Clasicos" tvg-logo="https://static.wikia.nocookie.net/cholopedia/images/f/fa/Latina_Cl%C3%A1sicos_2024_2_%281%29.svg/revision/latest/scale-to-width-down/1200?cb=20250201223331&path-prefix=es" group-title="PERU", 2.3 | Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Podcast" tvg-name="PE | Latina Podcast" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_2f4c833debe5b232afc5b4598b91ec591769447060.png" group-title="PERU", 2.4 | Latina Podcast
@@ -1288,7 +1288,7 @@ https://streamingcws30.com/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 9" tvg-name="NI | Canal 9" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bc/Canal9nicaragua.png/revision/latest/scale-to-width-down/185?cb=20210203203806&path-prefix=es" group-title="NICARAGUA", 803 | Canal 9 || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Canal 10" tvg-name="NI | Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_10_Nicaragua.png/250px-Canal_10_Nicaragua.png" group-title="NICARAGUA", 804 | Canal 10 || NICARAGUA
-http://200.229.147.210:9999/play/a01t/index.m3u8
+http://200.57.28.141:8540/play/a0l5
 #EXTINF:-1 tvg-id="NI | Canal 11 TV Red" tvg-name="NI | Canal 11 TV Red" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online-100x70.png" group-title="NICARAGUA", 805 | Canal 11 TV Red || NICARAGUA
 https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-id="NI | Nicavisión" tvg-name="NI | Nicavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/960px-Canal_12_Nicaragua_logo.webp.png" group-title="NICARAGUA", 806 | Canal 12 Nicavisión || NICARAGUA
@@ -1542,7 +1542,7 @@ http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWDgF8YWCRF1XvDjqnhAGPt2G8E0Z4dC8kRqEyz3SLQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
-http://45.228.233.60:8000/play/a00r/index.m3u8
+http://200.57.28.141:8540/play/a01b
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
@@ -1558,7 +1558,7 @@ http://45.228.233.60:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 938 | Telesistema || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 939 | Telecentro || REPUBLICA DOMINICANA
-http://45.228.233.60:8000/play/a02d/index.m3u8
+http://200.57.28.141:8540/play/a035
 #EXTINF:-1 tvg-id="DO | Catorce TV" tvg-name="DO | Catorce TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zw2p9aavhzut6-I2XfjwRn5Hz8pDPd7hfurIwpP4qTqTzPp_qRridkUeGiGqae6c86c&usqp=CAU" group-title="REPUBLICA DOMINICANA", 940 | Catorce TV || REPUBLICA DOMINICANA
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Digital 15" tvg-name="DO | Digital 15" tvg-logo="http://festivaldecineglobal.org/2014/wp-content/uploads/Digital15-228x176.png" group-title="REPUBLICA DOMINICANA", 941 | Digital 15 || REPUBLICA DOMINICANA
