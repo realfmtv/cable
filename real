@@ -170,7 +170,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 77 | Telemundo
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=3534423837&_cdn_token=734c4a708776d186a55e192ea3783fe769eadf56
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/250px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 78 | Univision
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4247748356&_cdn_timestamp=1789900681&_cdn_token=fc79ac25fe5ec1fccbc7cb5da6d11851f469b744
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4298166187&_cdn_timestamp=1791723733&_cdn_token=a84319673d00590ece0c342e42717a581081056e
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/250px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="INTERNACIONALES", 79 | Las Estrellas
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=3534417429&_cdn_token=ab0713e812a896cf0333a8751a41294e9d59c96c
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="INTERNACIONALES", 80 | Azteca Internacional
@@ -695,6 +695,8 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 337 | Solar TV || Cuzco
 https://stmv7.voxtvhd.com.br/solartv/solartv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Viva Quillabamba" tvg-name="PE | Viva Quillabamba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdUP5Ca_JbCneXatHylZ-v37BPfbfskv8-kfWc_RySDkd9jKiVrCeNCC&s=10" group-title="REGIONALES", En prueba | Viva Quillabamba || Quillabamba
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/VIVAQUILLABAMBA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVIVAQUILLABAMBA_stream_0e&_cdn_session=4298138931&_cdn_timestamp=1791723303&_cdn_token=86bfc396fde2f4e25f59f3aff926acfb9589f30a
 #EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 338 | TV Mar || Puerto Maldonado
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/LOGO_URIOLTV.png" group-title="REGIONALES", 338 | Uriol TV || Puerto Maldonado
@@ -2078,7 +2080,7 @@ https://radioconector.com/8034/stream
 #EXTINF:-1 tvg-id="EC | Radio Romance" tvg-name="EC | Radio Romance" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/romance-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1190 | Radio Romance 90.1 FM || ECUADOR
 https://streamingecuador.com:9010/stream
 #EXTINF:-1 tvg-id="EC | Radio Fabu" tvg-name="EC | Radio Fabu" tvg-logo="https://cdn-profiles.tunein.com/s111123/images/logog.png" group-title="EMISORAS INTERNACIONALES", 1191 | Radio Fabu 105.7 FM || ECUADOR
-https://d3v6dgp1v7pdvu.cloudfront.net/medialist_14854753276708185244_hls.m3u8
+https://live.getcirca.run/live/4dbbgljq5vjv.transcode-audio-01/hls/4dbbgljq5vjv/2/index.m3u8
 #EXTINF:-1 tvg-id="EC | Radio Atalaya" tvg-name="EC | Radio Atalaya" tvg-logo="https://cdn.instant.audio/images/logos/radios-com-ec/atalaya-guayaquil.png" group-title="EMISORAS INTERNACIONALES", 1192 | Radio Atalaya 680 AM || ECUADOR
 https://s2.free-shoutcast.com/stream/18082
 #EXTINF:-1 tvg-id="EC | Radio Sucre" tvg-name="EC | Radio Sucre" tvg-logo="https://radiosucre.com.ec/wp-content/uploads/2020/07/OK.png" group-title="EMISORAS INTERNACIONALES", 1193 | Radio Sucre 700 AM || ECUADOR
