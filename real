@@ -1949,8 +1949,8 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6
 
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio-Disney.png/225px-Radio-Disney.png" group-title="EMISORAS NACIONALES", 1124 | Radio Disney 94.3 FM || Lima; Perú
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWYt5UULg05WKrkUudWfsRNxyMdtj5mahkQ&s" group-title="EMISORAS NACIONALES", 1125 | Radio La Karibeña 94.9 FM || Lima; Perú
-https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
+#EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="EMISORAS NACIONALES", 1125 | Radio La Karibeña 94.9 FM || Lima; Perú
+https://karibena.gkplaystreaming.online/radio/6898b6e52d9e088a6de159/
 #EXTINF:-1 tvg-id="PE | Radio Exitosa" tvg-name="PE | Radio Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/225px-Logoexitosa.png" group-title="EMISORAS NACIONALES", 1126 | Radio Exitosa 95.5 FM || Lima; Perú
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 #EXTINF:-1 tvg-id="PE | Radio La Tremenda" tvg-name="PE | Radio La Tremenda" tvg-logo="https://latremenda.pe/logo_latremenda.webp" group-title="EMISORAS NACIONALES", 1127 | Radio La Tremenda 96.1 FM || Lima; Perú 
@@ -2058,7 +2058,9 @@ https://stream-160.zeno.fm/643hhcgv968uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 #EXTINF:-1 tvg-id="PE | Radio Nueva Ola" tvg-name="PE | Radio Nueva Ola" tvg-logo="https://static-media.streema.com/media/cache/b3/18/b3181285e3ae3e0ee93fdec3c24c98f2.jpg" group-title="EMISORAS NACIONALES", 1179 | Radio Nueva Ola || Lima; Perú
 https://stm3.srvif.com:8196/stream
 #EXTINF:-1 tvg-id="PE | Radio Z" tvg-name="PE | Radio Z" tvg-logo="https://radiospe.com/wp-content/uploads/2024/02/z_rock_pop.jpg" group-title="EMISORAS NACIONALES", 1180 | Radio Z Rock & Pop || Lima; Perú
-https://ott1.hdlatam.tv/live/hi1/playlist.m3u8
+https://radioz.gkplaystreaming.online/radio/3e4f6a1b2c3d4e567890abcd/
+#EXTINF:-1 tvg-id="PE | Radio La Kalle" tvg-name="PE | Radio La Kalle" tvg-logo="https://statics.radiolakalle.pe/rk/img/global/logo.lakalle_rrss.png" group-title="EMISORAS NACIONALES", En prueba | Radio La Kalle || Lima; Perú
+https://lakalle.gkplaystreaming.online/radio/a7b9c3e4567f8d0123456789/
 #EXTINF:-1 tvg-id="PE | Radio La Rockola" tvg-name="PE | Radio La Rockola" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2021/08/home7.png" group-title="EMISORAS NACIONALES", 1181 | Radio La Rockola || Lima; Perú
 https://stream-150.zeno.fm/aryka5gcy38uv?zs=CvSDmDgeToqExPaFQFcqoQ&1695644664306
 #EXTINF:-1 tvg-id="PE | Radio La Ñ" tvg-name="PE | Radio La Ñ" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/25953.v29.png" group-title="EMISORAS NACIONALES", 1182 | Radio La Ñ || Lima; Perú
