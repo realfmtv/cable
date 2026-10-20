@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="PERU", 2 | Latina Television
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/LATINA/10-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=4317350051&_cdn_timestamp=1792442197&_cdn_token=ded491f708e5d8dea66ff9662ed9452a19aae5c2
+https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina noticias" tvg-name="PE | Latina noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="PERU", 2.2 | Latina noticias
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Clasicos" tvg-name="PE | Latina Clasicos" tvg-logo="https://static.wikia.nocookie.net/cholopedia/images/f/fa/Latina_Cl%C3%A1sicos_2024_2_%281%29.svg/revision/latest/scale-to-width-down/1200?cb=20250201223331&path-prefix=es" group-title="PERU", 2.3 | Latina Clasicos
@@ -170,7 +170,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 77 | Telemundo
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=3534423837&_cdn_token=734c4a708776d186a55e192ea3783fe769eadf56
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/250px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 78 | Univision
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4298166187&_cdn_timestamp=1791723733&_cdn_token=a84319673d00590ece0c342e42717a581081056e
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4318183531&_cdn_timestamp=1792498623&_cdn_token=6a25e51353dc9117e40eff50fc989428cc5c4b2f
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/250px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="INTERNACIONALES", 79 | Las Estrellas
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=3534417429&_cdn_token=ab0713e812a896cf0333a8751a41294e9d59c96c
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="INTERNACIONALES", 80 | Azteca Internacional
@@ -696,7 +696,7 @@ https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 337 | Solar TV || Cuzco
 https://stmv7.voxtvhd.com.br/solartv/solartv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Viva Quillabamba" tvg-name="PE | Viva Quillabamba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdUP5Ca_JbCneXatHylZ-v37BPfbfskv8-kfWc_RySDkd9jKiVrCeNCC&s=10" group-title="REGIONALES", En prueba | Viva Quillabamba || Quillabamba
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/VIVAQUILLABAMBA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVIVAQUILLABAMBA_stream_0e&_cdn_session=4298138931&_cdn_timestamp=1791723303&_cdn_token=86bfc396fde2f4e25f59f3aff926acfb9589f30a
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VIVAQUILLABAMBA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVIVAQUILLABAMBA_stream_0e&_cdn_session=4318184291&_cdn_timestamp=1792498688&_cdn_token=15aebf3761420169b439a1258bf22c41dfe93c3f
 #EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 338 | TV Mar || Puerto Maldonado
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/LOGO_URIOLTV.png" group-title="REGIONALES", 338 | Uriol TV || Puerto Maldonado
