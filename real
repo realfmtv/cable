@@ -1422,7 +1422,7 @@ https://5f2c1b0d880e5.streamlock.net/suyapa/videosuyapa/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | Canal 3" tvg-name="GT | Canal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Canal_3_Guatemala_2022.png" group-title="GUATEMALA", 869 | Canal 3 el super canal || GUATEMALA
 https://d11eyscr8o14q2.cloudfront.net/5_4/index.m3u8
 #EXTINF:-1 tvg-id="GT | Televisiete" tvg-name="GT | Televisiete" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Canal_7_Guatemala_2022.png/revision/latest/scale-to-width-down/271?cb=20221111164851&path-prefix=es" group-title="GUATEMALA", 870 | Televisiete || GUATEMALA
-http://200.57.28.141:8540/play/a01c
+http://200.57.28.141:8540/play/a03y
 #EXTINF:-1 tvg-id="GT | Teleonce" tvg-name="GT | Teleonce" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Canal_11_Guatemala_2022.png/revision/latest/scale-to-width-down/200?cb=20221111173141&path-prefix=es" group-title="GUATEMALA", 871 | Teleonce || GUATEMALA
 http://200.57.28.141:8540/play/a02u
 #EXTINF:-1 tvg-id="GT | Trecevisión" tvg-name="GT | Trecevisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Canal13Guatemala2022.png/revision/latest?cb=20221112015302" group-title="GUATEMALA", 872 | Trecevisión || GUATEMALA
@@ -1554,7 +1554,7 @@ https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 935 | Telemicro || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png" group-title="REPUBLICA DOMINICANA", 936 | Antena 7 || REPUBLICA DOMINICANA
-http://45.228.233.60:8000/play/a00s/index.m3u8
+http://200.57.28.141:8540/play/a01c
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 937 | Color Visión || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 938 | Telesistema || REPUBLICA DOMINICANA
