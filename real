@@ -724,7 +724,7 @@ http://45.188.229.33:8000/play/a1gj/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/250px-Teleamazonas_Logo.png" group-title="ECUADOR", En prueba | Teleamazonas || ECUADOR
 http://45.188.229.33:8000/play/a1gk/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="ECUADOR", 349 | TVC || ECUADOR
-http://45.188.229.33:8000/play/a1go/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/br1r5varhysm/5_4/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/EctvLogo.png/330px-EctvLogo.png" group-title="ECUADOR", 350 | Ecuador TV || ECUADOR
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavision" tvg-name="EC | Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="ECUADOR", En prueba | Gamavision || ECUADOR
@@ -732,7 +732,7 @@ http://45.188.229.33:8000/play/a1it/index.m3u8
 #EXTINF:-1 tvg-id="EC | TC Television" tvg-name="EC | TC Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="ECUADOR", En prueba | TC Television || ECUADOR
 http://45.188.229.33:8000/play/a1gn/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", 351 | RTS || ECUADOR
-http://181.78.197.59:8000/play/a03b/index.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/8v2lejdra382/3_5/index.m3u8
 #EXTINF:-1 tvg-id="EC | Canal UNO" tvg-name="EC | Canal UNO" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="ECUADOR", En prueba | Canal UNO || ECUADOR
 https://stmv3.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Telerama2023Logo.png/revision/latest?cb=20251222203152&path-prefix=es" group-title="ECUADOR", 352 | Telerama || ECUADOR
@@ -1064,7 +1064,7 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://yt3.googleusercontent.com/wOVshLUTNfgHLJa5rgekUrydXx3TLOrU1N__f0ZPgP0FrIIDCFXgDhc00DRlfgSxogNUvbInhA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 667 | RTP || BOLIVIA
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 668 | Bolivisión || BOLIVIA
-http://190.181.61.93:8000/play/a00a/index.m3u8
+https://d135ohnuotzzyo.cloudfront.net/_token/v1.1793277457.S-NEvIbpA34vbOi6szxP2jYOb_CYAlJX-bA1SdzXWDM/index.m3u8
 #EXTINF:-1 tvg-id="BO | Palenque TV" tvg-name="BO | Palenque TV" tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="BOLIVIA", 669 | Palenque TV || BOLIVIA
 http://190.181.61.93:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 670 | Bolivia TV || BOLIVIA
@@ -1220,9 +1220,9 @@ https://clientestv.bachistreaming.com:3721/multi_web/play_src.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 759 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://alba-py-c9n.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY", 761 | C9N || PARAGUAY
-https://d174axghh54kh0.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+https://d6qmllupbc5d2.cloudfront.net/hls/qnxsy62odjyb/3_4/index.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="PARAGUAY", 762 | SNT || PARAGUAY
-https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/2_3/index.m3u8
 #EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768 | Televisora Nacional || PANAMÁ
 http://45.5.117.182:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
@@ -1356,9 +1356,9 @@ https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8
 #EXTINF:-1 tvg-id="HN | Telecadena 7 y 4" tvg-name="HN | Telecadena 7 y 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telecadena7y42018.png/150px-Telecadena7y42018.png" group-title="HONDURAS", 835 | Telecadena 7 y 4 || HONDURAS
 http://177.10.184.193:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 8" tvg-name="HN | Canal 8" tvg-logo="https://tnh.gob.hn/tnh-logo-original.png" group-title="HONDURAS", 836 | Canal 8 || HONDURAS
-https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CuoFv5cQ-DoRlr7VCrRM6oVclwd8W1XMkk75ddoe4oHkxgaOkL34pird7hyKqgqYUUWX6ig4Y22PpIV2zMIe8JmFK0GkYf6agAyRuKNsbGip-PZc5dn9tNGJFkafXQIk3qFr_vlDTa-QUXJM0gbkixOy_wY6Dd4gTQ00TPwcOUnQ4QBmmhwjEXZLX4ljhK_8DsWEDV8heBe2vbBy4d2uh7aIJS_n9UQPpXQGaIGp5iavCsha_tTOx5o59TQAnyWvZf5GT-ckRMcOEBzhRrjPgXGu6KvR6cWrUp_lEiCFz-8UmTFZ3N8umHYdHGOn9hpWUZhStp73xa6IuXxY7m5nIZjyhhRl6MXMvcmcskUvwcCwpjwa5TX2slNxHf-DUlxM3-L5x282NnGouofHjPekDNFbDVyD--xRP82wmC4DXQ5oyqwB8yXvJkdTl4efKCfxmcmqPeFqU4qtr8s0ps9rwuW18Gfdhb-DT6w06TttBtpsoQdG21zJYVeAwlHALeWHIoYd0lcesC6eSDQzW7lASOe1zZGAa-TN9-yq2ZNEQpZbcUWi1lUN90vsCsmNgSc52lQIOCUJ38gzlxvaYtz-EV8tL41tnyvTUNIQc4rNJzatVoPQL6NraQWze3IvBVxgPkgfVVb1EsBeoeqcE0sSTjT_n5sq9noKp-Zr0c99A1nximi5zQnocc9NRCQWQc4QxIMPCEQgrCriKC2UMhmjCTiv3ArOuf2eumNgXKvjDN3tcnLjOcq7GNIuIiazY_PcXrAyHaCguG0TDGVZhQhzoBwjfhN-_qj8bLFQYkQXP2td7RzYfPWaQKa_cGMOvNEqXKU0f623jGrEC7Khm60z481BhgUHur6SQagOqAnS1voxDynndwTwpjOJadHBzXdR92864RHd0cLMaRCXGVZzEddTwRHGLP0USEFAaGzfdb2uFj_iBuWTaKVQfV44MBFx7g6_C8rzIR4bbAdQdrVNLQJA7eirGFl83QnuwrkaDIQ1pGrrqqH890Pc5CABKgl1cy1lYXN0LTIw2w8.m3u8
+https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CsYGlUTFUg61mWaOXJ5sQ25DYk7l2WxOVnZZd-wIHHSb99Jc0V1naOGQeZqz1G1TsSjv-QltUenAWGFa4SWQvmaU-gEcv9aOBcrpL_NKBhGhyCbJ5nkGxqYfdRY6WIqefg9J6WCMyjMBasl3WoVoCGGGzIMdAKEojmcb6UUKvid-LMZfWfhrxr-nc4f70g-5YzWA6HxiRDXQWj7ZTxowENVmijwdODEl1pf58DmY2I2_XFFF5pSFYN5eVclk0nP_wt6NkvbB05tP8pXazB8PNzUga3zW-GIMREY7gPhP-gHlMo2fkeDRf9EaKP4EBAQh-sW9gOi1MbpWtNMHOVNggslmc0UztavrkjkAHSANFUYT3Si58OiwcslPKEpGy4KnBIopMVsb8sZqgdC8AwGKbgEbA_tjOAMAh-ZAeauAXhMwi7dBDufnVXNQKwdc8_r2k2_oRhSwvmt4qXxMOiCMe7nvE_0w8ZHVTEvPAEFU22_s5aVOjFIGOViBBPAtwLuX1h7J5dCS2F0FPxexQUc59YopjD0nrDqteC2-NuZtT6IQtVonjgPOzX86xHtNhVlFJxLZmOQvtjVbIyLWPIpPrCEKAfLTKNMsIedernNfhYVuhZqNpdgxWqAplwVRvhu6s3cckWyqcys40bPeSCDbTRrMbkKSjd4u2gQ6xVLY-v-uZsArc99B_hMogKFHpvtA9Doo7jqng7z7GImfWLR-qZosi32SgBqV1JFRbnGa4Et4uTRMLM_fYyvCAdgSeBHmCeomckNTzASjMhZgUl8zo5nsRrz1-4uLbs2vHA6apkP1vindVKK6G4tKRfrsUhOpIp3gavYvOKRPVqXIwwEX5k9YNWdaFrt-CqzYPhwPaMBGydYoW9Zw_19p-uAONYLSt4so797keCs4h80pk4Edpc727G-xVycVQCvJvLlXqfiPVtQye9p8rlDvCg0sRnyzEPG97WjSZKtnML6uC1ILHUXuEtsrMGeGXW4lTiEwydfnoJvGdFHaWy8T7rnaYY-6zsLd2MkGH0S3IjajfVdH_8b2hlFNMgt0eISYsdkNKIjFHDw8YMNhqHsl4lgdn9TJtlktAA87fRoXgNWJQopWiZpZxDlT5ojApRoM6yW6ufassCQ9eP07IAEqCXVzLWVhc3QtMjC2EA.m3u8
 #EXTINF:-1 tvg-id="HN | Vica TV" tvg-name="HN | Vica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/210px-VTV_HN_logo_2019.png" group-title="HONDURAS", 837 | VTV || HONDURAS
-http://200.229.147.210:9999/play/a016/index.m3u8
+https://d3ih3uui5kpbun.cloudfront.net/5_4/index.m3u8
 #EXTINF:-1 tvg-id="HN | Canal 11" tvg-name="HN | Canal 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_11_Honduras_2011_2.png/revision/latest?cb=20210428031231&path-prefix=es" group-title="HONDURAS", 838 | Canal 11 || HONDURAS
 http://190.105.128.198:5800/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="HN | Girasol TV" tvg-name="HN | Girasol TV" tvg-logo="https://girasoltv.girasolradiotvhn.com/wp-content/uploads/2020/10/cropped-logo-girasoltv-400x200px963.png" group-title="HONDURAS", 840 | Girasol TV || HONDURAS
@@ -1554,7 +1554,7 @@ https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 935 | Telemicro || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png" group-title="REPUBLICA DOMINICANA", 936 | Antena 7 || REPUBLICA DOMINICANA
-http://200.57.28.141:8540/play/a01c
+https://d2h2wh04y3aqtb.cloudfront.net/hls/1odfmwd056bc/6_4/index.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 937 | Color Visión || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 938 | Telesistema || REPUBLICA DOMINICANA
@@ -1943,8 +1943,10 @@ https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4k
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=nGqN8qaPoMd3Qlpx5VkAS2cvMVZeAFmO&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712149764&ot=ykX5sE0fTENzvgLG1nGeXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Ritmo Romantica" tvg-name="PE | Ritmo Romantica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Radio_Ritmo_Rom%C3%A1ntica_2019.svg/revision/latest/scale-to-width-down/280?cb=20220803202725&path-prefix=es" group-title="EMISORAS NACIONALES", 1122 | Ritmo Romantica 93.1 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=qMBieH4KNUorKKl81p1rtmptUOW1CinZ&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1751490696831&ot=TQ976bQeo3TwgAGgP84Psg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
+
 #EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSangv-zyXGAaiYfAAuiVBVpql_W6-3-Vl0Kg&s" group-title="EMISORAS NACIONALES", 1123 | Radio La Inolvidable 93.7 FM || Lima; Perú
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=y5czZk048ZhGfpFkDWM0MfxGN7wQnAzh&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1751490900229&ot=QhbMft2ZCgObTsjkH6AYUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
+
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png/250px-Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="EMISORAS NACIONALES", 1124 | Radio Disney 94.3 FM || Lima; Perú
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="EMISORAS NACIONALES", 1125 | Radio La Karibeña 94.9 FM || Lima; Perú
