@@ -1056,13 +1056,13 @@ https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | The Market Guide TV" tvg-name="BR | The Market Guide TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2413/brand.gif?itok=kY7S_V8T" group-title="BRASIL", 664 | The Market Guide TV || BRASIL
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-name="BO | Unitel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuvkUpwg5fkm3_ZnDvqzKyuiDsZCHip7ChuDyTmLFFw&s=10" group-title="BOLIVIA", 665 | Unitel || BOLIVIA
-http://190.181.61.93:8000/play/a00t/index.m3u8
+https://cdn0.360playvid.com/CHVIDIDmvun8og0bxpzdst2xj8/hls/index.m3u8
 #EXTINF:-1 tvg-id="BO | Cadena A" tvg-name="BO | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb.png" group-title="BOLIVIA", 666 | Cadena A || BOLIVIA
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="BO | Radio Televisión Popular" tvg-name="BO | Radio Televisión Popular" tvg-logo="https://yt3.googleusercontent.com/wOVshLUTNfgHLJa5rgekUrydXx3TLOrU1N__f0ZPgP0FrIIDCFXgDhc00DRlfgSxogNUvbInhA=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", 667 | RTP || BOLIVIA
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivisión" tvg-name="BO | Bolivisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", 668 | Bolivisión || BOLIVIA
-https://d135ohnuotzzyo.cloudfront.net/_token/v1.1793362863.ebH9hBU0opCQGH9aFygiVyuM8Jdmv0YdZfseijt70Oc/index.m3u8
+http://190.181.61.93:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="BO | Palenque TV" tvg-name="BO | Palenque TV" tvg-logo="https://i.imgur.com/wAIBvaO.png" group-title="BOLIVIA", 669 | Palenque TV || BOLIVIA
 http://190.181.61.93:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-name="BO | Bolivia TV" tvg-logo="https://play-lh.googleusercontent.com/dX47fheQl_3mwitKaPpE2W--3jNwf498GQF7-Wvt70nUht6sHhRAq9_RySAeBcHyC2M=w240-h480-rw" group-title="BOLIVIA", 670 | Bolivia TV || BOLIVIA
