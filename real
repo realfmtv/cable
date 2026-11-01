@@ -110,7 +110,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="PE | RN Noticias" tvg-name="PE | RN Noticias" tvg-logo="https://pbs.twimg.com/media/FVzx2JOWAAE1My1?format=png&name=small" group-title="REGIONALES", 48 | RN Televisión || Yurimaguas
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-id="PE | Frecuencia Amazonica TV" tvg-name="PE | Frecuencia Amazonica TV" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="REGIONALES", 49 | Frecuencia Amazonica TV || Yurimaguas
-https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+https://vivatv.juanjuiserver.com:3112/live/frecuenciaamazonicalive.m3u8
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="REGIONALES", 50 | Viva TV || Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | RTV Xplorer" tvg-name="PE | RTV Xplorer" tvg-logo="https://playmax.tv/upload/logos/LOGO%20RTV%20XPLORER_2026.jpg" group-title="REGIONALES", 51 | RTV Xplorer || Yurimaguas
@@ -164,13 +164,13 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3
 #EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png" group-title="NOVELAS", 74 | TNT Novelas
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
 #EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/250px-RCN_Novelas_logo_2019.png" group-title="NOVELAS", 75 | RCN Novelas
-http://45.188.229.33:8000/play/a0uv/index.m3u8
+http://200.57.28.141:8540/play/a03d
 #EXTINF:-1 tvg-id="MX | Corazon" tvg-name="MX | Corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/250px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 76 | Corazon
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=3534482605&_cdn_token=0fa5699078c2bea2b7d854a67a8bd3d13434105b
 #EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/250px-Telemundo_logo_2018.svg.png" group-title="INTERNACIONALES", 77 | Telemundo
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=3534423837&_cdn_token=734c4a708776d186a55e192ea3783fe769eadf56
 #EXTINF:-1 tvg-id="USA | Univision" tvg-name="USA | Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/250px-Logo_Univision_2019.svg.png" group-title="INTERNACIONALES", 78 | Univision
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=4304892949&_cdn_timestamp=1793486319&_cdn_token=1aec67eb0a47bfb8ae231d83e65e9d38978d4fe3
+http://200.57.28.141:8540/play/a06e
 #EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/250px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="INTERNACIONALES", 79 | Las Estrellas
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CHESTRELLAS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCHESTRELLAS_stream_8c&_cdn_session=3534417429&_cdn_token=ab0713e812a896cf0333a8751a41294e9d59c96c
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="INTERNACIONALES", 80 | Azteca Internacional
@@ -190,7 +190,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cd
 #EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/250px-Star_Channel_2020.svg.png" group-title="PELICULAS Y SERIES", 87 | Star Channel
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=3547939100&_cdn_token=737deb0d00f07efc18695d01e47dff7051d5ccb8
 #EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png" group-title="PELICULAS Y SERIES", 88 | Warner Channel
-http://45.188.229.33:8000/play/a1b3/index.m3u8
+http://200.57.28.141:8540/play/a04c
 #EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="PELICULAS Y SERIES", 89 | TNT
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_stream_hg&_cdn_session=3534420813&_cdn_token=c1e99ef39884bb87d604968c5a032c54e204f4ff
 #EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/120px-TNT_Series_2025.svg.png" group-title="PELICULAS Y SERIES", 90 | TNT Series
@@ -419,6 +419,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=3534492861&_cdn_token=f0d37eb2180f69ae5efec5c85d1ddfa92d41f0a6
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/120px-History2_logo_%282022%29.svg.png" group-title="CULTURA Y EDUCACION", 203 | History 2
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=3534493397&_cdn_token=4159e87b15f5616966fd93de7a8abd6e3e4c141b
+#EXTINF:-1 tvg-id="USA | Feel Historia" tvg-name="USA | Feel Historia" tvg-logo="https://pbs.twimg.com/media/HOPFLzYXsAAqMAy?format=png&name=small" group-title="CULTURA Y EDUCACION", En prueba | Feel Historia
+https://live-evg10.tv360.bitel.com.pe/bitel/planetahistoria/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION", 204 | Discovery Channel
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=3534494197&_cdn_token=29d463042deff0adbcd2d63cf9604747250cd0c5
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA Y EDUCACION", 205 | Discovery Science
@@ -433,6 +435,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="CULTURA Y EDUCACION", 210 | Love Nature
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_session=3537362501&_cdn_token=59d1d9cdf27984218eb5954a2021d00515d7565e
+#EXTINF:-1 tvg-id="USA | Feel Salvaje" tvg-name="USA | Feel Salvaje" tvg-logo="https://pbs.twimg.com/media/HOPELMVWgAAwYO0?format=png&name=small" group-title="CULTURA Y EDUCACION", En prueba | Feel Salvaje
+https://live-evg10.tv360.bitel.com.pe/bitel/planetasalvaje/playlist.m3u8
 #EXTINF:-1 tvg-id="AR | El Mundo del Campo TV" tvg-name="AR | El Mundo del Campo TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/1728151572085.jpeg" group-title="CULTURA Y EDUCACION", 212 | El Mundo del Campo TV
 https://ott1.hdlatam.tv/live/elMund0delCampo/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="RELIGIOSOS", 213 | EWTN
@@ -676,7 +680,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | CTC" tvg-name="PE | CTC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Compa%C3%B1%C3%ADa_de_Televisi%C3%B3n_Cusque%C3%B1a.jpg/revision/latest?cb=20221127014959&path-prefix=es" group-title="REGIONALES", 328 | CTC || Cuzco
 https://live-evg7.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Inkavisión" tvg-name="PE | Inkavisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4oQ0ESkVt9OUvPsTDKteMhlTge945b91bQ&s" group-title="REGIONALES", 329 | Inkavisión || Cuzco
-https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Tevesur" tvg-name="PE | Tevesur" tvg-logo="https://pbs.twimg.com/media/Guh4ldaWMAANG-o?format=png&name=240x240" group-title="REGIONALES", 330 | Tevesur || Cuzco
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | DMJ Televisión" tvg-name="PE | DMJ Televisión" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2025/05/Logo-dmjsur.png" group-title="REGIONALES", 331 | DMJ Televisión || Cuzco
@@ -693,8 +697,6 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 https://ott1.hdlatam.tv/live/TVMundoCusco/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Solar TV" tvg-name="PE | Solar TV" tvg-logo="https://pbs.twimg.com/media/FShO0xsXMAAmaKv?format=jpg&name=small" group-title="REGIONALES", 337 | Solar TV || Cuzco
 https://stmv7.voxtvhd.com.br/solartv/solartv/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Viva Quillabamba" tvg-name="PE | Viva Quillabamba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdUP5Ca_JbCneXatHylZ-v37BPfbfskv8-kfWc_RySDkd9jKiVrCeNCC&s=10" group-title="REGIONALES", En prueba | Viva Quillabamba || Quillabamba
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/VIVAQUILLABAMBA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DVIVAQUILLABAMBA_stream_0e&_cdn_session=4318184291&_cdn_timestamp=1792498688&_cdn_token=15aebf3761420169b439a1258bf22c41dfe93c3f
 #EXTINF:-1 tvg-id="PE | TV Mar" tvg-name="PE | TV Mar" tvg-logo="https://pbs.twimg.com/media/GnL0wKdWwAACQZQ?format=png&name=small" group-title="REGIONALES", 338 | TV Mar || Puerto Maldonado
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Uriol TV" tvg-name="PE | Uriol TV" tvg-logo="https://tv2.yottalan.com/media/images/channel/LOGO_URIOLTV.png" group-title="REGIONALES", 338 | Uriol TV || Puerto Maldonado
@@ -1923,8 +1925,10 @@ https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4k
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=nGqN8qaPoMd3Qlpx5VkAS2cvMVZeAFmO&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712149764&ot=ykX5sE0fTENzvgLG1nGeXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Ritmo Romantica" tvg-name="PE | Ritmo Romantica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Radio_Ritmo_Rom%C3%A1ntica_2019.svg/revision/latest/scale-to-width-down/280?cb=20220803202725&path-prefix=es" group-title="EMISORAS NACIONALES", 1122 | Ritmo Romantica 93.1 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=qMBieH4KNUorKKl81p1rtmptUOW1CinZ&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1751490696831&ot=TQ976bQeo3TwgAGgP84Psg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
+
 #EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSangv-zyXGAaiYfAAuiVBVpql_W6-3-Vl0Kg&s" group-title="EMISORAS NACIONALES", 1123 | Radio La Inolvidable 93.7 FM || Lima; Perú
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=y5czZk048ZhGfpFkDWM0MfxGN7wQnAzh&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1751490900229&ot=QhbMft2ZCgObTsjkH6AYUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
+
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png/250px-Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="EMISORAS NACIONALES", 1124 | Radio Disney 94.3 FM || Lima; Perú
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="EMISORAS NACIONALES", 1125 | Radio La Karibeña 94.9 FM || Lima; Perú
