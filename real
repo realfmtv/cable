@@ -1526,19 +1526,19 @@ http://svtv.xyz:8080/live/sandra30abril/CQNFV/278550.m3u8
 #EXTINF:-1 tvg-id="GT | GT Live" tvg-name="GT | GT Live" tvg-logo="https://www.hispanatv.com/img/tv/Gt-Live.png" group-title="GUATEMALA", 930 | GT Live || GUATEMALA
 https://emisoras.hn:8081/gtlive/index.m3u8
 #EXTINF:-1 tvg-id="DO | Teleantillas" tvg-name="DO | Teleantillas" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWDgF8YWCRF1XvDjqnhAGPt2G8E0Z4dC8kRqEyz3SLQ=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA", 931 | Teleantillas || REPUBLICA DOMINICANA
-http://200.57.28.141:8540/play/a01b
+https://hls.tvabierta.net/hls/010.m3u8
 #EXTINF:-1 tvg-id="DO | Si TV" tvg-name="DO | Si TV" tvg-logo="https://sitv.com.do/wp-content/uploads/2021/10/sitvlogo-1.svg" group-title="REPUBLICA DOMINICANA", 932 | Si TV || REPUBLICA DOMINICANA
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 tvg-id="DO | Canal RTVD 4" tvg-name="DO | Canal RTVD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RTVD_logo_2022.webp/200px-RTVD_logo_2022.webp.png" group-title="REPUBLICA DOMINICANA", 933 | Canal RTVD 4 || REPUBLICA DOMINICANA
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
+https://hls.tvabierta.net/hls/004.m3u8
 #EXTINF:-1 tvg-id="DO | Cananga Televisión" tvg-name="DO | Cananga Televisión" tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg" group-title="REPUBLICA DOMINICANA", 934 | Cananga Televisión || REPUBLICA DOMINICANA
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telemicro" tvg-name="DO | Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPUBLICA DOMINICANA", 935 | Telemicro || REPUBLICA DOMINICANA
 http://200.57.28.141:8540/play/a045
 #EXTINF:-1 tvg-id="DO | Antena 7" tvg-name="DO | Antena 7" tvg-logo="https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png" group-title="REPUBLICA DOMINICANA", 936 | Antena 7 || REPUBLICA DOMINICANA
-https://d1jagpxpm5efql.cloudfront.net/0_4/index.m3u8
+https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="DO | Color Visión" tvg-name="DO | Color Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="REPUBLICA DOMINICANA", 937 | Color Visión || REPUBLICA DOMINICANA
-http://45.228.233.60:8000/play/a038/index.m3u8
+https://hls.tvabierta.net/hls/009.m3u8
 #EXTINF:-1 tvg-id="DO | Telesistema" tvg-name="DO | Telesistema" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesistemac-100x70.png" group-title="REPUBLICA DOMINICANA", 938 | Telesistema || REPUBLICA DOMINICANA
 http://45.228.233.60:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="DO | Telecentro" tvg-name="DO | Telecentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Telecentro_ICON.jpg/125px-Telecentro_ICON.jpg" group-title="REPUBLICA DOMINICANA", 939 | Telecentro || REPUBLICA DOMINICANA
@@ -1552,7 +1552,7 @@ https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="DO | Cinevisión" tvg-name="DO | Cinevisión" tvg-logo="https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision-1024x341.png" group-title="REPUBLICA DOMINICANA", 943 | Cinevisión || REPUBLICA DOMINICANA
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-id="DO | Antena 21" tvg-name="DO | Antena 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/300?cb=20210512152824&path-prefix=es" group-title="REPUBLICA DOMINICANA", 944 | Antena 21 || REPUBLICA DOMINICANA
-http://51.81.106.157:8084/hls/a21.m3u8
+https://hls.tvabierta.net/hls/021.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/telefuturo-canal-23-en-vivo-online.jpg" group-title="REPUBLICA DOMINICANA", 945 | Telefuturo canal 23 || REPUBLICA DOMINICANA
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Teleuniverso" tvg-name="DO | Teleuniverso" tvg-logo="https://pbs.twimg.com/profile_images/1055497104175652864/3iL8w0va_400x400.jpg" group-title="REPUBLICA DOMINICANA", 946 | Teleuniverso || REPUBLICA DOMINICANA
