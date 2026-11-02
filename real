@@ -1242,7 +1242,7 @@ http://200.57.28.141:8540/play/a02a
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=C3a7PpdAuZC3sabLt30lYaR3f8eZ4Cmi&sid=2quC4ekWQnoJZeHFhE8blHNWjoZquyAQ&pid=QzfOlvABGmd0T4Aqvnp6zBdfoSC9a9BR&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x220&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="CR | Canal 11" tvg-name="CR | Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/250px-RepretelCanal112024.svg.png" group-title="COSTA RICA", 782 | Canal 11 || COSTA RICA
-https://d1xi959ygvr37r.cloudfront.net/5_4/index.m3u8
+https://d1xi959ygvr37r.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 tvg-id="CR | Telered" tvg-name="CR | Telered" tvg-logo="https://play-lh.googleusercontent.com/WPGse5uRAODCyJkZdNq51HNSIfBup5AkNz28sAerlfH25je0n_Wg0tK83RtBA79wUZhrTwZpex3ol_TFg6cd" group-title="COSTA RICA", 784 | Telered || COSTA RICA
 https://rtv.fullhd-streaming.com:19360/telered/telered.m3u8
 #EXTINF:-1 tvg-id="CR | Antena Seis TV" tvg-name="CR | Antena Seis TV" tvg-logo="https://pbs.twimg.com/media/FcB8VoxXEAE5jd0?format=png&name=360x360" group-title="COSTA RICA", 765 | Antena Seis TV || COSTA RICA
