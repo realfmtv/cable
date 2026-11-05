@@ -724,7 +724,7 @@ http://45.188.229.33:8000/play/a1gj/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-name="EC | Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/250px-Teleamazonas_Logo.png" group-title="ECUADOR", En prueba | Teleamazonas || ECUADOR
 http://45.188.229.33:8000/play/a1gk/index.m3u8
 #EXTINF:-1 tvg-id="EC | TVC" tvg-name="EC | TVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es" group-title="ECUADOR", 349 | TVC || ECUADOR
-https://d8quf8l8fzs58.cloudfront.net/4_7/index.m3u8
+https://d20vw2nliscnu1.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-name="EC | Ecuador TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/EctvLogo.png/330px-EctvLogo.png" group-title="ECUADOR", 350 | Ecuador TV || ECUADOR
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="EC | Gamavision" tvg-name="EC | Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="ECUADOR", En prueba | Gamavision || ECUADOR
@@ -732,7 +732,7 @@ http://45.188.229.33:8000/play/a1it/index.m3u8
 #EXTINF:-1 tvg-id="EC | TC Television" tvg-name="EC | TC Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="ECUADOR", En prueba | TC Television || ECUADOR
 http://45.188.229.33:8000/play/a1gn/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", 351 | RTS || ECUADOR
-https://d3gvt0njrn7imx.cloudfront.net/16_19/index.m3u8
+https://d3gvt0njrn7imx.cloudfront.net/4_7/index.m3u8
 #EXTINF:-1 tvg-id="EC | Canal UNO" tvg-name="EC | Canal UNO" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="ECUADOR", En prueba | Canal UNO || ECUADOR
 https://stmv3.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Telerama2023Logo.png/revision/latest?cb=20251222203152&path-prefix=es" group-title="ECUADOR", 352 | Telerama || ECUADOR
