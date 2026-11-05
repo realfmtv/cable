@@ -311,6 +311,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/250px-DistritoComediaLOGO2018.png" group-title="COMEDIA", 150 | Distrito Comedia
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISTRITOCOMEDIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISTRITOCOMEDIA_stream_0o&_cdn_session=3548009804&_cdn_token=f4f26f911d06487b8a10d48ff7e55ca22a6e058b
+#EXTINF:-1 tvg-id="MX | El Chavo del Ocho TV" tvg-name="MX | El Chavo del Ocho TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMwy9h5K8p2fDHucJynT8SEAHTN-BHdF5wJ4LAPx8tA&s=10" group-title="CANALES 24/7", En prueba | El Chavo del Ocho TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | CNN" tvg-name="USA | CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png" group-title="NOTICIAS E INFORMACION", 151 | CNN
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_stream_ol&_cdn_session=3547965724&_cdn_token=b8365b931694179f7944869ca02522f731f1a4ab
 #EXTINF:-1 tvg-id="USA | CNN En español" tvg-name="USA | CNN En español" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cnn-en-espanol_m.png" group-title="NOTICIAS E INFORMACION", 152 | CNN En español
