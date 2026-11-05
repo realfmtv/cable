@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="PE | Willax Television" tvg-name="PE | Willax Television" tvg-logo="https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="PERU", 1 | Willax Television
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=3060128867&_cdn_token=e6aaa98004a22fc70a1ead6018beb8f7b37c34ba
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png" group-title="PERU", 2 | Latina Television
-https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/72a96459-8f16-4903-9f66-c1cf688c2220:SCL2/variant/a2369c38af57cf3b2e7073d04299cf1a/bandwidth/3293291.m3u8
+https://ott1.hdlatam.tv/live_abr/Stream11/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina noticias" tvg-name="PE | Latina noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/330px-Latina_Noticias_Noviembre_2024.svg.png" group-title="PERU", 2.2 | Latina noticias
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Clasicos" tvg-name="PE | Latina Clasicos" tvg-logo="https://static.wikia.nocookie.net/cholopedia/images/f/fa/Latina_Cl%C3%A1sicos_2024_2_%281%29.svg/revision/latest/scale-to-width-down/1200?cb=20250201223331&path-prefix=es" group-title="PERU", 2.3 | Latina Clasicos
@@ -1306,7 +1306,7 @@ http://200.57.28.141:8540/play/a041
 #EXTINF:-1 tvg-id="SV | Canal 3" tvg-name="SV | Canal 3" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1536x1301.png" group-title="EL SALVADOR", 816 | Canal 3 || EL SALVADOR
 https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 4" tvg-name="SV | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/330px-Canal_4_TCS.png" group-title="EL SALVADOR", 817 | Canal 4 || EL SALVADOR
-http://200.57.28.141:8540/play/a040
+http://200.57.28.141:8540/play/a0lj
 #EXTINF:-1 tvg-id="SV | TV Seis" tvg-name="SV | TV Seis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png" group-title="EL SALVADOR", 818 | TV Seis || EL SALVADOR
 http://200.57.28.141:8540/play/a02v
 #EXTINF:-1 tvg-id="SV | Agape TV" tvg-name="SV | Agape TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/500px-Agape_8_2001.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="EL SALVADOR", En prueba | Agape TV || EL SALVADOR
@@ -1328,7 +1328,7 @@ https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | WOW TV Canal 24" tvg-name="SV | WOW TV Canal 24" tvg-logo="https://wowelsalvador.com/sitepad-data/uploads/2025/11/LOGO-WOW-TV-TU-CANAL-VERDE-DEGRADADO.png" group-title="EL SALVADOR", 825 | WOW TV || EL SALVADOR
 https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | SV+" tvg-name="SV | SV+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/SV%2B_Plus_Logo.svg/revision/latest/scale-to-width-down/77?cb=20251216212512" group-title="EL SALVADOR", 827 | SV+ || EL SALVADOR
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+http://200.57.28.141:8540/play/a039
 #EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://envivo.rtvcanal57.com/img/logocanal57.png" group-title="EL SALVADOR", 828 | Canal 57 Apopa TV || EL SALVADOR
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-id="SV | TVM" tvg-name="SV | TVM" tvg-logo="https://tvm.sv/assets/images/tvm_logo.png" group-title="EL SALVADOR", 829 | TVM || EL SALVADOR
@@ -1422,7 +1422,7 @@ http://200.57.28.141:8540/play/a03x
 #EXTINF:-1 tvg-id="GT | Canal Antigua" tvg-name="GT | Canal Antigua" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mQ2cGaphWUv9K2kYzPGhOHQMLCIBTqLEPsmtqaJd58jEc=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA", 878 | Canal Antigua || GUATEMALA
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GT | La Red TV" tvg-name="GT | La Red TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png" group-title="GUATEMALA", 879 | La Red TV || GUATEMALA
-http://190.105.128.198:5800/play/a04t/index.m3u8
+http://200.57.28.141:8540/play/a05a
 #EXTINF:-1 tvg-id="GT | VEA Canal" tvg-name="GT | VEA Canal" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Vea-Canal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="GUATEMALA", 880 | VEA Canal || GUATEMALA
 http://179.60.224.196:8000/play/a0gc/index.m3u8
 #EXTINF:-1 tvg-id="GT | TVS Retro" tvg-name="GT | TVS Retro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ActWgSywOYY5mv5w27vJRK3icBB8nRJybpxBgG7ztg&s=10" group-title="GUATEMALA", 881 | TVS Retro || GUATEMALA
