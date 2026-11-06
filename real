@@ -724,7 +724,7 @@ http://45.188.229.33:8000/play/a1it/index.m3u8
 #EXTINF:-1 tvg-id="EC | TC Television" tvg-name="EC | TC Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="ECUADOR", 355 | TC Television || ECUADOR
 http://45.188.229.33:8000/play/a1gn/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", 356 | RTS || ECUADOR
-https://d3gvt0njrn7imx.cloudfront.net/4_7/index.m3u8
+https://d3gvt0njrn7imx.cloudfront.net/12_15/index.m3u8
 #EXTINF:-1 tvg-id="EC | Canal UNO" tvg-name="EC | Canal UNO" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="ECUADOR", 357 | Canal UNO || ECUADOR
 https://stmv3.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Telerama2023Logo.png/revision/latest?cb=20251222203152&path-prefix=es" group-title="ECUADOR", 358 | Telerama || ECUADOR
@@ -1195,32 +1195,28 @@ https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 https://clientestv.bachistreaming.com:3721/multi_web/play_src.m3u8
 #EXTINF:-1 tvg-id="UY | Charrua TV" tvg-name="UY | Charrua TV" tvg-logo="https://1.bp.blogspot.com/-5oMEGv6pLAo/YToskYNBjdI/AAAAAAAAQes/FLUAZ0CmW8E3ZqGT0XFAlD8GdMiD5TzewCLcBGAsYHQ/w700-h400-p-k-no-nu/charr%25C3%25BAa-televisi%25C3%25B3n-en-vivo_optimized.png" group-title="URUGUAY", 759 | Charrua TV || URUGUAY
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
-#EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://alba-py-c9n.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY", 761 | C9N || PARAGUAY
-https://d3gucni34mngr4.cloudfront.net/0_3/index.m3u8
+#EXTINF:-1 tvg-id="PY | Paravision" tvg-name="PY | Paravision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="PARAGUAY", 760 | Paravision || PARAGUAY
+http://45.188.229.33:8000/play/a0vn/index.m3u8
+#EXTINF:-1 tvg-id="PY | Noticias Paraguay TV" tvg-name="PY | Noticias Paraguay TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/NPY_Logo2023.png/250px-NPY_Logo2023.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="PARAGUAY", 761 | Noticias Paraguay TV || PARAGUAY
+http://45.188.229.33:8000/play/a0vq/index.m3u8
 #EXTINF:-1 tvg-id="PY | Sistema Nacional de Televisión" tvg-name="PY | Sistema Nacional de Televisión" tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="PARAGUAY", 762 | SNT || PARAGUAY
 https://dekjz69ytiztf.cloudfront.net/0_3/index.m3u8
-#EXTINF:-1 tvg-id="PA | Televisora Nacional de Panamá" tvg-name="PA | Televisora Nacional de Panamá" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", 768 | Televisora Nacional || PANAMÁ
-http://45.5.117.182:8000/play/a0em/index.m3u8
-#EXTINF:-1 tvg-id="PA | Radio Programas Continentales TV" tvg-name="PA | Radio Programas Continentales TV" tvg-logo="https://www.rpctv.com/css-custom/314/images/logo-314.svg" group-title="PANAMÁ", 769 | RPC TV || PANAMÁ
-http://45.5.117.182:8000/play/a0iq/index.m3u8
-#EXTINF:-1 tvg-id="PA | TVMax" tvg-name="PA | TVMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="PANAMÁ", 770 | TVMax || PANAMÁ
-http://45.5.117.182:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-id="PA | SERTV" tvg-name="PA | SERTV" tvg-logo="https://play-lh.googleusercontent.com/d3bnw0h-STU3ZsBImqYPkL11BgfXu35QaK7WNlsrvTpPIvh7esBp6NNlIxU_jV4Zrw=w240-h480-rw" group-title="PANAMÁ", 771 | SERTV || PANAMÁ
-http://45.228.232.219:16000/play/a0k8/index.m3u8
-#EXTINF:-1 tvg-id="PA | Telemetro" tvg-name="PA | Telemetro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/150px-Logo-telemetro.svg.png" group-title="PANAMÁ", 772 | Telemetro || PANAMÁ
-http://45.5.117.182:8000/play/a0el/index.m3u8
-#EXTINF:-1 tvg-id="PA | Mas 23" tvg-name="PA | Mas 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/132px-Mas23tv.jpg" group-title="PANAMÁ", 773 | Mas 23 || PANAMÁ
-http://45.5.117.182:8000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-id="PA | Nex" tvg-name="PA | Nex" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZpwn42ACqeWUHxjnK3PDsbLzhqG0NYmQdz1Yradw=s900-c-k-c0x00ffffff-no-rj" group-title="PANAMÁ", 774 | Nex || PANAMÁ
-http://45.5.117.182:8000/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-id="PA | Plus TV" tvg-name="PA | Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/84d1f1e27f3b9544f23ee9b01949f2224f8f52dbda505a2ceaea968f2d7933f6.png" group-title="PANAMÁ", 775 | Plus TV || PANAMÁ
-https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+#EXTINF:-1 tvg-id="PY | La Tele" tvg-name="PY | La Tele" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ltlcolor.png/250px-Ltlcolor.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="PARAGUAY", 763 | La Tele || PARAGUAY
+http://45.188.229.33:8000/play/a0wh/index.m3u8
+#EXTINF:-1 tvg-id="PY | Canal 9 Noticias" tvg-name="PY | Canal 9 Noticias" tvg-logo="https://alba-py-c9n.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY", 764 | C9N || PARAGUAY
+https://d3gucni34mngr4.cloudfront.net/0_3/index.m3u8
+#EXTINF:-1 tvg-id="PY | Paraguay TV" tvg-name="PY | Paraguay TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqC077NPR6b8CWfZ5iOizDxSSKqkaaQ0s6iIyad8nU&s" group-title="PARAGUAY", 765 | Paraguay TV || PARAGUAY
+http://45.188.229.33:8000/play/a1hu/index.m3u8
+#EXTINF:-1 tvg-id="PY | America Paraguay TV" tvg-name="PY | America Paraguay TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZE_bmJMNYazAOEhYh_Mt7sUhFDvjhjqnccGWRRxnZ1s9ceCzTjekdXIf&s=10" group-title="PARAGUAY", 766 | America Paraguay TV || PARAGUAY
+http://45.188.229.33:8000/play/a0v9/index.m3u8
+#EXTINF:-1 tvg-id="PA | Plus TV" tvg-name="PA | Plus TV" tvg-logo="https://image.roku.com/developer_channels/prod/84d1f1e27f3b9544f23ee9b01949f2224f8f52dbda505a2ceaea968f2d7933f6.png" group-title="PANAMÁ", 767 | Plus TV || PANAMÁ
+https://sistemastr.tropicalmoonmedia.com/live/DFDEDAEDBF069E6703E58BEB62E05FD7/13.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 2 Central de Radios" tvg-name="CR | Canal 2 Central de Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Repretel_2_CDR.png/120px-Repretel_2_CDR.png" group-title="COSTA RICA", 777 | Canal 2 CDR || COSTA RICA
 https://d1z2wbg3v3ad8l.cloudfront.net/8_11/index.m3u8
 #EXTINF:-1 tvg-id="CR | Canal 4" tvg-name="CR | Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RepretelCanal42024.svg/250px-RepretelCanal42024.svg.png" group-title="COSTA RICA", 778 | Canal 4 || COSTA RICA
 http://200.57.28.141:8540/play/a048
 #EXTINF:-1 tvg-id="CR | Canal 6" tvg-name="CR | Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RepretelCanal62024.svg/250px-RepretelCanal62024.svg.png" group-title="COSTA RICA", 779 | Canal 6 Telecentro || COSTA RICA
-https://dtwn0mjllww8x.cloudfront.net/4_7/index.m3u8
+https://dtwn0mjllww8x.cloudfront.net/8_11/index.m3u8
 #EXTINF:-1 tvg-id="CR | Teletica Canal 7" tvg-name="CR | Teletica Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", 780 | Teletica || COSTA RICA
 http://200.57.28.141:8540/play/a02a
 #EXTINF:-1 tvg-id="CR | Canal 8 de Costa Rica" tvg-name="CR | Canal 8 de Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="COSTA RICA", 781 | Canal 8 || COSTA RICA
@@ -1300,7 +1296,7 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 11 TUTV" tvg-name="SV | Canal 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tutvcanal11.png/250px-Tutvcanal11.png" group-title="EL SALVADOR", 820 | Canal 11 TUTV || EL SALVADOR
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="SV | Canal 12" tvg-name="SV | Canal 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CANAL_DOCE_EST%C3%81_CON_VOS.png/250px-CANAL_DOCE_EST%C3%81_CON_VOS.png" group-title="EL SALVADOR", 821 | Canal 12 || EL SALVADOR
-https://d3g96s6vk63s0z.cloudfront.net/0_3/index.m3u8
+https://d2lh5ywamq4db9.cloudfront.net/4_7/index.m3u8
 #EXTINF:-1 tvg-id="SV | Taber TV" tvg-name="SV | Taber TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online-100x70.png" group-title="EL SALVADOR", 822 | Taber TV || EL SALVADOR
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SV | Meganoticias" tvg-name="SV | Meganoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR", 822 | Canal 19 MegaNoticias || EL SALVADOR
@@ -1703,20 +1699,6 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="REPUBLICA DOMINICANA", En prueba | Fuego 40 TV
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CU | Cubavision" tvg-name="CU | Cubavision" tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="CUBA", 1033 | Cubavision || CUBA
-https://tv.picta.cu/cubavision/cubavision_0.m3u8
-#EXTINF:-1 tvg-id="CU | Canal Habana" tvg-name="CU | Canal Habana" tvg-logo="https://i.imgur.com/0EUc52w.png" group-title="CUBA", En prueba | Canal Habana || CUBA
-https://tv.picta.cu/infantil/infantil_0.m3u8
-#EXTINF:-1 tvg-id="CU | Multivision" tvg-name="CU | Multivision" tvg-logo="https://i.imgur.com/wBX0GNs.png" group-title="CUBA", En prueba | Multivision || CUBA
-https://tv.picta.cu/multivision/multivision_1.m3u8
-#EXTINF:-1 tvg-id="CU | Canal Educativo" tvg-name="CU | Canal Educativo" tvg-logo="https://i.imgur.com/huBxZpP.png" group-title="CUBA", En prueba | Canal Educativo || CUBA
-https://tv.picta.cu/educativo/educativo_0.m3u8
-#EXTINF:-1 tvg-id="CU | Canal Clave" tvg-name="CU | Canal Clave" tvg-logo="https://i.imgur.com/7tMkA4Z.png" group-title="CUBA", En prueba | Canal Clave || CUBA
-https://tv.picta.cu/clave/clave_0.m3u8
-#EXTINF:-1 tvg-id="CU | Prensa Latina Television" tvg-name="CU | Prensa Latina Television" tvg-logo="https://i.imgur.com/jbm2S9O.jpeg" group-title="CUBA", En prueba | Prensa Latina Television || CUBA
-https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="CU | Telerebelde" tvg-name="CU | Telerebelde" tvg-logo="https://i.imgur.com/M6wZzuz.png" group-title="CUBA", En prueba | Telerebelde || CUBA
-https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
 #EXTINF:-1 tvg-id="MX | Azteca Uno" tvg-name="MX | Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", 1034 | Azteca Uno || MÉXICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-id="MX | Azteca Internacional" tvg-name="MX | Azteca Internacional" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO", 1035 | Azteca Internacional || MÉXICO
@@ -1887,10 +1869,8 @@ https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4k
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=nGqN8qaPoMd3Qlpx5VkAS2cvMVZeAFmO&sid=1sjbP1nzkSfBs73atL3RhVGhIou9pSWw&uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1697712149764&ot=ykX5sE0fTENzvgLG1nGeXA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fradiosperu.pe%2F&listenerId=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq
 #EXTINF:-1 tvg-id="PE | Ritmo Romantica" tvg-name="PE | Ritmo Romantica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Radio_Ritmo_Rom%C3%A1ntica_2019.svg/revision/latest/scale-to-width-down/280?cb=20220803202725&path-prefix=es" group-title="EMISORAS NACIONALES", 1122 | Ritmo Romantica 93.1 FM || Lima; Perú
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=qMBieH4KNUorKKl81p1rtmptUOW1CinZ&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1751490696831&ot=TQ976bQeo3TwgAGgP84Psg&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
-
 #EXTINF:-1 tvg-id="PE | Radio La Inolvidable" tvg-name="PE | Radio La Inolvidable" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSangv-zyXGAaiYfAAuiVBVpql_W6-3-Vl0Kg&s" group-title="EMISORAS NACIONALES", 1123 | Radio La Inolvidable 93.7 FM || Lima; Perú
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4?aid=68386a6e44ba64f6064b25c9&property=aiir&pid=y5czZk048ZhGfpFkDWM0MfxGN7wQnAzh&sid=sMjJaU9vuCpgwIIW63gRxG5axoZOfe7D&uid=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1751490900229&ot=QhbMft2ZCgObTsjkH6AYUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=SaUZQ4X6iQ9EUJRCJzZyYNTziVKPUz5I
-
 #EXTINF:-1 tvg-id="PE | Radio Disney" tvg-name="PE | Radio Disney" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png/250px-Logo_Radio_Disney_Latinoam%C3%A9rica_2023.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="EMISORAS NACIONALES", 1124 | Radio Disney 94.3 FM || Lima; Perú
 https://27343.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="PE | Radio La Karibeña" tvg-name="PE | Radio La Karibeña" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Radio_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809154135&path-prefix=es" group-title="EMISORAS NACIONALES", 1125 | Radio La Karibeña 94.9 FM || Lima; Perú
