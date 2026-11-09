@@ -719,9 +719,9 @@ https://tv.canala1.com:8081/nuevolink/video.m3u8
 https://megatv.streamottmas.workers.dev/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | TV Mundo" tvg-name="PE | TV Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tvmundosur.jpg/330px-Tvmundosur.jpg" group-title="REGIONALES", 348 | TV Mundo || Arequipa
 https://ott1.hdlatam.tv/live_abr/TvmundoArequipa/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Vision sur" tvg-name="PE | Vision sur" tvg-logo="https://visionsurtv.pe/wp-content/uploads/2025/10/Diseno-sin-titulo-9.png" group-title="REGIONALES", 349 | Vision sur || Arequipa
+#EXTINF:-1 tvg-id="PE | Vision sur" tvg-name="PE | Vision sur" tvg-logo="https://yt3.googleusercontent.com/Krne4QJut_ueNhK5AmZiZVjDX8y1h7kAMOTSkv-SFbhTP0kyxVS9tl0JB-HpMiHc0imDyjRWgw=s900-c-k-c0x00ffffff-no-rj" group-title="REGIONALES", 349 | Vision sur || Arequipa
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Klip TV" tvg-name="PE | Klip TV" tvg-logo="https://kliptv.pe/wp-content/uploads/2025/10/chrome_DjqSutKGsS.png.webp" group-title="REGIONALES", 350 | Klip TV || Arequipa
+#EXTINF:-1 tvg-id="PE | Klip TV" tvg-name="PE | Klip TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShaMcao6t2MgryclfgR-1FVLHSFF19QpfpNI4B5gxcnB32Gp-p-UU2MVE&s=10" group-title="REGIONALES", 350 | Klip TV || Arequipa
 https://live-evg10.tv360.bitel.com.pe/bitel/kliptv/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Primavera 15 TV" tvg-name="PE | Primavera 15 TV" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="REGIONALES", 351 | Primavera 15 TV || Moquegua
 https://mc.servidor.stream:19360/8244/8244.m3u8
@@ -753,8 +753,8 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EC | Puruwa TV" tvg-name="EC | Puruwa TV" tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" group-title="ECUADOR", 365 | Puruwa TV || ECUADOR
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1 tvg-id="EC | Capricho TV" tvg-name="EC | Capricho TV" tvg-logo="https://play-lh.googleusercontent.com/H6gw3Ep-yGoyYKEmpvQ8GQdjfvL5WGY-FvW4rFGYOIZs-QaTvYBziHQrB3TlYxarIw3H2fkw5UBZzkLAHoPTWTY=w240-h480-rw" group-title="ECUADOR", 366 | Capricho TV || ECUADOR
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="EC | Ecuastereo TV" tvg-name="EC | Ecuastereo TV" tvg-logo="https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png" group-title="ECUADOR", 366 | Ecuastereo TV || ECUADOR
+https://video.misistemareseller.com:3027/live/ecuastereotvlive.m3u8
 #EXTINF:-1 tvg-id="EC | Multicanal" tvg-name="EC | Multicanal" tvg-logo="https://play-lh.googleusercontent.com/GLiz6wOIpexLiIuzRAlQEvgI_VO1WtbPbvgEVAkg98PqTFXozyE7mB3JFkJvAw3G77s" group-title="ECUADOR", 367 | Multicanal || ECUADOR
 https://stmv1.novacasthd.in/multicanalec/multicanalec/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Sono Onda TV" tvg-name="EC | Sono Onda TV" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-LOGOSONOONDA.png" group-title="ECUADOR", 368 | Sono Onda TV || ECUADOR
@@ -815,15 +815,15 @@ http://200.59.191.177:8000/play/a0lj/index.m3u8
 http://200.59.191.177:8000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-id="VE | TVFANB" tvg-name="VE | TVFANB" tvg-logo="https://player.lorini.net/tvfanb/tvfanb.png" group-title="VENEZUELA", 393 | TVFANB || VENEZUELA
 http://200.59.191.177:8000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="VE | Ávila Televisión" tvg-name="VE | Ávila Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo-avilatv.png/260px-Logo-avilatv.png" group-title="VENEZUELA", 394 | Avila Televisión || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Ávila Televisión" tvg-name="VE | Ávila Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkrm7cawk3joZywx-si-0Dyo154BEXGgpGJUYaoR4cEg&s=10" group-title="VENEZUELA", 394 | Avila Televisión || VENEZUELA
 http://200.59.191.177:8000/play/a0lg/index.m3u8
-#EXTINF:-1 tvg-id="VE | ANTV" tvg-name="VE | ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ANTV_LOGO_2016.png" group-title="VENEZUELA", 395 | ANTV || VENEZUELA
+#EXTINF:-1 tvg-id="VE | ANTV" tvg-name="VE | ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ANTV_Venezuela.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="VENEZUELA", 395 | ANTV || VENEZUELA
 http://200.59.191.177:8000/play/a0l9/index.m3u8
 #EXTINF:-1 tvg-id="VE | TLT" tvg-name="VE | TLT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LOGO-HORIZONTAL_text.png" group-title="VENEZUELA", 396 | La Tele Tuya || VENEZUELA
 http://200.59.191.177:8000/play/a0ll/index.m3u8
-#EXTINF:-1 tvg-id="VE | Colombeia" tvg-name="VE | Colombeia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_Colombeia.png/150px-Logo_Colombeia.png" group-title="VENEZUELA", 397 | Colombeia || VENEZUELA
+#EXTINF:-1 tvg-id="VE | Colombeia" tvg-name="VE | Colombeia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ReOpqbbhORpBSbCCeLrhDPVWS8I4pMkE_d4-YPZUpg&s=10" group-title="VENEZUELA", 397 | Colombeia || VENEZUELA
 http://200.59.191.177:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-id="VE | ConCiencia TV" tvg-name="VE | ConCiencia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ConcienciaTV_logo_letras.png/300px-ConcienciaTV_logo_letras.png" group-title="VENEZUELA", 398 | ConCiencia TV || VENEZUELA
+#EXTINF:-1 tvg-id="VE | ConCiencia TV" tvg-name="VE | ConCiencia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIqPfkvF-TN8YflM6_VgcrblI-e0yzPDOi_ReclCJKzA&s=10" group-title="VENEZUELA", 398 | ConCiencia TV || VENEZUELA
 http://200.59.191.177:8000/play/a0ld/index.m3u8
 #EXTINF:-1 tvg-id="VE | ShowVen TV" tvg-name="VE | ShowVen TV" tvg-logo="https://play-lh.googleusercontent.com/vVd1VPRW9BgIgv1NzShVoVvYSwaxR3Xri99Dv4Ofm5qJd6jBMto0ZL9-mG0rTAdr6w" group-title="VENEZUELA", 399 | ShowVen TV || VENEZUELA
 http://200.59.191.177:8000/play/a0lf/index.m3u8
@@ -835,30 +835,24 @@ http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-id="VE | Aguacate TV" tvg-name="VE | Aguacate TV" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="VENEZUELA", 403 | Aguacate TV || VENEZUELA
 https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
-#EXTINF:-1 tvg-id="BR | TV Brasil" tvg-name="BR | TV Brasil" tvg-logo="https://s2.glbimg.com/e0Pj7r09Z16FXeEmDfffESxLtUk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/P/I/kWROf8ROqpWkcIt24TbQ/tv-brasil.jpg" group-title="BRASIL", 365 | TV Brasil || BRASIL
+#EXTINF:-1 tvg-id="BR | TV Brasil" tvg-name="BR | TV Brasil" tvg-logo="https://s2.glbimg.com/e0Pj7r09Z16FXeEmDfffESxLtUk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/P/I/kWROf8ROqpWkcIt24TbQ/tv-brasil.jpg" group-title="BRASIL", 404 | TV Brasil || BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://rbtv.com.br/img/4cae8efea1022156c068cc7e005880fcd6b4e376.png" group-title="BRASIL", 366 | Rede TV || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede TV" tvg-name="BR | Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="BRASIL", 405 | Rede TV || BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | TVE" tvg-name="BR | TVE" tvg-logo="https://dateame.co/public/storage/media/20200717_tve_brasil.jpg" group-title="BRASIL", 356 | TVE || BRASIL
+#EXTINF:-1 tvg-id="BR | TVE" tvg-name="BR | TVE" tvg-logo="https://dateame.co/public/storage/media/20200717_tve_brasil.jpg" group-title="BRASIL", 406 | TVE || BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | TV Aracati" tvg-name="BR | TV Aracati" tvg-logo="https://play-lh.googleusercontent.com/1lXr5lbsVfyHXAKU9VOwDW2eu5qzt10A2LdxpH16bdmx7PezOs_14g8N9UtymBygeCRn=w240-h480-rw" group-title="BRASIL", 349 | TV Aracati || BRASIL
+#EXTINF:-1 tvg-id="BR | TV Aracati" tvg-name="BR | TV Aracati" tvg-logo="https://play-lh.googleusercontent.com/1lXr5lbsVfyHXAKU9VOwDW2eu5qzt10A2LdxpH16bdmx7PezOs_14g8N9UtymBygeCRn=w240-h480-rw" group-title="BRASIL", 407 | TV Aracati || BRASIL
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Rede Mundo TV" tvg-name="BR | Rede Mundo TV" tvg-logo="https://play-lh.googleusercontent.com/6bROABbQxhdqm2Ho287Sod-YRduBk4qeRpOBlfw0cPJW_FqUel5fDPQBCwJfIqCnVPmG=w240-h480-rw" group-title="BRASIL", 350 | Rede Mundo TV || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede Mundo TV" tvg-name="BR | Rede Mundo TV" tvg-logo="https://play-lh.googleusercontent.com/6bROABbQxhdqm2Ho287Sod-YRduBk4qeRpOBlfw0cPJW_FqUel5fDPQBCwJfIqCnVPmG=w240-h480-rw" group-title="BRASIL", 408 | Rede Mundo TV || BRASIL
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Teleweb TV" tvg-name="BR | Teleweb TV" tvg-logo="https://play-lh.googleusercontent.com/UHDISsCc3QU6rDVmeG-Qn7tZ0uxJUI5MpwnmIa8dY4j4iQTNMkA628BleNszGFzl6YM=w240-h480-rw" group-title="BRASIL", 353 | Teleweb TV || BRASIL
-https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Rede Familia" tvg-name="BR | Rede Familia" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8h0kPa4cEbBBM1dx7FjRcoGEQOi2rzCoEhssluMg=s900-c-k-c0x00ffffff-no-rj" group-title="BRASIL", 354 | Rede Familia || BRASIL
+#EXTINF:-1 tvg-id="BR | Rede Familia" tvg-name="BR | Rede Familia" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8h0kPa4cEbBBM1dx7FjRcoGEQOi2rzCoEhssluMg=s900-c-k-c0x00ffffff-no-rj" group-title="BRASIL", 409 | Rede Familia || BRASIL
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Soul Lab TV" tvg-name="BR | Soul Lab TV" tvg-logo="https://pbs.twimg.com/media/FuDX0-PXgAEbGQq?format=png&name=240x240" group-title="BRASIL", 355 | Soul Lab TV || BRASIL
-https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | Soul TV" tvg-name="BR | Soul TV" tvg-logo="https://pbs.twimg.com/media/FuDX0-PXgAEbGQq?format=png&name=240x240" group-title="BRASIL", 356 | Soul TV || BRASIL
-https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | U Miss TV" tvg-name="BR | U Miss TV" tvg-logo="https://pbs.twimg.com/profile_images/1427350688875618315/x5wP4_ix_400x400.jpg" group-title="BRASIL", 357 | U Miss TV || BRASIL
-https://test-soultvex.akamaized.net/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | ISTV" tvg-name="BR | ISTV" tvg-logo="https://www.istv.com.br/static/media/Logo_ISTV_01.0b00a8e55712712e3890.png" group-title="BRASIL", 358 | ISTV || BRASIL
+#EXTINF:-1 tvg-id="BR | Soul TV" tvg-name="BR | Soul TV" tvg-logo="https://pbs.twimg.com/media/FuDX0-PXgAEbGQq?format=png&name=240x240" group-title="BRASIL", 410 | Soul TV || BRASIL
+https://cdn-tiva-maystreaming-cloudecast-com.soultv.com.br/playtv/index.m3u8
+#EXTINF:-1 tvg-id="BR | ISTV" tvg-name="BR | ISTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7CSQmDLM_t5jOFLX-YasRBr-0HcrgaSwiw0Dvi9MYA&s" group-title="BRASIL", 411 | ISTV || BRASIL
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="BR | TV Meio Norte" tvg-name="BR | TV Meio Norte" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg" group-title="BRASIL", 359 | TV Meio Norte || BRASIL
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+#EXTINF:-1 tvg-id="BR | TV Meio Norte" tvg-name="BR | TV Meio Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzaGilGxUCzDGSZIhlJONLJmoTfIFEgA5PBrbgnHJ_fw&s=10" group-title="BRASIL", 412 | TV Meio Norte || BRASIL
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="BR | TV Londres" tvg-name="BR | TV Londres" tvg-logo="https://pbs.twimg.com/media/Fr_I7vcX0AAFNvY?format=png&name=120x120" group-title="BRASIL", 360 | TV Londres || BRASIL
 https://w6oy7eg3dxrg-hls-live.5centscdn.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BR | 40 TV" tvg-name="BR | 40 TV" tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/40-graus-tv.png" group-title="BRASIL", 361 | 40 TV || BRASIL
