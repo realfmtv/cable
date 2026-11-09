@@ -284,7 +284,7 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="CR | Extrema Kids" tvg-name="CR | Extrema Kids" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-800x450-FFFFFF.jpg" group-title="INFANTILES", 136 | Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Max Anime" tvg-name="USA | Max Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Max_Anime_Logo.png" group-title="INFANTILES", 137 | Max Anime
-http://200.57.28.141:8540/play/a0k9
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AR | Magic Kids" tvg-name="AR | Magic Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/250px-Logomagic96.png" group-title="INFANTILES", 138 | Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BabyTV_text_logo.svg/250px-BabyTV_text_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INFANTILES", 139 | BabyTV
@@ -335,6 +335,8 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-m
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeleSUR_logo_%28textless%29.svg/330px-TeleSUR_logo_%28textless%29.svg.png" group-title="NOTICIAS E INFORMACION", 162 | Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | NTN24" tvg-name="CO | NTN24" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/250px-NTN24_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="NOTICIAS E INFORMACION", En prueba | NTN24
+https://cdnlive.klicgo.net/rcnntn24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/250px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 163 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/330px-Logo_Canal_24_horas.svg.png" group-title="NOTICIAS E INFORMACION", 164 | 24 horas tve
@@ -369,13 +371,17 @@ http://200.57.28.141:8540/play/a05m
 http://200.57.28.141:8540/play/a00z
 #EXTINF:-1 tvg-id="USA | BeIN Sports Ñ" tvg-name="USA | BeIN Sports Ñ" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/250px-BeIN_Sports_En_Espa%C3%B1ol.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="DEPORTES", 179 | BeIN Sports Ñ
 https://guastream.com:3017/stream/play.m3u8
+#EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", En prueba | EdX TV
+https://vs20.live.opencaster.com/edx_dcb7e847/index.m3u8
+#EXTINF:-1 tvg-id="PE | Bicolor+" tvg-name="PE | Bicolor+" tvg-logo="https://yt3.googleusercontent.com/uGVt0ApLUCUmG30KH6JEOIE3ZDPuNLm37POYv9jjtnbqVzFrIQBkinbjVt7B5RiRb0ugJ6Xh-FE=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", En prueba | Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Bitt TV" tvg-name="USA | Bitt TV" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/BITT-TV-NEGRO-1024x440.png" group-title="MUSICA Y REALITIES", 180 | Bitt TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/BITTCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBITTCH_stream_u1&_cdn_session=3517614925&_cdn_token=1b6ed2481eb47ac5e6d222278529ed0be47a0d8f
 #EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_mi-gente_m.png" group-title="MUSICA Y REALITIES", 181 | Mi Gente TV
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA Y REALITIES", 182 | Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="MUSICA Y REALITIES", 183 | Retro Plus TV
+#EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://play-lh.googleusercontent.com/fKXa1c1-SZcRFjHRPsLIDyy6TTu7mTOPU42X-Ym_WEIpqzMmRjNg6QG6FpqvOFwml-iImH5-I7kKkflixijLLg" group-title="MUSICA Y REALITIES", 183 | Retro Plus TV
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="MUSICA Y REALITIES", 184 | Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
@@ -387,6 +393,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/HTV/40-hls/live-media.m3u8?_c
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 #EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/250px-Logokaribe%C3%B1atv.png" group-title="MUSICA Y REALITIES", 188 | Karibeña TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KARIBENA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3Dkaribena_stream_4z&_cdn_session=4112158051&_cdn_token=c40226d580509101043367724b50f53d085fe399
+#EXTINF:-1 tvg-id="PE | E Music" tvg-name="PE | E Music" tvg-logo="https://pbs.twimg.com/media/FSNUydQXoAIcS1L?format=jpg&name=240x240" group-title="MUSICA Y REALITIES", En prueba | E Music
+https://vs20.live.opencaster.com/emusic_6696aed5/index.m3u8
 #EXTINF:-1 tvg-id="MX | Telehit" tvg-name="MX | Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="MUSICA Y REALITIES", 189 | Telehit
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITLATINO_stream_jm&_cdn_session=3548167820&_cdn_token=f6078f9629663aa00d6e45322908bff18ae6896c
 #EXTINF:-1 tvg-id="MX | Telehit Musica" tvg-name="MX | Telehit Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/250px-Telehit_M%C3%BAsica_logo.png" group-title="MUSICA Y REALITIES", 190 | Telehit Musica
@@ -415,6 +423,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/40-hls/live-med
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/AZCLIC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCLIC_stream_ln&_cdn_session=3548158548&_cdn_token=04e488c59b9ed0939fff703284304e0730185496
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="ESTILOS DE VIDA", 202 | Discovery Home & Health
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=3547981500&_cdn_token=26a4e26c19220642c59fc7f6cb633fa36435daac
+#EXTINF:-1 tvg-id="CO | Plous TV" tvg-name="CO | Plous TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/PLOUS_TV.png/330px-PLOUS_TV.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="ESTILOS DE VIDA", En prueba | Plous TV
+https://ott1.hdlatam.tv/live/PlousTV/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | El Gourmet" tvg-name="USA | El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/120px-El_Gourmet_logo.svg.png" group-title="ESTILOS DE VIDA", 203 | El Gourmet
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=3547982372&_cdn_token=547885d1aa366add5036da4ad0e1fface003ad9e
 #EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://cdn.mitvstatic.com/channels/ar_food-network_m.png" group-title="ESTILOS DE VIDA", 204 | Food Network
@@ -432,7 +442,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.
 #EXTINF:-1 tvg-id="USA | Feel Historia" tvg-name="USA | Feel Historia" tvg-logo="https://pbs.twimg.com/media/HOPFLzYXsAAqMAy?format=png&name=small" group-title="CULTURA Y EDUCACION", 210 | Feel Historia
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahistoria/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png" group-title="CULTURA Y EDUCACION", 211 | Discovery Channel
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=3534494197&_cdn_token=29d463042deff0adbcd2d63cf9604747250cd0c5
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=4324614892&_cdn_timestamp=1794239280&_cdn_token=ec1408faddb3e7d3612ecc674e8f1fb977d74537
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA Y EDUCACION", 212 | Discovery Science
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=3534494829&_cdn_token=2e34410ac47c7b0a3d39aac86a29748e784157c5
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="CULTURA Y EDUCACION", 213 | Discovery Turbo
@@ -759,7 +769,9 @@ https://server.asilivehd.com/live/nortvisi.m3u8
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/250px-CanalRCN2023.png" group-title="COLOMBIA", 373 | RCN
 http://45.188.229.33:8000/play/a0vi/index.m3u8
-#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="COLOMBIA", 373.2 | RCN+ || COLOMBIA
+#EXTINF:-1 tvg-id="CO | RCN Nuestra Tele Internacional" tvg-name="CO | RCN Nuestra Tele Internacional" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/330px-RCN_Nuestra_Tele_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="INTERNACIONALES", 373.2 | RCN Nuestra Tele Internacional
+https://cdnlive.klicgo.net/rcninternacional/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg" group-title="COLOMBIA", 373.3 | RCN+ || COLOMBIA
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol Television" tvg-name="CO | Caracol Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CaracolTV2025.png/250px-CaracolTV2025.png" group-title="COLOMBIA", 374 | Caracol Television || COLOMBIA
 http://45.188.229.33:8000/play/a1iq/index.m3u8
