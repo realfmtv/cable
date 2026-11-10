@@ -331,12 +331,12 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/250px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 160 | Noticias Caracol
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=3547952644&_cdn_token=ce07a9bfd4b7cbb21d88a28f6c279bb5a24c4919
+#EXTINF:-1 tvg-id="CO | NTN24" tvg-name="CO | NTN24" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/250px-NTN24_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="NOTICIAS E INFORMACION", En prueba | NTN24
+https://cdnlive.klicgo.net/rcnntn24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 161 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeleSUR_logo_%28textless%29.svg/330px-TeleSUR_logo_%28textless%29.svg.png" group-title="NOTICIAS E INFORMACION", 162 | Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CO | NTN24" tvg-name="CO | NTN24" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/250px-NTN24_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="NOTICIAS E INFORMACION", En prueba | NTN24
-https://cdnlive.klicgo.net/rcnntn24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AL | DW" tvg-name="AL | DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/250px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS E INFORMACION", 163 | DW Televisión
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/330px-Logo_Canal_24_horas.svg.png" group-title="NOTICIAS E INFORMACION", 164 | 24 horas tve
@@ -740,7 +740,7 @@ http://45.188.229.33:8000/play/a1it/index.m3u8
 #EXTINF:-1 tvg-id="EC | TC Television" tvg-name="EC | TC Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="ECUADOR", 358 | TC Television || ECUADOR
 http://45.188.229.33:8000/play/a1gn/index.m3u8
 #EXTINF:-1 tvg-id="EC | RTS" tvg-name="EC | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/250px-Rts_logo.png" group-title="ECUADOR", 359 | RTS || ECUADOR
-https://d1s0xejtks5gkx.cloudfront.net/0_3/index.m3u8
+https://d1s0xejtks5gkx.cloudfront.net/4_7/index.m3u8
 #EXTINF:-1 tvg-id="EC | Canal UNO" tvg-name="EC | Canal UNO" tvg-logo="https://canalunoecuador.com/wp-content/uploads/2023/04/UNO-LOGO.png" group-title="ECUADOR", 360 | Canal UNO || ECUADOR
 https://stmv3.voxtvhd.com.br/sonorama/sonorama/playlist.m3u8
 #EXTINF:-1 tvg-id="EC | Telerama" tvg-name="EC | Telerama" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Telerama2023Logo.png/revision/latest?cb=20251222203152&path-prefix=es" group-title="ECUADOR", 361 | Telerama || ECUADOR
