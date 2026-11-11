@@ -321,17 +321,15 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/40-hls/live-media.m3
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 #EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/250px-DistritoComediaLOGO2018.png" group-title="COMEDIA", 155 | Distrito Comedia
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DISTRITOCOMEDIA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISTRITOCOMEDIA_stream_0o&_cdn_session=3548009804&_cdn_token=f4f26f911d06487b8a10d48ff7e55ca22a6e058b
-#EXTINF:-1 tvg-id="MX | El Chavo del Ocho TV" tvg-name="MX | El Chavo del Ocho TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMwy9h5K8p2fDHucJynT8SEAHTN-BHdF5wJ4LAPx8tA&s=10" group-title="CANALES 24/7", 156 | El Chavo del Ocho TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="USA | CNN" tvg-name="USA | CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png" group-title="NOTICIAS E INFORMACION", 157 | CNN
+#EXTINF:-1 tvg-id="USA | CNN" tvg-name="USA | CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png" group-title="NOTICIAS E INFORMACION", 156 | CNN
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_stream_ol&_cdn_session=3547965724&_cdn_token=b8365b931694179f7944869ca02522f731f1a4ab
-#EXTINF:-1 tvg-id="USA | CNN En español" tvg-name="USA | CNN En español" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cnn-en-espanol_m.png" group-title="NOTICIAS E INFORMACION", 158 | CNN En español
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
-#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png" group-title="NOTICIAS E INFORMACION", 159 | France 24
+#EXTINF:-1 tvg-id="USA | CNN En español" tvg-name="USA | CNN En español" tvg-logo="https://cdn.mitvstatic.com/channels/pe_cnn-en-espanol_m.png" group-title="NOTICIAS E INFORMACION", 157 | CNN En español
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=4345922996&_cdn_timestamp=1794446263&packager=1&stream=video%3A0&_cdn_token=2d8baf40d864ac3adb75ba0d324750d5696ff5bf
+#EXTINF:-1 tvg-id="FR | France 24" tvg-name="FR | France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png" group-title="NOTICIAS E INFORMACION", 158 | France 24
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/250px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 160 | Noticias Caracol
+#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/250px-Noticias_Caracol_imagotype.svg.png" group-title="NOTICIAS E INFORMACION", 150 | Noticias Caracol
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=3547952644&_cdn_token=ce07a9bfd4b7cbb21d88a28f6c279bb5a24c4919
-#EXTINF:-1 tvg-id="CO | NTN24" tvg-name="CO | NTN24" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/250px-NTN24_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="NOTICIAS E INFORMACION", En prueba | NTN24
+#EXTINF:-1 tvg-id="CO | NTN24" tvg-name="CO | NTN24" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/250px-NTN24_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="NOTICIAS E INFORMACION", 160 | NTN24
 https://cdnlive.klicgo.net/rcnntn24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RU | RT" tvg-name="RU | RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="NOTICIAS E INFORMACION", 161 | RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
@@ -373,6 +371,8 @@ http://200.57.28.141:8540/play/a00z
 https://guastream.com:3017/stream/play.m3u8
 #EXTINF:-1 tvg-id="PE | EdX TV" tvg-name="PE | EdX TV" tvg-logo="https://pbs.twimg.com/media/FVzsfVnWUAc1ffp?format=png&name=240x240" group-title="DEPORTES", En prueba | EdX TV
 https://vs20.live.opencaster.com/edx_dcb7e847/index.m3u8
+#EXTINF:-1 tvg-id="PE | EdX 3 TV" tvg-name="PE | EdX 3 TV" tvg-logo="https://ibb.co/4nCp0Rxg" group-title="DEPORTES", En prueba | EdX 3 TV
+https://vs20.live.opencaster.com/edx2026_76c0bc4a/index.m3u8
 #EXTINF:-1 tvg-id="PE | Bicolor+" tvg-name="PE | Bicolor+" tvg-logo="https://yt3.googleusercontent.com/uGVt0ApLUCUmG30KH6JEOIE3ZDPuNLm37POYv9jjtnbqVzFrIQBkinbjVt7B5RiRb0ugJ6Xh-FE=s160-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", En prueba | Bicolor+
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Bitt TV" tvg-name="USA | Bitt TV" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/BITT-TV-NEGRO-1024x440.png" group-title="MUSICA Y REALITIES", 180 | Bitt TV
